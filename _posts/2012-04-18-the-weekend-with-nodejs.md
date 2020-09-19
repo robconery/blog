@@ -2,10 +2,7 @@
 layout: post
 title: The Weekend With NodeJS
 summary: "I try not to work on the weekends and instead spend the time learning something new and, hopefully, different. To that end: Tekpub jas just released <a href=\"http://tekpub.com/productions/node\">Hello NodeJS</a>. What are you doing this weekend?"
-node_title.png
-date: "2012-04-18"
-uuid: "izzDM72w-rI7q-9lQu-JC6c-nhABLWdyDtwE"
-slug: "the-weekend-with-nodejs"
+image: "/img/node_title.png"
 categories: Node
 ---
 

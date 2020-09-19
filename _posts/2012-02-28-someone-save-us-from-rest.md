@@ -2,7 +2,7 @@
 layout: post
 title: Someone Save Us From REST
 summary: "I made the mistake of publicly commenting on someone's idea of a RESTful API. And already - I've probably lost you. I don't know any single term more explosive and zeal-inducing than REST and \"what it means to be RESTful\". Oh - you say \"it's quite simple?\" You say \"what's so hard?\" Pedanticize away my pedantic pedant..."
-"2809.png"
+image: "/img/2809.png"
 date: "2012-02-28"
 uuid: "NOVd0tf0-xvCA-YIOM-Kfjf-26ZxEsrdS4Dy"
 slug: "someone-save-us-from-rest"
