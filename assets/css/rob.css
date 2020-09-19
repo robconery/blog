@@ -1,0 +1,81 @@
+a {
+  color: #BF360C;
+}
+
+
+.highlight {
+  border-radius: 12px;
+  box-shadow: 0 13px 27px -5px rgba(50,50,93,.25), 0 8px 16px -8px rgba(0,0,0,.3), 0 -6px 16px -6px rgba(0,0,0,.025)
+}
+.highlighter-rouge {
+  margin-top: 36px;
+  margin-bottom: 36px;
+}
+pre > code {
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+padding-left: 42px;
+padding-right: 32px;
+line-height: 1.6;
+width: 100%;
+display: block;
+white-space: pre;
+overflow: auto;
+font-size:14px;
+
+}
+
+p > code, li > code {
+font-family: Inconsolata, monospace, monaco, consolas, "Ubuntu Mono", "Monospace";
+font-size:14px;
+background-color: #e0f7fb;
+padding:2px;
+border:1px solid #00c3e6;
+color: #000099;
+border-radius: 4px;
+}
+
+
+.graded{
+  background: #ECE9E6;  /* fallback for old browsers */
+ background: -webkit-linear-gradient(to right, #FFFFFF, #ECE9E6);  /* Chrome 10-25, Safari 5.1-6 */
+ background: linear-gradient(to right, #FFFFFF, #ECE9E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.bluesy{
+
+ background: #ECE9E6;
+ background: -webkit-linear-gradient(to right, #FFFFFF, rgb(207, 239, 255));
+ background: linear-gradient(to left, rgb(236, 253, 253), rgb(207, 239, 255));
+}
+.striped {
+ box-shadow: 0 13px 27px -5px rgba(50,50,93,.25), 0 8px 16px -8px rgba(0,0,0,.3), 0 -6px 16px -6px rgba(0,0,0,.025)
+}
+.groovy{
+ line-height: 1.6;
+ font-family: 'Lora', serif;
+ font-style: italic;
+}
+.groovy-title{
+ line-height: 1.6;
+ font-family: 'Lora', serif;
+ font-size: 130%;
+}
+.electric {
+ background: #8A2387;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to top, #F27121, #E94057, #8A2387);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to top, #F27121, #E94057, #8A2387); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.morning{
+ background: #004FF9;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to top, #FFF94C, #004FF9);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to top, #FFF94C, #004FF9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.sunset{
+ background: #c21500;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to top, #ffc500, #c21500);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to top, #ffc500, #c21500); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}

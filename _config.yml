@@ -1,0 +1,58 @@
+# Site
+name: "robconery"
+title: "Rob Conery"
+description: "I'm Rob Conery. I am the author of The Imposter's Handbook, founder of Big Machine, and a software developer living in Honolulu, HI. I also host and produce the podcast This Developer's Life with my friend Scott Hanselman."
+logo: 'assets/img/logo.png'
+favicon: 'assets/img/me_icon.png'
+google_analytics: 'UA-85773-9'
+include: ["_pages"]
+permalink: /:year/:month/:day/:title
+
+# Authors
+authors:
+  rob:
+    name: Rob
+    display_name: Rob Conery
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: rob@conery.io
+    web: 
+    twitter: https://twitter.com/robconery
+    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    theme: monokai
+    block:
+      line_numbers: false
+
+
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]

@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1.0, maximum-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<title>Screen-Shot-2012-01-12-at-9.17.27-AM &#8211; Rob Conery</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel='dns-prefetch' href='//widgets.wp.com' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//i1.wp.com' />
+<link rel='dns-prefetch' href='//i2.wp.com' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<link rel='dns-prefetch' href='//jetpack.wordpress.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//public-api.wordpress.com' />
+<link rel='dns-prefetch' href='//0.gravatar.com' />
+<link rel='dns-prefetch' href='//1.gravatar.com' />
+<link rel='dns-prefetch' href='//2.gravatar.com' />
+<link rel="alternate" type="application/rss+xml" title="Rob Conery &raquo; Feed" href="/feed/" />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/rob.conery.io\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://c0.wp.com/c/5.4.2/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='block-gallery-frontend-css' href='/wp-content/plugins/block-gallery/dist/blocks.style.build.css?ver=1.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jr-insta-styles-css' href='/wp-content/plugins/instagram-slider-widget/assets/css/jr-insta.css?ver=1.7.11' type='text/css' media='all' />
+<link rel='stylesheet' id='mks_shortcodes_fntawsm_css-css' href='/wp-content/plugins/meks-flexible-shortcodes/css/font-awesome/css/font-awesome.min.css?ver=1.3.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='mks_shortcodes_simple_line_icons-css' href='/wp-content/plugins/meks-flexible-shortcodes/css/simple-line/simple-line-icons.css?ver=1.3.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='mks_shortcodes_css-css' href='/wp-content/plugins/meks-flexible-shortcodes/css/style.css?ver=1.3.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='wp-frontend-submit-css' href='/wp-content/plugins/wp-frontend-submit/public/css/wp-frontend-submit-public.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://c0.wp.com/c/5.4.2/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sdw-fonts-css' href='https://fonts.googleapis.com/css?family=Noto+Sans%3A400%7CLato%3A400%2C300&#038;subset=latin%2Clatin-ext&#038;ver=1.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sdw-style-css' href='/wp-content/themes/sidewalk/style.css?ver=1.4.2' type='text/css' media='all' />
+<style id='sdw-style-inline-css' type='text/css'>
+body{background: #ffffff;color: #000000}body,.post-date,select,.submit, input[type="submit"],.sdw_posts_widget .meta-item a,#comment,textarea {font-family: 'Noto Sans';font-weight: 400;}h1,h2,h3,h4,h5,h6,.sdw-prev-next-link,.sdw-prev-next-link,.comment-meta .fn,.mks_pullquote,blockquote p,.sdw-has-cover .sdw-cover-area h1, .sdw-has-cover .sdw-cover-content h1,.sdw-description p,blockquote:before, q:before,.site-title,.wp-block-cover .wp-block-cover-image-text, .wp-block-cover .wp-block-cover-text, .wp-block-cover h2, .wp-block-cover-image .wp-block-cover-image-text, .wp-block-cover-image .wp-block-cover-text, .wp-block-cover-image h2 {font-family: 'Lato';font-weight: 300;}.site-header .nav-menu a{font-family: 'Lato';font-weight: 300;}.sidr{background: #ffffff;}a,.entry-categories .post-categories li,.sidebar .sdw_posts_widget .meta-item a {color: #1e73be;}a:hover,.entry-categories .post-categories li a:hover,.sidebar .sdw_posts_widget .meta-item a:hover{color: rgba(30,115,190,0.7);}.site-title a{color: #ffffff;}.site-header{background: #ffffff;}.sdw-has-cover.sdw-cover-indent .site-header{background: rgba(255,255,255,0.2);}.site-branding{top:22px;left:0px;}.site-header{height: 120px;}.sdw-cover-indent .sdw-cover-area{margin-top: -120px;}.site-header .nav-menu > li > a,.site-header .sdw-nav-actions li a{padding: 51px 0;}.site-header .sdw-nav-search-wrap{margin: 41px 0;}.site-header .social-menu{margin: 40px 0;}.site-header .nav-menu ul,.sdw-sticky-clone,.sdw-has-cover.sdw-cover-indent .site-header.sdw-sticky-clone{background: rgba(255,255,255,0.9);}#sidr-main{background: #ffffff;}.site-header .nav-menu a,.site-header .search-input,#sidr-main a,#sidr-main ul li span,.sidr-class-search-input,.site-header .sdw-nav-search-wrap .sdw-search-input,.site-header .sdw-nav-search-wrap .sdw-search-input:focus,.site-header .social-menu li a,.site-header .social-menu li a:hover,.sdw-nav-actions li a,.sidr .sdw-nav-search-wrap .sdw-search-input{color: #000000;}.sidr .sdw-nav-search-wrap .sdw-search-input{background: rgba(153,153,153,0.2);border-color: rgba(153,153,153,0.2);}.sdw-responsive-nav, .sdw-sidebar-toggle{color: rgba(0,0,0,0.8); }.site-header .nav-menu li:hover > a,.sdw-responsive-nav:hover, .sdw-sidebar-toggle:hover,.sdw-nav-actions li a:hover{color: #00acc6;}#sidr-main a:hover,#sidr-main a:active,.sidr-class-current-menu-item > a,.sidr-class-current_page_item > a {box-shadow: 3px 0 0 #00acc6 inset;}.site-header .nav-menu > .current-menu-item{box-shadow: 0 3px 0 #00acc6 inset;}.sdw-cover-area{max-height: 800px;min-height: 800px;}.sdw-cover-overlay{background: rgba(0,0,0,0.2);}h1, h2, h3, h4, h5, h6, .prev-next-nav a span,.entry-title a,.sdw-box-title, .comment-reply-title,.comment-meta .fn{color: #222222;}.widget-title span,.sdw-box-title span,.comment-reply-title span,.sdw-featured-area .owl-controls .owl-nav > div,.mks_tab_nav_item.active{background: #ffffff;}.mks_tabs.vertical .mks_tab_nav_item.active{border-right: 1px solid #ffffff !important;}.sidebar .sdw_posts_widget a,.sidebar .widget_recent_entries a,.sidebar .widget_categories li a,.sidebar .widget_archive li a,.sidebar .widget_pages li a,.sidebar .widget_nav_menu li a,.sidebar .widget_meta li a,.sidebar .widget_recent_comments li a,.sidebar .widget_rss li a{color: #000000;}.sidebar .sdw_posts_widget a:hover,.sidebar .widget_recent_entries a:hover,.sidebar .widget_categories li a:hover,.sidebar .widget_archive li a:hover,.sidebar .widget_pages li a:hover,.sidebar .widget_nav_menu li a:hover,.sidebar .widget_meta li a:hover,.sidebar .widget_rss li a:hover,.sidebar .widget_recent_comments li a:hover,blockquote:before, q:before{color: #1e73be;}.entry-meta > div,.sdw-pn-label,.comment-metadata a,.sidebar .sdw-search-submit,.post-date,.meta-tags,.widget > select,.rss-date,.sdw-paginated-num{color: #999999;}input[type="text"], input[type="search"], input[type="email"], input[type="url"], input[type="tel"], input[type="number"], input[type="date"], input[type="password"], select, #comment, textarea{border-color: rgba(153,153,153,0.7);}#sidr-sidebar{box-shadow: 1px 0 0 rgba(153,153,153,0.7) inset;}.entry-title a:hover,.nav-menu a:hover,.prev-next-nav a:hover,.meta-action a,.sdw-share,.entry-categories .post-categories li a,.prev-next-nav a:hover span,.comment-reply-link,.comment-metadata .comment-edit-link,.sidebar .sdw-search-submit:hover,#wp-calendar tbody td a,.sdw-featured-area .owl-controls .owl-nav > div{color: #1e73be;}.meta-action a,.sdw-share,#sdw-pagination a,.comment-reply-link,.wpcf7-submit,.submit{border-color: rgba(30,115,190,0.7);}.sdw-rm a,.sdw-button-primary,.wpcf7-submit,.submit,input[type="submit"],button[type="submit"],.sdw-featured-area .owl-controls .owl-nav > div:hover,.sdw-pagination .current {background: #1e73be;color: #ffffff;border-color: #1e73be;}.wp-block-button__link{background: #1e73be;}.is-style-solid-color{background-color: #1e73be;color: #ffffff;}.wp-block-pullquote.alignwide.is-style-solid-color blockquote,.wp-block-pullquote.alignfull.is-style-solid-color blockquote{max-width: 640px;margin-left: auto;margin-right: auto;padding: 30px;}.sdw-rm a:hover,.entry-footer .sdw-comments a:hover,.sdw-share:hover,#sdw-pagination a:hover,.comment-reply-link:hover,.submit:hover,.sdw-button-primary:hover,.sdw-button-secondary:hover,.sdw-author-links a:hover,.mks_read_more a:hover,.mks_autor_link_wrap a:hover,.wpcf7-submit:hover,input[type="submit"]:hover,.tagcloud a:hover,.sdw-link-pages a:hover,.wpcf7-submit:hover,.submit:hover,input[type="submit"]:hover,.sdw-404-menu li a:hover {background: rgba(30,115,190,0.7);border-color: rgba(30,115,190,0.1);color: #ffffff;}.site-main .mejs-embed, .site-main .mejs-embed body, .sdw-post .site-main .mejs-container .mejs-controls,pre,.sdw-loader,.sdw-loader:before,.sdw-loader:after,.sdw-letter-avatar,.site-main .mejs-embed, .site-main .mejs-embed body, .site-main .mejs-container .mejs-controls{background: #1e73be;}.sdw-fa-overlay-hover{background: rgba(30,115,190,1);}.sdw-highlight .entry-wrapper,.sdw-layout-a.sdw-highlight .post-thumbnail:before,.sdw-layout-b.sdw-highlight .sdw-post-inside,.sdw-layout-c.sdw-highlight .sdw-post-inside{background: #00acc6;}.sdw-highlight .sdw-rm a{background-color: #ffffff;color: #00acc6;}.sdw-highlight .entry-footer .sdw-comments a:hover,.sdw-highlight .entry-footer .sdw-share:hover,.sdw-highlight .sdw-rm a:hover {background: rgba(255,255,255,0.9);border-color: rgba(0,172,198,0.1);color: #00acc6;}.sdw-highlight,.sdw-highlight a,.sdw-highlight .entry-title a,.sdw-highlight .entry-meta > div,.sdw-highlight .entry-footer .meta-action,.sdw-highlight .entry-categories .post-categories li a,.sdw-highlight.sdw-post.sticky .entry-title:before,.sdw-highlight .entry-categories .post-categories li:before{color: #ffffff;}.sdw-highlight .meta-action a, .sdw-highlight .sdw-share{border-color: rgba(255,255,255,0.7);}.sdw-highlight .entry-title a:hover,.sdw-highlight .entry-categories .post-categories li a:hover,.sdw-highlight .author a:hover,.sdw-highlight .sdw-comments a:hover,.sdw-highlight .entry-content a:hover{color: rgba(255,255,255,0.7);}.widget-title::after, .sdw-box-title:after,.comment-reply-title:after,.widget_recent_entries li:before,.widget_recent_comments li:before,.widget_categories li:before,.widget_archive li:before,.widget_pages li:before,.widget_nav_menu li:before,.widget_meta li:before,.widget_rss li:before,.sdw-author-box hr.nice-divider {border-bottom: 1px solid rgba(153,153,153,0.4);}.entry-content table,tr,td, th,#wp-calendar tbody td,#wp-calendar,.mks_tab_nav_item,.mks_tab_item, .mks_toggle,.mks_tabs.vertical .mks_tab_nav_item,.mks_accordion, .mks_toggle,.mks_tabs.vertical .mks_tab_nav_item.active,.mks_tabs.vertical .mks_tab_item,.mks_accordion_content, .mks_toggle_content,.mks_accordion_item,.wp-block-calendar tbody td, .wp-block-calendar th{border-color: rgba(153,153,153,0.6);}thead tr,.mks_tab_nav_item,.mks_accordion_heading, .mks_toggle_heading{background: rgba(153,153,153,0.2);}.comment .comment-respond{background: #ffffff;}.mejs-container *{font-family: 'Noto Sans' !important;}.site-footer,.site-footer .widget-title span{background: #121c20;}.site-footer .widget-title::after,.site-footer .widget li:before,.shl-footer-menu:before{border-bottom: 1px solid rgba(255,255,255,0.4);}.site-footer #wp-calendar tbody td{border-color: rgba(255,255,255,0.4);}.site-footer{color: #ffffff; }.site-footer a{color: #00acc6; }.site-footer a:hover,.site-footer .widget li > a:hover,.site-footer .widget li > div > a:hover{color: rgba(0,172,198,0.7); }.site-footer .widget-title,.site-footer .widget li > a,.site-footer .widget li > div > a,.site-footer .widget h1,.site-footer .widget h2,.site-footer .widget h3,.site-footer .widget h4,.site-footer .widget h5,.site-footer .widget h6 {color: #ffffff;}.site-footer .mks_read_more a:hover, .site-footer .mks_autor_link_wrap a:hover{ background: rgba(0,172,198,0.7);border-color: rgba(0,172,198,0.1);color: #ffffff; }.site-footer .entry-meta > div,.site-footer .sdw-search-submit,.site-footer .post-date,.site-footer .meta-tags,.site-footer .widget > select,.site-footer .rss-date,.site-footer .widget_search{color: #ffffff; }@-webkit-keyframes load1 {0%,80%,100% {box-shadow: 0 0 #1e73be;height: 2em;}40% {box-shadow: 0 -0.3em #1e73be;height: 3em;}}@keyframes load1 {0%,80%,100% {box-shadow: 0 0 #1e73be;height: 2em;}40% {box-shadow: 0 -0.3em #1e73be;height: 3em;}}.site-header .sdw-search-input::-webkit-input-placeholder { color: #000000;}.site-header .sdw-search-input:-moz-placeholder { color: #000000;}.site-header .sdw-search-input::-moz-placeholder { color: #000000;}.site-header .sdw-search-input:-ms-input-placeholder { color: #000000;}.has-small-font-size{ font-size: 13px;}.has-large-font-size{ font-size: 21px;}.has-huge-font-size{ font-size: 24px;}@media(min-width: 668px){.has-small-font-size{ font-size: 13px;}.has-normal-font-size{ font-size: 16px;}.has-large-font-size{ font-size: 23px;}.has-huge-font-size{ font-size: 29px;}}.has-sdw-acc-background-color{ background-color: #1e73be;}.has-sdw-acc-color{ color: #1e73be;}.has-sdw-txt-background-color{ background-color: #000000;}.has-sdw-txt-color{ color: #000000;}.has-sdw-meta-background-color{ background-color: #999999;}.has-sdw-meta-color{ color: #999999;}.has-sdw-bg-background-color{ background-color: #ffffff;}.has-sdw-bg-color{ color: #ffffff;}.site-title a{text-transform: uppercase;}.nav-menu li a{text-transform: uppercase;}.entry-title{text-transform: uppercase;}.sdw-title-area h1{text-transform: uppercase;}.sdw-cover-area h1{text-transform: uppercase;}.sidebar .widget-title{text-transform: uppercase;}.site-footer .widget-title{text-transform: uppercase;}
+</style>
+<link rel='stylesheet' id='sdw-responsive-css' href='/wp-content/themes/sidewalk/assets/css/responsive.css?ver=1.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wis_font-awesome-css' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wis_instag-slider-css' href='/wp-content/plugins/instagram-slider-widget/assets/css/instag-slider.css?ver=1.7.11' type='text/css' media='all' />
+<link rel='stylesheet' id='wis_wis-header-css' href='/wp-content/plugins/instagram-slider-widget/assets/css/wis-header.css?ver=1.7.11' type='text/css' media='all' />
+<link rel='stylesheet' id='meks-ads-widget-css' href='/wp-content/plugins/meks-easy-ads-widget/css/style.css?ver=2.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='meks_instagram-widget-styles-css' href='/wp-content/plugins/meks-easy-instagram-widget/css/widget.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='meks-flickr-widget-css' href='/wp-content/plugins/meks-simple-flickr-widget/css/style.css?ver=1.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='meks-author-widget-css' href='/wp-content/plugins/meks-smart-author-widget/css/style.css?ver=1.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='meks-social-widget-css' href='/wp-content/plugins/meks-smart-social-widget/css/style.css?ver=1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='meks-themeforest-widget-css' href='/wp-content/plugins/meks-themeforest-smart-widget/css/style.css?ver=1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='meks_ess-main-css' href='/wp-content/plugins/meks-easy-social-share/assets/css/main.css?ver=1.2.1' type='text/css' media='all' />
+<style id='meks_ess-main-inline-css' type='text/css'>
+
+                body .meks_ess a {
+                    background: rgba(30,115,190,0.7) !important;
+                }
+                body .meks_ess.transparent a::before, body .meks_ess.transparent a span, body .meks_ess.outline a span {
+                    color: rgba(30,115,190,0.7) !important;
+                }
+                body .meks_ess.outline a::before {
+                    color: rgba(30,115,190,0.7) !important;
+                }
+                body .meks_ess.outline a {
+                    border-color: rgba(30,115,190,0.7) !important;
+                }
+                body .meks_ess.outline a:hover {
+                    border-color: rgba(30,115,190,0.7) !important;
+                }
+            
+</style>
+<link rel='stylesheet' id='claps-applause-css' href='/wp-content/plugins/wp-claps-applause/css/claps-applause.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css' href='https://c0.wp.com/p/jetpack/8.8/css/jetpack.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://c0.wp.com/c/5.4.2/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.4.2/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='/wp-content/plugins/instagram-slider-widget/assets/js/jquery.flexslider-min.js?ver=1.7.11'></script>
+<link rel='https://api.w.org/' href='/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 5.4.2" />
+<link rel='shortlink' href='https://wp.me/a9wOMJ-gl' />
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frob.conery.io%2F2017%2F06%2F29%2Fwiring-together-serverless-routines-with-firebase%2Fscreen-shot-2012-01-12-at-9-17-27-am%2F" />
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frob.conery.io%2F2017%2F06%2F29%2Fwiring-together-serverless-routines-with-firebase%2Fscreen-shot-2012-01-12-at-9-17-27-am%2F&#038;format=xml" />
+<meta name="framework" content="Redux 4.1.3" /><style type='text/css'>img#wpstats{display:none}</style>
+
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Screen-Shot-2012-01-12-at-9.17.27-AM" />
+<meta property="og:url" content="/2017/06/29/wiring-together-serverless-routines-with-firebase/screen-shot-2012-01-12-at-9-17-27-am/" />
+<meta property="og:description" content="Visit the post for more." />
+<meta property="article:published_time" content="2018-01-12T01:59:25+00:00" />
+<meta property="article:modified_time" content="2018-01-12T01:59:25+00:00" />
+<meta property="og:site_name" content="Rob Conery" />
+<meta property="og:image" content="/img/Screen-Shot-2012-01-12-at-9.17.27-AM.png" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:text:title" content="Screen-Shot-2012-01-12-at-9.17.27-AM" />
+<meta name="twitter:image" content="https://i0.wp.com/rob.conery.io/img/Screen-Shot-2012-01-12-at-9.17.27-AM.png?fit=514%2C174&#038;ssl=1&#038;w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Visit the post for more." />
+
+<link rel="icon" href="https://i0.wp.com/rob.conery.io/img/me_icon.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i0.wp.com/rob.conery.io/img/me_icon.png?fit=50%2C50&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i0.wp.com/rob.conery.io/img/me_icon.png?fit=50%2C50&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i0.wp.com/rob.conery.io/img/me_icon.png?fit=50%2C50&#038;ssl=1" />
+<style type="text/css" id="wp-custom-css">
+				.site-main .mejs-container, .site-main .mejs-embed, .site-main .mejs-embed body, .sdw-post .site-main .mejs-container .mejs-controls, pre, .sdw-loader, .sdw-loader:before, .sdw-loader:after, .sdw-letter-avatar, .site-main .mejs-container, .site-main .mejs-embed, .site-main .mejs-embed body, .site-main .mejs-container .mejs-controls{
+    
+    background:transparent;
+}
+h2 {
+    text-transform: uppercase;
+}
+pre{
+    padding:0;
+    background-color:#fff;
+}
+tr{
+    border:0;
+}
+footer .widget p {
+    font-family: helvetica;
+}
+code{
+    font-size:1.8em;
+}
+.hljs{
+    padding:40px;
+    background-color:#fff;
+}
+pre > code {
+ -webkit-box-sizing: border-box;
+ -moz-box-sizing: border-box;
+ padding-left: 42px;
+ padding-right: 32px;
+ line-height: 1.6;
+ width: 100%;
+ display: block;
+ white-space: pre;
+ overflow: auto;
+ font-size:14px;
+}
+
+p > code, li > code {
+  font-family: monospace, monaco, consolas, "Ubuntu Mono", "Monospace";
+  font-size:14px;
+  background-color: #e0f7fb;
+  padding:1px;
+  border:1px solid #00c3e6;
+  border-radius: 4px;
+}.entry-content ul li, .sdw-comments-inside ul li {
+    list-style: disc outside;
+		margin-top:6px;
+}
+ol, ul, li {
+    list-style: none;
+}
+.hljs{
+
+    background-color:#F6F6F6;
+}			</style>
+<style id="kirki-inline-styles"></style> 
+<style>
+			</style>
+
+</head>
+<body class="attachment attachment-template-default single single-attachment postid-1013 attachmentid-1013 attachment-png wp-embed-responsive sdw-sid-none sidewalk-v_1_4_2">
+<div id="main-page" class="hfeed sdw-main-page">
+<header id="masthead" class="site-header" role="banner">
+<div class="container">
+<div class="site-branding">
+<span class="site-title">
+<a href="/" title="Rob Conery" class="main-logo has-logo "><img src="/img/blog_logo.png" alt="Rob Conery" /></a>
+</span>
+</div> <ul class="sdw-nav-actions">
+<li class="sdw-nav-search"><a href="javascript:void(0)"><i class="fa fa-search" data-wrap="sdw-nav-search-wrap" data-icon-class="fa-search"></i></a></li>
+</ul>
+<div class="sdw-nav-search-wrap"><form class="sdw-search-form" action="/" method="get">
+<input name="s" class="sdw-search-input" size="20" type="text" value="Type here to search..." onfocus="(this.value == 'Type here to search...') && (this.value = '')" onblur="(this.value == '') && (this.value = 'Type here to search...')" placeholder="Type here to search..." />
+<button type="submit" class="sdw-search-submit"><i class="fa fa-search"></i></button>
+</form></div>
+<nav id="site-navigation" class="main-navigation" role="navigation">
+<ul id="sdw_main_navigation_menu" class="nav-menu"><li id="menu-item-1052" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1052"><a href="/">Blog</a></li>
+<li id="menu-item-1051" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1051"><a href="/about-me/">About</a></li>
+<li id="menu-item-1120" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1120"><a href="https://bigmachine.io">Publications</a></li>
+<li id="menu-item-1119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1119"><a href="/podcasts/">Podcasts</a></li>
+</ul> </nav>
+<div class="sdw-res-nav">
+<a class="sdw-responsive-nav" href="javascript:void(0)"><i class="fa fa-bars"></i></a>
+</div>
+<div class="sdw-res-sid-nav">
+<a href="#sidr-sidebar" class="sdw-sidebar-toggle"><i class="fa fa-th-large"></i></a>
+</div>
+</div>
+</header>
+<div id="content" class="site-content sdw-sid-none">
+<div id="primary" class="content-area">
+<main id="main" class="site-main" role="main">
+<article id="post-1013" class="sdw-post sdw-single post-1013 attachment type-attachment status-inherit hentry">
+<div class="entry-wrapper">
+<div class="entry-header">
+<div class="entry-categories"></div>
+<h1 class="entry-title">Screen-Shot-2012-01-12-at-9.17.27-AM</h1>
+<div class="entry-meta"><div class="meta-item sdw-date"><span class="updated">3 years ago</span></div><div class="meta-item sdw-author"><span class="vcard author"><span class="fn">by <a href="/author/rob/">Rob Conery</a></span></span></div><div class="meta-item sdw-views">0 Views</div></div>
+</div>
+<div class="entry-content">
+<p class="attachment"><a href='https://i0.wp.com/rob.conery.io/img/Screen-Shot-2012-01-12-at-9.17.27-AM.png?ssl=1'><img width="300" height="102" src="https://i0.wp.com/rob.conery.io/img/Screen-Shot-2012-01-12-at-9.17.27-AM.png?fit=300%2C102&amp;ssl=1" class="attachment-medium size-medium" alt="" srcset="https://i0.wp.com/rob.conery.io/img/Screen-Shot-2012-01-12-at-9.17.27-AM.png?w=514&amp;ssl=1 514w, https://i0.wp.com/rob.conery.io/img/Screen-Shot-2012-01-12-at-9.17.27-AM.png?resize=300%2C102&amp;ssl=1 300w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<div id="pt-claps-applause-1013" class="pt-claps-applause">
+<a class="claps-button" href="/2017/06/29/wiring-together-serverless-routines-with-firebase/screen-shot-2012-01-12-at-9-17-27-am/" data-id="1013"></a>
+<span id="claps-count-1013" class="claps-count">0</span><input type="hidden" id="_wpnonce" name="_wpnonce" value="56092c63fa" /><input type="hidden" name="_wp_http_referer" value="/2017/06/29/wiring-together-serverless-routines-with-firebase/screen-shot-2012-01-12-at-9-17-27-am/" /></div>
+</div>
+<div class="entry-footer"><div class="meta-action sdw-share"><ul>
+<li>
+<span>Share</span>
+<ul class="sdw-share-items">
+<div class="meks_ess square no-labels outline"><a href="void(0);" class="meks_ess-item socicon-facebook" data-url="http://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frob.conery.io%2F2017%2F06%2F29%2Fwiring-together-serverless-routines-with-firebase%2Fscreen-shot-2012-01-12-at-9-17-27-am%2F&amp;t=Screen-Shot-2012-01-12-at-9.17.27-AM"><span>Facebook</span></a><a href="void(0);" class="meks_ess-item socicon-twitter" data-url="http://twitter.com/intent/tweet?url=https%3A%2F%2Frob.conery.io%2F2017%2F06%2F29%2Fwiring-together-serverless-routines-with-firebase%2Fscreen-shot-2012-01-12-at-9-17-27-am%2F&amp;text=Screen-Shot-2012-01-12-at-9.17.27-AM"><span>Twitter</span></a></div> </ul>
+</li>
+</ul></div></div>
+</div>
+</article>
+</main>
+<div class="sdw-post-separator sdw-post-separator-1 sdw-ps-show"></div>
+<nav class="prev-next-nav">
+</nav>
+<div class="sdw-box">
+<h3 class="sdw-box-title"><span>You may also like</span></h3>
+<div class="sdw-box-inside">
+<article id="post-1523" class="sdw-post sdw-layout-c  post-1523 post type-post status-publish format-standard has-post-thumbnail hentry category-career category-syndication category-writing tag-imposter">
+<div class="sdw-post-inside">
+<figure class="post-thumbnail">
+<a href="/2019/01/03/imposters-handbook-season-2-is-released/" title="Imposter&#8217;s Handbook, Season 2 is Released">
+<img width="140" height="79" src="https://i1.wp.com/rob.conery.io/img/2019/01/slide.jpg?fit=140%2C79&amp;ssl=1" class="attachment-sdw-lay-c size-sdw-lay-c wp-post-image" alt="" srcset="https://i1.wp.com/rob.conery.io/img/2019/01/slide.jpg?w=1200&amp;ssl=1 1200w, https://i1.wp.com/rob.conery.io/img/2019/01/slide.jpg?resize=300%2C169&amp;ssl=1 300w, https://i1.wp.com/rob.conery.io/img/2019/01/slide.jpg?resize=768%2C432&amp;ssl=1 768w, https://i1.wp.com/rob.conery.io/img/2019/01/slide.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i1.wp.com/rob.conery.io/img/2019/01/slide.jpg?resize=1100%2C619&amp;ssl=1 1100w" sizes="(max-width: 140px) 100vw, 140px" /> </a>
+</figure>
+<div class="entry-wrapper">
+<div class="entry-header">
+<div class="entry-categories"><ul class="post-categories">
+<li><a href="/category/career/" rel="category tag">Career</a></li>
+<li><a href="/category/syndication/" rel="category tag">Syndication</a></li>
+<li><a href="/category/writing/" rel="category tag">Writing</a></li></ul></div>
+<h2 class="entry-title"><a href="/2019/01/03/imposters-handbook-season-2-is-released/" title="Imposter&#8217;s Handbook, Season 2 is Released">Imposter&#8217;s Handbook, Season 2 is Released</a></h2>
+<div class="entry-meta"><div class="meta-item sdw-date"><span class="updated">2 years ago</span></div></div>
+</div>
+</div>
+</div>
+</article> <article id="post-1354" class="sdw-post sdw-layout-c  post-1354 post type-post status-publish format-standard has-post-thumbnail hentry category-career category-syndication tag-compsci tag-crypto">
+<div class="sdw-post-inside">
+<figure class="post-thumbnail">
+<a href="/2018/08/21/mod-and-remainder-are-not-the-same/" title="Mod and Remainder are not the Same">
+<img width="140" height="93" src="https://i0.wp.com/rob.conery.io/img/2018/08/mod_v_remainder.jpg?fit=140%2C93&amp;ssl=1" class="attachment-sdw-lay-c size-sdw-lay-c wp-post-image" alt="" srcset="https://i0.wp.com/rob.conery.io/img/2018/08/mod_v_remainder.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/rob.conery.io/img/2018/08/mod_v_remainder.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/rob.conery.io/img/2018/08/mod_v_remainder.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/rob.conery.io/img/2018/08/mod_v_remainder.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/rob.conery.io/img/2018/08/mod_v_remainder.jpg?resize=800%2C533&amp;ssl=1 800w, https://i0.wp.com/rob.conery.io/img/2018/08/mod_v_remainder.jpg?resize=310%2C207&amp;ssl=1 310w, https://i0.wp.com/rob.conery.io/img/2018/08/mod_v_remainder.jpg?resize=140%2C93&amp;ssl=1 140w" sizes="(max-width: 140px) 100vw, 140px" /> </a>
+</figure>
+<div class="entry-wrapper">
+<div class="entry-header">
+<div class="entry-categories"><ul class="post-categories">
+<li><a href="/category/career/" rel="category tag">Career</a></li>
+<li><a href="/category/syndication/" rel="category tag">Syndication</a></li></ul></div>
+<h2 class="entry-title"><a href="/2018/08/21/mod-and-remainder-are-not-the-same/" title="Mod and Remainder are not the Same">Mod and Remainder are not the Same</a></h2>
+<div class="entry-meta"><div class="meta-item sdw-date"><span class="updated">2 years ago</span></div></div>
+</div>
+</div>
+</div>
+</article> <article id="post-1858" class="sdw-post sdw-layout-c  post-1858 post type-post status-publish format-standard has-post-thumbnail hentry category-node category-postgres category-syndication">
+<div class="sdw-post-inside">
+<figure class="post-thumbnail">
+<a href="/2020/04/17/postgres-for-those-who-cant-even-part-3-in-the-real-world/" title="Postgres For Those Who Can&#8217;t Even, Part 3 &#8211; In The Real World">
+<img width="140" height="78" src="https://i2.wp.com/rob.conery.io/img/2020/04/shot_182-1.jpg?fit=140%2C78&amp;ssl=1" class="attachment-sdw-lay-c size-sdw-lay-c wp-post-image" alt="" srcset="https://i2.wp.com/rob.conery.io/img/2020/04/shot_182-1.jpg?w=2081&amp;ssl=1 2081w, https://i2.wp.com/rob.conery.io/img/2020/04/shot_182-1.jpg?resize=300%2C168&amp;ssl=1 300w, https://i2.wp.com/rob.conery.io/img/2020/04/shot_182-1.jpg?resize=1024%2C572&amp;ssl=1 1024w, https://i2.wp.com/rob.conery.io/img/2020/04/shot_182-1.jpg?resize=768%2C429&amp;ssl=1 768w, https://i2.wp.com/rob.conery.io/img/2020/04/shot_182-1.jpg?resize=1536%2C858&amp;ssl=1 1536w, https://i2.wp.com/rob.conery.io/img/2020/04/shot_182-1.jpg?resize=2048%2C1144&amp;ssl=1 2048w, https://i2.wp.com/rob.conery.io/img/2020/04/shot_182-1.jpg?resize=800%2C447&amp;ssl=1 800w, https://i2.wp.com/rob.conery.io/img/2020/04/shot_182-1.jpg?resize=310%2C173&amp;ssl=1 310w, https://i2.wp.com/rob.conery.io/img/2020/04/shot_182-1.jpg?resize=140%2C78&amp;ssl=1 140w, https://i2.wp.com/rob.conery.io/img/2020/04/shot_182-1.jpg?w=1280&amp;ssl=1 1280w, https://i2.wp.com/rob.conery.io/img/2020/04/shot_182-1.jpg?w=1920&amp;ssl=1 1920w" sizes="(max-width: 140px) 100vw, 140px" /> </a>
+</figure>
+<div class="entry-wrapper">
+<div class="entry-header">
+<div class="entry-categories"><ul class="post-categories">
+<li><a href="/category/node/" rel="category tag">Node</a></li>
+<li><a href="/category/postgres/" rel="category tag">Postgres</a></li>
+<li><a href="/category/syndication/" rel="category tag">Syndication</a></li></ul></div>
+<h2 class="entry-title"><a href="/2020/04/17/postgres-for-those-who-cant-even-part-3-in-the-real-world/" title="Postgres For Those Who Can&#8217;t Even, Part 3 &#8211; In The Real World">Postgres For Those Who Can&#8217;t Even, Part 3 &#8211; In The Real World</a></h2>
+<div class="entry-meta"><div class="meta-item sdw-date"><span class="updated">4 months ago</span></div></div>
+</div>
+</div>
+</div>
+</article> <article id="post-1829" class="sdw-post sdw-layout-c  post-1829 post type-post status-publish format-standard has-post-thumbnail hentry category-node category-postgres category-syndication">
+<div class="sdw-post-inside">
+<figure class="post-thumbnail">
+<a href="/2020/02/05/postgres-for-those-who-cant-even-part-2-working-with-node-and-json/" title="Postgres For Those Who Can’t Even, Part 2 &#8211; Working with Node and JSON">
+<img width="140" height="71" src="https://i1.wp.com/rob.conery.io/img/2020/02/burke_2.jpg?fit=140%2C71&amp;ssl=1" class="attachment-sdw-lay-c size-sdw-lay-c wp-post-image" alt="" srcset="https://i1.wp.com/rob.conery.io/img/2020/02/burke_2.jpg?w=781&amp;ssl=1 781w, https://i1.wp.com/rob.conery.io/img/2020/02/burke_2.jpg?resize=300%2C151&amp;ssl=1 300w, https://i1.wp.com/rob.conery.io/img/2020/02/burke_2.jpg?resize=768%2C387&amp;ssl=1 768w, https://i1.wp.com/rob.conery.io/img/2020/02/burke_2.jpg?resize=310%2C156&amp;ssl=1 310w, https://i1.wp.com/rob.conery.io/img/2020/02/burke_2.jpg?resize=140%2C71&amp;ssl=1 140w" sizes="(max-width: 140px) 100vw, 140px" /> </a>
+</figure>
+<div class="entry-wrapper">
+<div class="entry-header">
+<div class="entry-categories"><ul class="post-categories">
+<li><a href="/category/node/" rel="category tag">Node</a></li>
+<li><a href="/category/postgres/" rel="category tag">Postgres</a></li>
+<li><a href="/category/syndication/" rel="category tag">Syndication</a></li></ul></div>
+<h2 class="entry-title"><a href="/2020/02/05/postgres-for-those-who-cant-even-part-2-working-with-node-and-json/" title="Postgres For Those Who Can’t Even, Part 2 &#8211; Working with Node and JSON">Postgres For Those Who Can’t Even, Part 2 &#8211; Working with Node and JSON</a></h2>
+<div class="entry-meta"><div class="meta-item sdw-date"><span class="updated">6 months ago</span></div></div>
+</div>
+</div>
+</div>
+</article> <article id="post-1826" class="sdw-post sdw-layout-c  post-1826 post type-post status-publish format-standard has-post-thumbnail hentry category-database category-node category-postgres category-syndication">
+<div class="sdw-post-inside">
+<figure class="post-thumbnail">
+<a href="/2020/01/24/postgresql-for-those-who-cant-even-part-1/" title="PostgreSQL For Those Who Can’t Even, Part 1">
+<img width="140" height="75" src="https://i2.wp.com/rob.conery.io/img/2020/01/burke.jpg?fit=140%2C75&amp;ssl=1" class="attachment-sdw-lay-c size-sdw-lay-c wp-post-image" alt="Burke Holland, Friendo" srcset="https://i2.wp.com/rob.conery.io/img/2020/01/burke.jpg?w=808&amp;ssl=1 808w, https://i2.wp.com/rob.conery.io/img/2020/01/burke.jpg?resize=300%2C161&amp;ssl=1 300w, https://i2.wp.com/rob.conery.io/img/2020/01/burke.jpg?resize=768%2C413&amp;ssl=1 768w, https://i2.wp.com/rob.conery.io/img/2020/01/burke.jpg?resize=800%2C430&amp;ssl=1 800w, https://i2.wp.com/rob.conery.io/img/2020/01/burke.jpg?resize=310%2C167&amp;ssl=1 310w, https://i2.wp.com/rob.conery.io/img/2020/01/burke.jpg?resize=140%2C75&amp;ssl=1 140w" sizes="(max-width: 140px) 100vw, 140px" /> </a>
+</figure>
+<div class="entry-wrapper">
+<div class="entry-header">
+<div class="entry-categories"><ul class="post-categories">
+<li><a href="/category/database/" rel="category tag">Database</a></li>
+<li><a href="/category/node/" rel="category tag">Node</a></li>
+<li><a href="/category/postgres/" rel="category tag">Postgres</a></li>
+<li><a href="/category/syndication/" rel="category tag">Syndication</a></li></ul></div>
+<h2 class="entry-title"><a href="/2020/01/24/postgresql-for-those-who-cant-even-part-1/" title="PostgreSQL For Those Who Can’t Even, Part 1">PostgreSQL For Those Who Can’t Even, Part 1</a></h2>
+<div class="entry-meta"><div class="meta-item sdw-date"><span class="updated">7 months ago</span></div></div>
+</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+</div>
+<footer id="colophon" class="site-footer" role="contentinfo">
+<div class="container sdw-site-widgets">
+<div class="sdw-col first">
+<div id="sdw_posts_widget-3" class="widget sdw_posts_widget"><h4 class="widget-title"><span>Most Discussed</span></h4>
+<ul class="sdw-post-list">
+<li>
+<a href="/2019/10/29/fine-tuning-full-text-search-with-postgresql-12/" class="featured_image_sidebar" title="Fine Tuning Full Text Search with PostgreSQL 12"><span class="sdw-post-img"><img width="140" height="58" src="https://i1.wp.com/rob.conery.io/img/2019/10/screenshot_205.jpg?fit=140%2C58&amp;ssl=1" class="attachment-sdw-lay-c size-sdw-lay-c wp-post-image" alt="" srcset="https://i1.wp.com/rob.conery.io/img/2019/10/screenshot_205.jpg?w=1510&amp;ssl=1 1510w, https://i1.wp.com/rob.conery.io/img/2019/10/screenshot_205.jpg?resize=300%2C124&amp;ssl=1 300w, https://i1.wp.com/rob.conery.io/img/2019/10/screenshot_205.jpg?resize=768%2C317&amp;ssl=1 768w, https://i1.wp.com/rob.conery.io/img/2019/10/screenshot_205.jpg?resize=1024%2C423&amp;ssl=1 1024w, https://i1.wp.com/rob.conery.io/img/2019/10/screenshot_205.jpg?resize=800%2C331&amp;ssl=1 800w, https://i1.wp.com/rob.conery.io/img/2019/10/screenshot_205.jpg?resize=310%2C128&amp;ssl=1 310w, https://i1.wp.com/rob.conery.io/img/2019/10/screenshot_205.jpg?resize=140%2C58&amp;ssl=1 140w, https://i1.wp.com/rob.conery.io/img/2019/10/screenshot_205.jpg?w=1280&amp;ssl=1 1280w" sizes="(max-width: 140px) 100vw, 140px" /></span></a>
+<div class="sdw-posts-wrap">
+<a href="/2019/10/29/fine-tuning-full-text-search-with-postgresql-12/" title="Fine Tuning Full Text Search with PostgreSQL 12" class="sdw-post-link">Fine Tuning Full Text Search with PostgreSQL 12</a>
+</div>
+</li>
+<li>
+<a href="/2019/03/04/postgresql-tools-for-the-visually-inclined/" class="featured_image_sidebar" title="PostgreSQL Tools for the Visually Inclined"><span class="sdw-post-img"><img width="140" height="64" src="https://i0.wp.com/rob.conery.io/img/2019/03/screenshot_1451.png?fit=140%2C64&amp;ssl=1" class="attachment-sdw-lay-c size-sdw-lay-c wp-post-image" alt="" srcset="https://i0.wp.com/rob.conery.io/img/2019/03/screenshot_1451.png?w=1294&amp;ssl=1 1294w, https://i0.wp.com/rob.conery.io/img/2019/03/screenshot_1451.png?resize=300%2C136&amp;ssl=1 300w, https://i0.wp.com/rob.conery.io/img/2019/03/screenshot_1451.png?resize=768%2C349&amp;ssl=1 768w, https://i0.wp.com/rob.conery.io/img/2019/03/screenshot_1451.png?resize=1024%2C465&amp;ssl=1 1024w" sizes="(max-width: 140px) 100vw, 140px" /></span></a>
+<div class="sdw-posts-wrap">
+<a href="/2019/03/04/postgresql-tools-for-the-visually-inclined/" title="PostgreSQL Tools for the Visually Inclined" class="sdw-post-link">PostgreSQL Tools for the Visually Inclined</a>
+</div>
+</li>
+<li>
+<a href="/2019/10/24/virtual-computed-columns-in-postgresql-12/" class="featured_image_sidebar" title="Virtual, Computed Columns in PostgreSQL 12"><span class="sdw-post-img"><img width="140" height="44" src="https://i1.wp.com/rob.conery.io/img/2019/10/screenshot_202.jpg?fit=140%2C44&amp;ssl=1" class="attachment-sdw-lay-c size-sdw-lay-c wp-post-image" alt="" srcset="https://i1.wp.com/rob.conery.io/img/2019/10/screenshot_202.jpg?w=1019&amp;ssl=1 1019w, https://i1.wp.com/rob.conery.io/img/2019/10/screenshot_202.jpg?resize=300%2C94&amp;ssl=1 300w, https://i1.wp.com/rob.conery.io/img/2019/10/screenshot_202.jpg?resize=768%2C241&amp;ssl=1 768w, https://i1.wp.com/rob.conery.io/img/2019/10/screenshot_202.jpg?resize=800%2C251&amp;ssl=1 800w, https://i1.wp.com/rob.conery.io/img/2019/10/screenshot_202.jpg?resize=310%2C97&amp;ssl=1 310w, https://i1.wp.com/rob.conery.io/img/2019/10/screenshot_202.jpg?resize=140%2C44&amp;ssl=1 140w" sizes="(max-width: 140px) 100vw, 140px" /></span></a>
+<div class="sdw-posts-wrap">
+<a href="/2019/10/24/virtual-computed-columns-in-postgresql-12/" title="Virtual, Computed Columns in PostgreSQL 12" class="sdw-post-link">Virtual, Computed Columns in PostgreSQL 12</a>
+</div>
+</li>
+<li>
+<a href="/2019/01/09/creating-a-massively-scalable-wordpress-site-on-azures-hosted-bits/" class="featured_image_sidebar" title="Creating a Massively Scalable WordPress Site on Azure&#8217;s Hosted Bits"><span class="sdw-post-img"><img width="140" height="92" src="https://i2.wp.com/rob.conery.io/img/2019/01/screenshot_1344.jpg?fit=140%2C92&amp;ssl=1" class="attachment-sdw-lay-c size-sdw-lay-c wp-post-image" alt="" srcset="https://i2.wp.com/rob.conery.io/img/2019/01/screenshot_1344.jpg?w=1358&amp;ssl=1 1358w, https://i2.wp.com/rob.conery.io/img/2019/01/screenshot_1344.jpg?resize=300%2C198&amp;ssl=1 300w, https://i2.wp.com/rob.conery.io/img/2019/01/screenshot_1344.jpg?resize=768%2C507&amp;ssl=1 768w, https://i2.wp.com/rob.conery.io/img/2019/01/screenshot_1344.jpg?resize=1024%2C676&amp;ssl=1 1024w, https://i2.wp.com/rob.conery.io/img/2019/01/screenshot_1344.jpg?resize=1100%2C726&amp;ssl=1 1100w, https://i2.wp.com/rob.conery.io/img/2019/01/screenshot_1344.jpg?resize=400%2C260&amp;ssl=1 400w, https://i2.wp.com/rob.conery.io/img/2019/01/screenshot_1344.jpg?w=1280&amp;ssl=1 1280w" sizes="(max-width: 140px) 100vw, 140px" /></span></a>
+<div class="sdw-posts-wrap">
+<a href="/2019/01/09/creating-a-massively-scalable-wordpress-site-on-azures-hosted-bits/" title="Creating a Massively Scalable WordPress Site on Azure&#8217;s Hosted Bits" class="sdw-post-link">Creating a Massively Scalable WordPress Site on...</a>
+</div>
+</li>
+<li>
+<a href="/2019/02/02/random-travel-hacks/" class="featured_image_sidebar" title="Random Travel Hacks"><span class="sdw-post-img"><img width="140" height="81" src="https://i0.wp.com/rob.conery.io/img/2019/02/screenshot_63.jpg?fit=140%2C81&amp;ssl=1" class="attachment-sdw-lay-c size-sdw-lay-c wp-post-image" alt="" srcset="https://i0.wp.com/rob.conery.io/img/2019/02/screenshot_63.jpg?w=1563&amp;ssl=1 1563w, https://i0.wp.com/rob.conery.io/img/2019/02/screenshot_63.jpg?resize=300%2C174&amp;ssl=1 300w, https://i0.wp.com/rob.conery.io/img/2019/02/screenshot_63.jpg?resize=768%2C445&amp;ssl=1 768w, https://i0.wp.com/rob.conery.io/img/2019/02/screenshot_63.jpg?resize=1024%2C594&amp;ssl=1 1024w, https://i0.wp.com/rob.conery.io/img/2019/02/screenshot_63.jpg?w=1280&amp;ssl=1 1280w" sizes="(max-width: 140px) 100vw, 140px" /></span></a>
+<div class="sdw-posts-wrap">
+<a href="/2019/02/02/random-travel-hacks/" title="Random Travel Hacks" class="sdw-post-link">Random Travel Hacks</a>
+</div>
+</li>
+</ul>
+</div> </div>
+<div class="sdw-col">
+<div id="custom_html-8" class="widget_text widget widget_custom_html"><h4 class="widget-title"><span>Self-taught Programmer Like Me?</span></h4><div class="textwidget custom-html-widget">Don’t have a CS degree? Neither do I! That’s why I wrote this book: to fill the gaps in my career. The result? 700+ pages of essentials skills and ideas every developer should know.
+<p style="text-align: center;"><a href="https://goo.gl/W9Gnxo" target="_blank" rel="noopener noreferrer">
+<img style="height: 300px;" src="/img/imposter_cover.png" alt="The Imposter's Handbook" />
+</a></p></div></div> </div>
+<div class="sdw-col">
+<div id="sdw_posts_widget-4" class="widget sdw_posts_widget"><h4 class="widget-title"><span>Featured Posts</span></h4>
+<ul class="sdw-post-big">
+<li>
+<a href="/2019/01/03/imposters-handbook-season-2-is-released/" class="featured_image_sidebar" title="Imposter&#8217;s Handbook, Season 2 is Released"><span class="sdw-post-img"><img width="310" height="174" src="https://i1.wp.com/rob.conery.io/img/2019/01/slide.jpg?fit=310%2C174&amp;ssl=1" class="attachment-sdw-lay-b size-sdw-lay-b wp-post-image" alt="" srcset="https://i1.wp.com/rob.conery.io/img/2019/01/slide.jpg?w=1200&amp;ssl=1 1200w, https://i1.wp.com/rob.conery.io/img/2019/01/slide.jpg?resize=300%2C169&amp;ssl=1 300w, https://i1.wp.com/rob.conery.io/img/2019/01/slide.jpg?resize=768%2C432&amp;ssl=1 768w, https://i1.wp.com/rob.conery.io/img/2019/01/slide.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i1.wp.com/rob.conery.io/img/2019/01/slide.jpg?resize=1100%2C619&amp;ssl=1 1100w" sizes="(max-width: 310px) 100vw, 310px" /></span></a>
+<div class="sdw-posts-wrap">
+<a href="/2019/01/03/imposters-handbook-season-2-is-released/" title="Imposter&#8217;s Handbook, Season 2 is Released" class="sdw-post-link">Imposter&#8217;s Handbook, Season 2 is Released</a>
+</div>
+</li>
+<li>
+<a href="/2018/07/05/a-pure-postgresql-document-database-api/" class="featured_image_sidebar" title="A Pure PostgreSQL Document Database API"><span class="sdw-post-img"><img width="310" height="169" src="https://i1.wp.com/rob.conery.io/img/2018/07/lamp-3121677_1280.jpg?fit=310%2C169&amp;ssl=1" class="attachment-sdw-lay-b size-sdw-lay-b wp-post-image" alt="" srcset="https://i1.wp.com/rob.conery.io/img/2018/07/lamp-3121677_1280.jpg?w=1280&amp;ssl=1 1280w, https://i1.wp.com/rob.conery.io/img/2018/07/lamp-3121677_1280.jpg?resize=300%2C163&amp;ssl=1 300w, https://i1.wp.com/rob.conery.io/img/2018/07/lamp-3121677_1280.jpg?resize=768%2C418&amp;ssl=1 768w, https://i1.wp.com/rob.conery.io/img/2018/07/lamp-3121677_1280.jpg?resize=1024%2C558&amp;ssl=1 1024w, https://i1.wp.com/rob.conery.io/img/2018/07/lamp-3121677_1280.jpg?resize=800%2C436&amp;ssl=1 800w, https://i1.wp.com/rob.conery.io/img/2018/07/lamp-3121677_1280.jpg?resize=310%2C169&amp;ssl=1 310w, https://i1.wp.com/rob.conery.io/img/2018/07/lamp-3121677_1280.jpg?resize=140%2C76&amp;ssl=1 140w" sizes="(max-width: 310px) 100vw, 310px" /></span></a>
+<div class="sdw-posts-wrap">
+<a href="/2018/07/05/a-pure-postgresql-document-database-api/" title="A Pure PostgreSQL Document Database API" class="sdw-post-link">A Pure PostgreSQL Document Database API</a>
+</div>
+</li>
+</ul>
+</div> </div>
+<div class="sdw-post-separator sdw-post-separator-1"></div>
+</div>
+<div class="container">
+<div class="site-info ">
+<div class="sdw-left">
+Copyright © 2018 Rob Conery. </div>
+</div>
+</div>
+</footer>
+</div>
+<link rel='stylesheet' id='hljstheme-css' href='//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/obsidian.min.css?ver=0.6.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/8.8/_inc/build/photon/photon.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/rob.conery.io\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2'></script>
+<script type='text/javascript' src='/wp-content/plugins/meks-flexible-shortcodes/js/main.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ptajax = {"ajaxurl":"https:\/\/rob.conery.io\/wp-admin\/admin-ajax.php","noImageURLError":"Please enter a valid image URL!","ImageLimiteURLError":"You are only allowed to upload up to 3 images!","noImageUploadError":"No image is selected!","noTitleError":"You must provide a title. What are you publishing?","noImageError":"Please add at least one image to your post.","ImageSuccess":"Your image has been added successfully","UserNameError":"Please enter your Name!","UserEmailError":"Please enter a valid Email!"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/wp-frontend-submit/public/js/wp-frontend-submit-public.js?ver=1.0.0'></script>
+<script type='text/javascript' src='/wp-content/themes/sidewalk/assets/js/jquery.magnific-popup.min.js?ver=1.4.2'></script>
+<script type='text/javascript' src='/wp-content/themes/sidewalk/assets/js/sticky-kit.js?ver=1.4.2'></script>
+<script type='text/javascript' src='/wp-content/themes/sidewalk/assets/js/owl.carousel.min.js?ver=1.4.2'></script>
+<script type='text/javascript' src='/wp-content/themes/sidewalk/assets/js/jquery.fitvids.js?ver=1.4.2'></script>
+<script type='text/javascript' src='/wp-content/themes/sidewalk/assets/js/jquery.sidr.min.js?ver=1.4.2'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.4.2/wp-includes/js/imagesloaded.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sdw_js_settings = {"sticky_header":"","sticky_header_offset":"600","logo_retina":"https:\/\/rob.conery.io\/wp-content\/uploads\/blog_logo_ret.png","mobile_logo_retina":"","rtl_mode":"false","lay_fa_autoplay":"false","lay_fa_autoplay_time":"3","ajax_url":"https:\/\/rob.conery.io\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/themes/sidewalk/assets/js/main.js?ver=1.4.2'></script>
+<script type='text/javascript' src='/wp-content/plugins/meks-easy-social-share/assets/js/main.js?ver=1.2.1'></script>
+<script type='text/javascript' src='/wp-content/plugins/wp-claps-applause/js/js.cookie.js?ver=2.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var clapsapplause = {"ajax_url":"https:\/\/rob.conery.io\/wp-admin\/admin-ajax.php","lovedText":"","loveText":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/wp-claps-applause/js/claps-applause.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.4.2/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js?ver=0.6.2'></script>
+<style>code.hljs {padding:18px; border-radius: 12px}</style>
+<script type="text/javascript">
+    (function($, window) {
+        var init_fn_flag = false;
+        var init_fn = (function() {
+            if (init_fn_flag)
+                return;
+            init_fn_flag = true;
+             hljs.configure({"tabReplace":"    "});
+            $('pre code').each(function(i, block) {
+                hljs.highlightBlock(block);
+            });
+        });
+        $(document).ready(init_fn);
+        $(window).on("load", init_fn);
+    })(jQuery, window);
+    </script>
+<script type='text/javascript' src='https://stats.wp.com/e-202033.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.8',blog:'140808741',post:'1013',tz:'-10',srv:'rob.conery.io'} ]);
+	_stq.push([ 'clickTrackerInit', '140808741', '1013' ]);
+</script>
+</body>
+</html>
+
+

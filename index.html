@@ -1,0 +1,69 @@
+---
+layout: default
+title: Home
+---
+
+{% if page.url == "/" %}
+
+<div class="jumbotron p-4 p-md-5 rounded " style="background-color:white">
+    <div class="text-center">
+        <h1 class="display-3">Hi! I'm Rob Conery</h1>
+        <p class="lead my-3">I am the author of <a href="https://bigmachine.io/products/the-imposters-handbook">The Imposter's Handbook</a>, founder of <a href="https://bigmachine.io/products/the-imposters-handbook">Big Machine</a>, and a software developer living in Honolulu, HI. I also host and produce the podcast <a href="http://thisdeveloperslife.com">This Developer's Life</a> with my friend Scott Hanselman.</p>
+    </div>
+</div>
+
+
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+    <div class="section-title">
+        <h2><span>Featured</span></h2>
+    </div>
+    <div class="row">
+
+    {% for post in site.posts %}
+
+        {% if post.featured == true %}
+
+            {% include featuredbox.html %}
+
+        {% endif %}
+
+    {% endfor %}
+
+    </div>
+</section>
+
+{% endif %}
+
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
+
+    <div class="section-title">
+
+        <h2><span>All Stories</span></h2>
+
+    </div>
+
+    <div class="row listrecent">
+
+        {% for post in paginator.posts %}
+
+        {% include postbox.html %}
+
+        {% endfor %}
+
+    </div>
+
+</section>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<span class="navigation" role="navigation">
+    {% include pagination.html %}
+</span>
+</div>
+
