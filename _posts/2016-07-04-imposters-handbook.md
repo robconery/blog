@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Writing A Book: The Imposter's Handbook"
-image: 'imposter_slide.png'
+image: '/img/imposter_slide.png'
 featured: true
 categories: Writing Career
 summary: "There is so much I don't know about Computer Science. I figured I'd share that with you"
