@@ -71,7 +71,7 @@ What I'd like in a `save_document` function is the ability to...
  - Create the necessary indexes
  - Create timestamps and a searchable field (for Full Text indexing)
 
-I can do this by creating my own function `save_document` and, for fun I'll use PLV8 - *Javascript in the database*. In fact I'll create two functions - one that specifically creates my table, and another that saves the document itself.
+I can do this by creating my own function `save_document` and, for fun I'll use PLV8 - *JavaScript in the database*. In fact I'll create two functions - one that specifically creates my table, and another that saves the document itself.
 
 First, `create_document_table`:
 
@@ -92,7 +92,7 @@ as $$
 $$ language plv8;
 ```
 
-This function creates a table and appropriate indexes - one for the `jsonb` field in our document table, the other for the `tsvector` full text index. You'll notice that I'm building SQL strings on the fly and executing with `plv8` - that's the way you do it with Javascript in Postgres.
+This function creates a table and appropriate indexes - one for the `jsonb` field in our document table, the other for the `tsvector` full text index. You'll notice that I'm building SQL strings on the fly and executing with `plv8` - that's the way you do it with JavaScript in Postgres.
 
 Next, let's create our `save_document` function:
 
@@ -125,7 +125,7 @@ $$ language plv8;
 
 I'm sure this function looks a bit strange, but if you read through each line you should be able to figure out a few things. But why the `JSON.parse()` call?
 
-This is because the Postgres `jsonb` type is not really JSON here - it's a string. Outside our PLV8 bits is still Postgres World and it works with JSON as a string (storing it in `jsonb` in a binary format). So, when our document is passed to our function it's as a string, which we need to parse if we want to work with it as a JSON object in Javascript.
+This is because the Postgres `jsonb` type is not really JSON here - it's a string. Outside our PLV8 bits is still Postgres World and it works with JSON as a string (storing it in `jsonb` in a binary format). So, when our document is passed to our function it's as a string, which we need to parse if we want to work with it as a JSON object in JavaScript.
 
 In the insert clause you'll notice that I have to synchronize the ID of the document with that of the primary key that was just created. A little cumbersome, but it works fine.
 
@@ -133,9 +133,9 @@ Finally - you'll notice that in the original insert call as well as the update, 
 
 This can be really confusing. If I try to send in `doc` (our JSON.parsed object) it will get turned into `[Object object]` by plv8. Which is weird.
 
-Moreover if I try to return a Javascript object from this function (say, our `doc` variable) - I'll get an error that it's an invalid format for the type JSON. Which is *ultra confusing*.
+Moreover if I try to return a JavaScript object from this function (say, our `doc` variable) - I'll get an error that it's an invalid format for the type JSON. Which is *ultra confusing*.
 
-For our result I'm simply returning the body from our query result - and it's a string, believe it or not, and I can just pass it straight through as a result. I should note here as well that all results from `plv8.execute` return an Array of items that you can work with as Javascript objects.
+For our result I'm simply returning the body from our query result - and it's a string, believe it or not, and I can just pass it straight through as a result. I should note here as well that all results from `plv8.execute` return an Array of items that you can work with as JavaScript objects.
 
 ## The Result
 

@@ -58,7 +58,7 @@ var api = {
       {name: "All Productions",        url : "http://tekpub.com/channels"},
       {name: "Microsoft Productions",  url : "http://tekpub.com/channels/microsoft"},
       {name: "Ruby Productions",       url : "http://tekpub.com/channels/ruby"},
-      {name: "Javascript Productions", url : "http://tekpub.com/channels/javascript"},
+      {name: "JavaScript Productions", url : "http://tekpub.com/channels/javascript"},
       {name: "Featured Productions",   url : "http://tekpub.com/channels/featured"},
       {name: "Recent Episodes",        url : "http://tekpub.com/recent"}
   ],

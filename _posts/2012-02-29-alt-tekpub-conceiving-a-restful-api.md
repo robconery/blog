@@ -65,7 +65,7 @@ So let's start there: **what do users do when they come to Tekpub**? The answer 
 
 1. **Featured** - productions we're proud of or we think people might really enjoy
 2. **Recent Episodes** - things we just released
-3. **Categorized**: grouped by some relationship, such as ".NET", "Ruby", or "Javascript"
+3. **Categorized**: grouped by some relationship, such as ".NET", "Ruby", or "JavaScript"
 
 There are probably more ways to group this - but let's start here.
 

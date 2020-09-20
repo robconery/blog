@@ -12,7 +12,7 @@ categories: Postgres
 ## Postgres.app
 Some buzz going around the web today about [Postgres.app](http://postgresapp.com/). Most people don't understand why it's interesting - so here's a quick explanation.
 
-Postgres can be configured with a lot of interesting options - the ability to run Geospatial indexing (PostGIS), creating functions with Ruby and Javascript, and extending the query engine to go up against remote sources like GMail. These features need to be compiled with the core code - something that can be a bit of a pain even when using Homebrew on your Mac.
+Postgres can be configured with a lot of interesting options - the ability to run Geospatial indexing (PostGIS), creating functions with Ruby and JavaScript, and extending the query engine to go up against remote sources like GMail. These features need to be compiled with the core code - something that can be a bit of a pain even when using Homebrew on your Mac.
 
 Homebrew simply grabs the source and compiles it based on common usage patterns replicated in the "recipe". Postgres.app is precompiled and runs as a little daemon that you can turn on and off when needed. Just download it, drag it into your Applications directory and you're done.
 
@@ -70,7 +70,7 @@ This reduced our SO data dump from 24 gigs down to 6 - which is a huge savings. 
 There's so much more to write about what Postgres can do -  instead I'll just link to a presentation I gave at NDC 2012 - [5 Things You Didn't Know About PostgreSQL](https://vimeo.com/43536445). I cover things like:
 
 * Querying Twitter with Foreign Data Wrappers
-* Writing Functions in Javascript using Google's V8 Engine
+* Writing Functions in JavaScript using Google's V8 Engine
 * Dumb MySQL tricks
 * Avoiding locks with Postgres default, built-in snapshotting
 * Table Inheritance

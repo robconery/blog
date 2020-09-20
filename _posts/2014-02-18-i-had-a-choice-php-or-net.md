@@ -91,11 +91,11 @@ It's likely that history would be aligned here, but **one major thing would be d
 
  - Know Linux a whole lot better
  - Be very familiar with MySQL and other Open databases
- - Be less scared of Javascript then I was 4 years ago
+ - Be less scared of JavaScript then I was 4 years ago
  - Be less reliant on an IDE
  - Love HTML and CSS
 
-This is the one shining negative here: .NET stunted my knowledge of HTML/CSS/Javascript. I don't need to tell you how important these things are and will always be.
+This is the one shining negative here: .NET stunted my knowledge of HTML/CSS/JavaScript. I don't need to tell you how important these things are and will always be.
 
 In addition I became used to "Visual Tools" and still fight this every day. I'm used to a tree view of tables in my database and files in my web project. Visual Development is burned into my brain! GAH!
 

@@ -68,7 +68,7 @@ var Writer = function(schema){
 module.exports = Writer;
 ```
 
-Here I'm using a simple constructor to kick up a Writer "class" (Javascript is a classless language but many use the term "class" to describe what I've just written). 
+Here I'm using a simple constructor to kick up a Writer "class" (JavaScript is a classless language but many use the term "class" to describe what I've just written). 
 
 But is this going to conform to my tests? Let's see...
 

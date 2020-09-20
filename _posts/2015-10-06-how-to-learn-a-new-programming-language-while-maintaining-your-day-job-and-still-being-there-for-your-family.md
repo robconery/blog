@@ -25,7 +25,7 @@ This post will be a combination of "lifehack" stuff as well as tangible steps I 
  - SQL/PLPGSQL
  - C#
  - Ruby
- - Javascript
+ - JavaScript
 
 These are in no particular order and we could argue whether SQL is really a programming language but I've [programmed systems using PLPGSQL](https://github.com/robconery/pg_auth) so I say it is :p.
 
@@ -54,7 +54,7 @@ You're opening a door here, not solving a problem. Even if nothing amounts from 
 
 When you do learn it you might find yourself creating something fun or solving a problem in a more elegant way that you can bring back to your day job. I did just this when I learned Ruby - my brain exploded with ideas and I created Subsonic and a number of other projects inspired by the language.
 
-And you never know what could happen in a few years' time. Ruby and Javascript didn't have much of a market years ago, neither did Java and .NET. Be ahead of the curve - or **define the damn curve yourself**.
+And you never know what could happen in a few years' time. Ruby and JavaScript didn't have much of a market years ago, neither did Java and .NET. Be ahead of the curve - or **define the damn curve yourself**.
 
 Decide. Just... **Decide**. Now let's...
 

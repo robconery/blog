@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ember: Baby Steps"
-summary: "If you read my blog, you know I've been goofing around with quite a few Javascript libraries. Some are easier than others. This time, it's Ember's turn."
+summary: "If you read my blog, you know I've been goofing around with quite a few JavaScript libraries. Some are easier than others. This time, it's Ember's turn."
 image: /img/ember_get_started.png
 date: "2013-03-20"
 uuid: "f6o9urOM-R1ZF-mxlN-6H3w-7MwSWvInbFXw"
@@ -107,7 +107,7 @@ The simplest view to create is the overall application view - let's add that to 
   </body>
 ```
 
-This script tag is a Handlebars template. If you don't know what that is: it's just like an ERB template in Rails (or a Razor template in ASP.NET MVC) except it works with Javascript on the client.
+This script tag is a Handlebars template. If you don't know what that is: it's just like an ERB template in Rails (or a Razor template in ASP.NET MVC) except it works with JavaScript on the client.
 
 Handlebars is pretty simple to use, and Ember extends some of its functionality to make it work happily with the Ember bits.
 

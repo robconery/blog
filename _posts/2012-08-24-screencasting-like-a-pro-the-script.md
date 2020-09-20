@@ -31,13 +31,13 @@ Just like an essay, start off with your abstract - but remember you're writing d
 
 Here's one way to do it:
 
-> BackboneJS was written by Jeremy Ashkenas of Document Cloud and is a popular MVC (Model, View, Controller) framework for Javascript. Its focus is to help you create compelling, feature-rich Javascript applications, providing much-needed structure at the right level of abstraction.
+> BackboneJS was written by Jeremy Ashkenas of Document Cloud and is a popular MVC (Model, View, Controller) framework for JavaScript. Its focus is to help you create compelling, feature-rich JavaScript applications, providing much-needed structure at the right level of abstraction.
 
 That's a pretty concise, complete description of what Backbone is - and is something you might find in an abstract somewhere. Now, **try reading it aloud - as if to a friend**. Can you imagine? You're out having a beer and someone says "Hey what's Backbone all about, anyway?". Read it aloud again... framing it as your answer.
 
 Let's try this again - remembering that we're introducing Backbone to people and giving them a reason to be interested in our screencast:
 
-> BackboneJS is the most popular Javascript MVC framework - loved because it's small, simple to use, keeps you out of trouble when things get complex (which is pretty normal for any Javascript application). It was written by Jeremy Ashkenas - the same Jeremy Ashkenas that created CoffeeScript - and was extracted from the work he was doing for the New York Times and Document Cloud.
+> BackboneJS is the most popular JavaScript MVC framework - loved because it's small, simple to use, keeps you out of trouble when things get complex (which is pretty normal for any JavaScript application). It was written by Jeremy Ashkenas - the same Jeremy Ashkenas that created CoffeeScript - and was extracted from the work he was doing for the New York Times and Document Cloud.
 
 Do you see the difference? Hopefully you do - we've conveyed the same core ideas: Backbone is popular, it's an MVC framework written by Jeremy, and it's small.
 
@@ -74,7 +74,7 @@ It was embarrassing - someone noticed and called me out on Twitter. Weird the wa
 
 As you're writing out your script, remember it's a dialog. Hear your words in the viewer's mind and try to answer questions they'll have:
 
-> BackboneJS is just one of many Javascript app-building frameworks. Many love it because it's small, but some feel that it doesn't do enough for the developer so other frameworks - like EmberJS and Angular - popped up later on.
+> BackboneJS is just one of many JavaScript app-building frameworks. Many love it because it's small, but some feel that it doesn't do enough for the developer so other frameworks - like EmberJS and Angular - popped up later on.
 
 Along these lines it really helps to know your audience. At Tekpub we have a large Microsoft customer base - so I might throw in something like this as well:
 

@@ -34,7 +34,7 @@ Here are your Use Cases - they're simple and straightforward. **I realize your t
 This is step one: simple authentication and then consumption of basic data. The client will be HTML, JS, and Mobile.
 
 1. **Logging In**. Customer comes to the app and logs in with email and password. A token is returned by the server upon successful authentication and a message is also received (like "thanks for logging in").
-2. **Productions**. Joe User is logged in and wants to see what he can watch. He chooses to browse all productions and can see on the app which ones he is aloud to watch and which ones he isn't. He then chooses to narrow his selection by category: Microsoft, Ruby, Javascript, Mobile. Once a production is selected, a list of Episodes is displayed with summary information. Joe wants to view Episode 2 of Real World ASP.NET MVC3 - so he selects it. The video starts.
+2. **Productions**. Joe User is logged in and wants to see what he can watch. He chooses to browse all productions and can see on the app which ones he is aloud to watch and which ones he isn't. He then chooses to narrow his selection by category: Microsoft, Ruby, JavaScript, Mobile. Once a production is selected, a list of Episodes is displayed with summary information. Joe wants to view Episode 2 of Real World ASP.NET MVC3 - so he selects it. The video starts.
 3. **Episodes**. Kelly User watches our stuff on her way to work every day, and when she gets on the train will check and see if we've pushed any new episodes recently. A list of 5 episodes comes up - she chooses one, and watches it on her commute.
 
 OK - that's it! What I would specifically love is less guidance and postulation, more URLs.Thanks so much for your time - hopefully this will be a good learning experience for all.

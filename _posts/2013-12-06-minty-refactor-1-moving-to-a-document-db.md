@@ -153,7 +153,7 @@ I added some helper modules that do nice things for you when working with Node:
  - [date-utils](https://github.com/JerrySievert/node-date-utils): I can't emphasize enough how much I love this library. Date math, nice formatting, some date sugar - it's great.
  - [node-uuid](https://github.com/broofa/node-uuid): a handy library that creates GUIDs for you. It will create them in sequential order based on time, or randomly.
 
-This is a POJO (Plain Old Javascript Object) and it makes me very happy. I also defined an Author in the same way I've been doing:
+This is a POJO (Plain Old JavaScript Object) and it makes me very happy. I also defined an Author in the same way I've been doing:
 
 ```javascript
 var assert = require("assert");

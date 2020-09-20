@@ -116,7 +116,7 @@ This one is a bit funkier. My result here is a `setof jsonb`, which means I need
 
 Once I get the results (which are rows from our document table), I need to loop over that set and push the `jsonb` body field into an array, which I then return.
 
-This works because the `body` field is `jsonb` which, essentially, is text. It's not a Javascript object because, if it was, I'd get an error (the old [Object object] parsing silliness).
+This works because the `body` field is `jsonb` which, essentially, is text. It's not a JavaScript object because, if it was, I'd get an error (the old [Object object] parsing silliness).
 
 ## SQL Injection
 

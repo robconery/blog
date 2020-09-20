@@ -16,7 +16,7 @@ I know nothing about Elixir short of 6 chapters I read in a book over the weeken
 
 For me it's both a positive and a negative reason. I remember the joy I felt when Ruby/Rails hit the scene, dragging me away from .NET. Five or so years later, Node came along and made life so much simpler - moving away from the monolithic web monster that's so easy to create with Rails.
 
-But Node is Javascript, and to be honest my programming skills have eroded **tremendously** since I started doing Node full time over the last 4 years or so. I found this out when I tried to write some C# a few weeks ago. Ugh.
+But Node is JavaScript, and to be honest my programming skills have eroded **tremendously** since I started doing Node full time over the last 4 years or so. I found this out when I tried to write some C# a few weeks ago. Ugh.
 
 C# introduced me to some very interesting programming concepts, which I further exercised with Ruby and then flat-out ditched while working with JavaScript. Sigh.
 

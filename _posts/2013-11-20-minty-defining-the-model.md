@@ -72,7 +72,7 @@ Here I'm following what the Sequelize docs say to do and I'm hard-coding (for no
 
 The first line makes sure we have some arguments - I'm using Node's built-in assertion library to confirm we have a connection argument, and that it has a db setting.
 
-The next line is making sure I keep a reference to `this` to avoid Javascript's notorious scoping issues.
+The next line is making sure I keep a reference to `this` to avoid JavaScript's notorious scoping issues.
 
 The final bit is simply telling Sequelize where the database is and how to behave. 
 

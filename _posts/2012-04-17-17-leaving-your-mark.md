@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Leaving Your Mark
-summary: "Don Syme makes a very interesting postulation <a href=\"http://blogs.msdn.com/b/dsyme/archive/2012/04/12/is-javascript-code-always-so-full-of-bugs.aspx\" target = \"_blank\">over on his blog</a>: \"Is Javascript code always so full of bugs?\" His post goes on to show what happens when you turn on script errors in IE - which is striking. But is it really that easy?"
+summary: "Don Syme makes a very interesting postulation <a href=\"http://blogs.msdn.com/b/dsyme/archive/2012/04/12/is-javascript-code-always-so-full-of-bugs.aspx\" target = \"_blank\">over on his blog</a>: \"Is JavaScript code always so full of bugs?\" His post goes on to show what happens when you turn on script errors in IE - which is striking. But is it really that easy?"
 image: /img/makersmark.png
 date: "2012-04-17"
 uuid: "QCREXtDp-mTzZ-QOiV-mXMw-NSDd7D2dQF9h"
@@ -14,13 +14,13 @@ The rampant amount of errors you run across (if you use IE with script error not
 
 >[Guess a sloppy language encourages sloppy practices](https://twitter.com/migueldeicaza/status/192364208007036928)
 
-A broad stroke, but you can't deny that Javascript has a number of pain points. Inexperience writing in a painful language on top of shifting platforms (browsers) with changing standards... it's easy to agree with Miguel's sentence.
+A broad stroke, but you can't deny that JavaScript has a number of pain points. Inexperience writing in a painful language on top of shifting platforms (browsers) with changing standards... it's easy to agree with Miguel's sentence.
 
 But it made me wonder: 
 
-> Do we get mad at Javascript so much because we can see the problems so readily? 
+> Do we get mad at JavaScript so much because we can see the problems so readily? 
 
-It's right in front of our noses (especially if you have script errors on) - and the source is there for everyone to read and run through JSLint (Javascript validator).
+It's right in front of our noses (especially if you have script errors on) - and the source is there for everyone to read and run through JSLint (JavaScript validator).
 
 _**Side note**: for fun I ran Don's blog through JSLint and it was red red and more red. This isn't a critique of Don, more of a **wow dude might be more right than he knows** kind of thing._
 
@@ -36,7 +36,7 @@ I think blaming a language for being sloppy is probably a bit off base - [as Phi
 I think Phil's right. But it brings up a question: *when you write code, how many errors do you write per hour?* And, more importantly, how do you know they're there and then fix them?
 
 ## Forged From The Fiery Pits of Exception Hell
-Think of all the code you've written over the years - Javascript, Ruby, PHP, C# - whatever. Where is it now? How many bugs, logic errors and overall madness have you given birth to?
+Think of all the code you've written over the years - JavaScript, Ruby, PHP, C# - whatever. Where is it now? How many bugs, logic errors and overall madness have you given birth to?
 
 About 1 time out of 9 I can write a routine that works the first time. And when that happens I usually let out a "YIP!" - and then immediately distrust whatever it was that I wrote.
 

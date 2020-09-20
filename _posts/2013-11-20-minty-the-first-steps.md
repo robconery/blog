@@ -39,7 +39,7 @@ I have a basic set of requirements, this next part is critical: _do I start spik
 
 Sometimes I start spiking because you start to see various ways of doing things that might not be apparent later on.
 
-For instance - I could write an Article "class" (which isn't really a class because Javascript doesn't have this notion but it's close enough) and see what jogs my brain:
+For instance - I could write an Article "class" (which isn't really a class because JavaScript doesn't have this notion but it's close enough) and see what jogs my brain:
 
 ```javascript
 var Article = function(args){

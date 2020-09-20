@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EmberJS Confuses Me
-summary: "I've been teeth-deep in Client-side Javascript frameworks over the last 4 months for Tekpub. This month is Angular, last month was Ember's turn and I gave up. It's the first time I've given up - here's why."
+summary: "I've been teeth-deep in Client-side JavaScript frameworks over the last 4 months for Tekpub. This month is Angular, last month was Ember's turn and I gave up. It's the first time I've given up - here's why."
 image: "/img/spinning-dizzy.jpeg"
 date: "2013-03-06"
 uuid: "AvmC9PkN-prwF-Ryxd-SM8X-GVYnlwhWXGXl"

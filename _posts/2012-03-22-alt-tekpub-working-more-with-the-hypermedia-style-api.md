@@ -26,10 +26,10 @@ This means, basically, that **the API needs to "prime" the application** with a 
 
 In addition, I need to send down client information as well. If some type of token is passed in I can look the client up and populate the Customer stuff - I'm going to punt on that right now as it's really involved, I just want to take small steps for now.
 
-Let's switch over to the client now - see if what I'm musing makes sense. I'll be using basic Javascript/CoffeeScript at this point - you'll see both as [I haven't really made up my mind](http://wekeroad.com/2012/03/21/coffeescript-or-straight-up-js-i-suck-either-way/) as to which I'm going to use.
+Let's switch over to the client now - see if what I'm musing makes sense. I'll be using basic JavaScript/CoffeeScript at this point - you'll see both as [I haven't really made up my mind](http://wekeroad.com/2012/03/21/coffeescript-or-straight-up-js-i-suck-either-way/) as to which I'm going to use.
 
 ## The Client
-I'm going to build the client bits out in CoffeeScript as I don't know Objective-C and I think I can approximate a decent Client/Server situation using Javascript. 
+I'm going to build the client bits out in CoffeeScript as I don't know Objective-C and I think I can approximate a decent Client/Server situation using JavaScript. 
 
 The first thing I need to do is make sure the API is exposed. I've already created an [API route and wrapper](/2012/03/18/alt-tekpub-consuming-the-api/) (which I'll refactor later) - and if I go to localhost:3000/api I get a lovely splash of JSON:
 
@@ -54,7 +54,7 @@ class Tekpub
 
 In short, this function literal will take a preload of JSON data and set some literals internally. This means that my blob of JSON has to be organized to distinguish "special" and "featured" productions. I didn't have this before - what I had was GET urls for loading this data.
 
-Let's switch back to the API in Node and see how this can work. This is written in Javascript.
+Let's switch back to the API in Node and see how this can work. This is written in JavaScript.
 
 ## The API
 The overall approach is starting to crystallize a bit in my mind. I'm going to preload an object on the client with JSON so it can operate as needed, right from the start. I don't want to go too far, but here's what I think is reasonable: Load all productions. 
@@ -130,7 +130,7 @@ Have a look:
 ## Thoughts
 I always look for a time during an "exploration process/spike" where things start to flow and make sense. This was one of those times. The lightness of the code (in my eyes) and the way I was able to hand off small chunks of process and layout - it really felt good to me.
 
-One thing in particular that I wanted to dive into was using CoffeeScript alongside Javascript to actively build something out. Specifically I wanted to see if the negative things were actually negative things. I did get tripped up a bit once or twice - but in the end, reading the Tekpub class code above was more than compelling for me.
+One thing in particular that I wanted to dive into was using CoffeeScript alongside JavaScript to actively build something out. Specifically I wanted to see if the negative things were actually negative things. I did get tripped up a bit once or twice - but in the end, reading the Tekpub class code above was more than compelling for me.
 
 I like the aesthetics of it. Then again, I also like Ruby. What do you think?
 

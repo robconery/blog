@@ -57,7 +57,7 @@ as $$
 $$ language plv8;
 ```
 
-Again, I'm using Javascript to do this (PLV8) and I'm pulling out a document based on ID. I'm then looping over the keys to see if there are any that I might want to store, if there are, I'm pushing to an array.
+Again, I'm using JavaScript to do this (PLV8) and I'm pulling out a document based on ID. I'm then looping over the keys to see if there are any that I might want to store, if there are, I'm pushing to an array.
 
 If we have any hits in that array I'm concatenating the values and saving in the `search` field of the document using `to_tsvector`, which is a built-in Postgres function that takes loose text and turns it into indexable values.
 
@@ -147,7 +147,7 @@ as $$
 $$ language plv8;
 ```
 
-The nice thing about working with Javascript here is that the logic required for this kind of routine is fairly straightforward (as opposed to using PLPGSQL). I've pulled out the actual save routine into its own function - this is Javascript after all - so I can avoid duplication.
+The nice thing about working with JavaScript here is that the logic required for this kind of routine is fairly straightforward (as opposed to using PLPGSQL). I've pulled out the actual save routine into its own function - this is JavaScript after all - so I can avoid duplication.
 
 Then I check to see if the passed-in argument is an Array. If it is, I loop over it and call `executeSql`, returning a rollup of what happened.
 

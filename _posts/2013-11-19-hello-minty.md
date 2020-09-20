@@ -11,7 +11,7 @@ categories: Node
 ## My Boss Wants Me To Build This Node App...
 I get quite a few emails like this - all centering on a single question:
 
-> I need to build a Node app for work and I know Javascript OK and I understand Node pretty well - how do you put all of this together?
+> I need to build a Node app for work and I know JavaScript OK and I understand Node pretty well - how do you put all of this together?
 
 That's a very, very good question - **one that I've been obsessing on for over a year**.
 

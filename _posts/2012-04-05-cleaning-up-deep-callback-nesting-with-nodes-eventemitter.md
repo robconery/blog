@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Cleaning Up Deep Callback Nesting With Node's EventEmitter"
-summary: "One problem people face when starting out with Node (and Javascript in general) is handling the asynchronous, deep callback nesting issue. EventEmitters help fix that."
+summary: "One problem people face when starting out with Node (and JavaScript in general) is handling the asynchronous, deep callback nesting issue. EventEmitters help fix that."
 image: "/img/ChristmasTree.png"
 date: "2012-04-05"
 uuid: "j8GfvmSg-WKfU-jbah-ywcf-RZ6KOwqPNApy"
 slug: "cleaning-up-deep-callback-nesting-with-nodes-eventemitter"
-categories: javascript node
+categories: JavaScript Node
 ---
 
 ## The Registration Problem
@@ -18,7 +18,7 @@ Consider this: you want customers to register with your site. When they do, a nu
 
 In a typical scenario, there's probably more - but let's use this for now.
 
-You might know straight away how to do this in Ruby or C# - but how would you handle this with Node and Javascript?## O Christmas Tree
+You might know straight away how to do this in Ruby or C# - but how would you handle this with Node and JavaScript?## O Christmas Tree
 
 This is some code that you might see in a Customers module:
 
@@ -38,7 +38,7 @@ The first thing to do is reference Node's event module and the util module as we
 
 So what's going on here? Well first - there are no more callbacks - we don't need them! We have events to listen to.
 
-I'm using Node's built-in EventEmitter object to "graft" on some functionality to my Customer object. Javascript doesn't have inheritance, per se, but you can take the prototype of one function and pop it on another.
+I'm using Node's built-in EventEmitter object to "graft" on some functionality to my Customer object. JavaScript doesn't have inheritance, per se, but you can take the prototype of one function and pop it on another.
 
 Node helps you with this using the "util" library. On line 42 we're telling the util to push the prototype from events.EventEmitter onto our Customer function. Notice that this is a function, not an instance of a function as I had in the first example above.
 

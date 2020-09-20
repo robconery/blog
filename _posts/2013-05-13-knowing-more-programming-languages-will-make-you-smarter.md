@@ -33,7 +33,7 @@ Let's say you walk into an interview and you get hit with a classic interview qu
 
 Now, slow your brain down and rewind. What language are you using to express this? What is that language **allowing you to do**.
 
-If the only programming language you know is C# you're probably writing some LINQ in your mind and running a modulus. If you use Javascript you're probably doing something similar but maybe spread over two functions utilizing callbacks. 
+If the only programming language you know is C# you're probably writing some LINQ in your mind and running a modulus. If you use JavaScript you're probably doing something similar but maybe spread over two functions utilizing callbacks. 
 
 Rubyists out there might do something similar - favoring a more idiomatic approach with blocks/yield rather than a terse one-liner.
 
@@ -46,7 +46,7 @@ I'm sure a few of my readers could do all the above (LINQ, callbacks/blocks, Mon
 ## Expanding Your Thought Process
 I don't know anything about monads but I've done recursive programming in the past (sometimes not-intentionally). When I started using Ruby, I began to value the idiom of passing control back and forth using blocks and yield. You can do this in many languages - but for some reason it wasn't something I routinely did in C#.
 
-The asynchronous nature of Javascript has awakened a part of my mind to evented programming. Again you can do this in many languages but it's idiomatic in Javascript and Node.
+The asynchronous nature of JavaScript has awakened a part of my mind to evented programming. Again you can do this in many languages but it's idiomatic in JavaScript and Node.
 
 I can "think" in these terms and solve problems in ways I could never do when I knew only one language well (C#). At the time I liked the idea of "going deep" - of knowing a language so thoroughly that I could solve any problem with it and not clutter my mind with the different syntaxes of other languages.
 

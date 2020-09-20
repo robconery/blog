@@ -49,7 +49,7 @@ Always remember: **people want you to be great**. This is mostly for selfish rea
 
 And it all starts with the title and abstract of your talk. Walking the conference halls or sitting in the hotel in the morning - people will have their schedules open on their phones (or in their hands) looking for a talk to go to. They're looking for a name and failing that, a title/subject that sounds interesting.
 
-Read Rob's title and abstract above. Would you choose that over Yet Another Talk About Javascript? I sure would.
+Read Rob's title and abstract above. Would you choose that over Yet Another Talk About JavaScript? I sure would.
 
 ## Stay Focused, Tell Me What You're Going To Say
 

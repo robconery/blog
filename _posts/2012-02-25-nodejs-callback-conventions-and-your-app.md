@@ -18,7 +18,7 @@ var customer = require('./lib/customers');
 customer.register("test@test.com","password","confirm", result, success);
 ```
 
-The last two arguments here are callbacks. If you're new to Javascript - keep in mind it's asynchronous which means that nothing really happens _right now_. If you need to know when something is done, you sending a callback function (which is probably better thought of as a continuation) which gets fired when the operation completed.
+The last two arguments here are callbacks. If you're new to JavaScript - keep in mind it's asynchronous which means that nothing really happens _right now_. If you need to know when something is done, you sending a callback function (which is probably better thought of as a continuation) which gets fired when the operation completed.
 
 **But how do you structure your callback?**
 

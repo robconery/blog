@@ -36,7 +36,7 @@ That's sort of what I'm doing now. I can see how I could peel off a single "Tekp
 This is highly repetitive and again an extra 100K (which really isn't all that much). The engineer in me hates this. The UI programmer digs it as it's less client code I need to write...
 
 ## Option 3: Roll It To The Client
-Right now the productions have tags - so I can figure out rather easily how to pull out Microsoft, Ruby, Javascript stuff and so on:
+Right now the productions have tags - so I can figure out rather easily how to pull out Microsoft, Ruby, JavaScript stuff and so on:
 
 ```javascript Filtering The Ruby Productions
 var _ruby = function(){  

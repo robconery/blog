@@ -24,11 +24,11 @@ These are the questions I asked myself, at least, and I'm assuming you'll have s
 
 The role of a module is, like any module, to encapsulate functionality. Our CMS module will encapsulate everything related to publishing content. Inside of that module we have a Writer and a Publisher - which encapsulate what they do, respectively.
 
-This is not unique to Node/Javascript - have some level of extensibility in your library code is simply a Good Idea - how you express it is up to you. I could write forever on how to construct an effective API - but hopefully you already know this, and I've simply showed you how to express your API in Node (which was my goal).
+This is not unique to Node/JavaScript - have some level of extensibility in your library code is simply a Good Idea - how you express it is up to you. I could write forever on how to construct an effective API - but hopefully you already know this, and I've simply showed you how to express your API in Node (which was my goal).
 
 ## EventEmitters Are Interesting, Not Required
 
-I like using Node's EventEmitter because I'm familiar with evented programming with Javascript in the browser using tools like Backbone, Angular, Knockout, Ember, etc. So it doesn't freak me out to "program backwards".
+I like using Node's EventEmitter because I'm familiar with evented programming with JavaScript in the browser using tools like Backbone, Angular, Knockout, Ember, etc. So it doesn't freak me out to "program backwards".
 
 That said - there are a number of different ways to wire up program flow:
 
@@ -36,7 +36,7 @@ That said - there are a number of different ways to wire up program flow:
  - Explicitly declaring flow structures [with the node-async library](https://github.com/caolan/async). I personally LOVE this library and use it often
  - Just going with Callbacks and not worrying.
 
-To many this suggests that Javascript is flawed - that you need these 3rd party libraries to keep your code from becoming a mess. There's some truth to that - but most often I find that you go through an adjustment period and it simply takes time to get used to asynchronous programming.
+To many this suggests that JavaScript is flawed - that you need these 3rd party libraries to keep your code from becoming a mess. There's some truth to that - but most often I find that you go through an adjustment period and it simply takes time to get used to asynchronous programming.
 
 Once you embrace it and get your mind used to it - it becomes quite fun!
 

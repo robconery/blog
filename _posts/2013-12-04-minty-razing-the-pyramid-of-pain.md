@@ -57,13 +57,13 @@ function saveArticle(article, next){
 
 This. Sucks.
 
-Many people will blame Javascript for this mess which might be a bit silly. Javascript might not be the most elegant language, but it surely doesn't make you commit acts of Code Treason.
+Many people will blame JavaScript for this mess which might be a bit silly. JavaScript might not be the most elegant language, but it surely doesn't make you commit acts of Code Treason.
 
 Let's fix this and we'll use a few different ways...
 
 ## Promises
 
-Promises are a popular way to do this with Node and Javascript. A "promise" is the result of an async function and looks something like this:
+Promises are a popular way to do this with Node and JavaScript. A "promise" is the result of an async function and looks something like this:
 
 ```javascript
 getInfoFromTheDb({id : 1}).then(function(result){

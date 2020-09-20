@@ -48,7 +48,7 @@ That's what I'm going to do next - I like the simplicity and utility of Node and
 
 ## Step 3: Migrations
 
-There are a number of migration projects out there for .NET. I've written some myself - but they're all a bit complicated. I love the simplicity of Javascript for this so let's try something new.
+There are a number of migration projects out there for .NET. I've written some myself - but they're all a bit complicated. I love the simplicity of JavaScript for this so let's try something new.
 
 [Install Node if you haven't](http://nodejs.org), and if you haven't had a chance to play with Node - today's the day!
 

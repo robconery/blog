@@ -53,7 +53,7 @@ That's right... breathe it in...
 
 That's the best I've ever felt doing my job. <em>It was glorious.</em> And while the software I wrote was crap by today's standards I was on fire with the <strong>possibility that existed with my career.</strong>
 
-<strong>And now here I am in 2015 writing blog posts on Javascript</strong>. God damn that's really depressing.
+<strong>And now here I am in 2015 writing blog posts on JavaScript</strong>. God damn that's really depressing.
 
 ![](/img/2015/01/iceice.jpg)
 
@@ -62,9 +62,9 @@ Yo. JavaScript?
 
 ## Seriously. WTF.
 
-*What the hell has happened here?* Yeah yeah I know Javascript is a fine language and yeah yeah yeah I know you can make it sing and dance if you focus on the right things etc. That's what I've been doing for the last few years, I get it. I guess I figured that, 16 or so years on we might have done something... you know... <strong>relevant</strong> with the web. Maybe you think we have, I don't.
+*What the hell has happened here?* Yeah yeah I know JavaScript is a fine language and yeah yeah yeah I know you can make it sing and dance if you focus on the right things etc. That's what I've been doing for the last few years, I get it. I guess I figured that, 16 or so years on we might have done something... you know... <strong>relevant</strong> with the web. Maybe you think we have, I don't.
 
-Perhaps I expect too much, or maybe I haven't tried hard enough. It seems like all the great things have happened and all that we're doing these days is <strong>porting all that great shit backwards to Javascript.</strong>
+Perhaps I expect too much, or maybe I haven't tried hard enough. It seems like all the great things have happened and all that we're doing these days is <strong>porting all that great shit backwards to JavaScript.</strong>
 
 I know, hot wind and whining don't solve anything, and rather than change the world to suit me perhaps I should try, once again, to have some fun. Which brings me back to this quote:
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Avoiding Messy Situations With KnockoutJS and Javascript
+title: Avoiding Messy Situations With KnockoutJS and JavaScript
 summary: "Any tool can create a mess. <a href=\"http://wekeroad.com/2011/08/18/my-eyes-please-youre-killing-javascript-kitties/\">Some seem more prone to messes then others</a> - that's what I thought of <a href=\"http://knockoutjs.com\">KnockoutJS</a> until recently when I had a chance to catch up with <a href=\"http://blog.stevensanderson.com\">Steve Sanderson</a> - Knockout's creator. We talked, I tried some different things. I've changed my mind."
 image: /img/knockout_slide.png
 date: "2012-08-12"
@@ -10,7 +10,7 @@ categories: Node JavaScript
 ---
 
 ## Steve, Jabber, and Changing My Mind
-I went to [NDC 2012](http://www.ndcoslo.com) in June, 2012 and as I drove from my brother's house in San Diego, CA to Los Angeles to catch my flight to Europe, I listened to [Javascript Jabber](http://javascriptjabber.com/013-jsj-knockout-js-with-steven-sanderson/) - the one with Steve on, who was there to basically defend Knockout's existence in the face of a tidal wave of Javascript snottiness.
+I went to [NDC 2012](http://www.ndcoslo.com) in June, 2012 and as I drove from my brother's house in San Diego, CA to Los Angeles to catch my flight to Europe, I listened to [JavaScript Jabber](http://javascriptjabber.com/013-jsj-knockout-js-with-steven-sanderson/) - the one with Steve on, who was there to basically defend Knockout's existence in the face of a tidal wave of JavaScript snottiness.
 
 Like the amazing English gentleman that he is - Steve remained polite, self-effacing, and utterly brilliant as he dismanted the wave of condescenscon coming in from the "panel". Listen to it. You'll know what I mean.
 
@@ -46,7 +46,7 @@ My goal: **use Knockout without creating Yet Another Crappy Knockout Example.**
 
 Many people don't care much for the data-binding approach - and I understand that. In my opinion however, the data-binding solution is much, MUCH more elegant than using a templating system like Handlebars or jQuery templates. I can't see how using templates is less... "aesthetically offensive" than having an HTML5-compliant data-bind tag.
 
-I don't dislike Javascript templating solutions - not at all. I just like Knockout's DOM templating better.
+I don't dislike JavaScript templating solutions - not at all. I just like Knockout's DOM templating better.
 
 ## See The Results
 I know many people might have some strong opinions about this... I would just ask you to take a look at what we've put together. If you don't want to watch the video, [have a look at the code and let me know what objections you have](https://github.com/tekpub/mvcmusic/blob/master/MvcMusicStore/assets/js/order_editor.js).
