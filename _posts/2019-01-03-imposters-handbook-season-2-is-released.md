@@ -4,7 +4,7 @@ date: '2019-01-03'
 image: /img/2019/01/slide.jpg
 layout: post
 summary: "Over the winter holiday break (on Christmas Eve, to be precise), Scott Hanselman and I released the next volume in the Imposter's Handbook series. It took us just over 18 months to put this thing..."
-featured: true
+
 categories:
   - Career
   - Syndication
