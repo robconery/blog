@@ -34,8 +34,6 @@ I remember learning this in school, and then forgetting it. There's a type of ma
 
 Another question you could answer would be "if I start on a road trip at 6PM, what time would it be when I get to my destination 16 hours later?". That would be `6 + 16 mod 12` which is 10.
 
-_I originally mentioned that 253 hours mod 24 could be used to determine the number of days which was totally wrong... thanks Phil for pointing that out._
-
 Cryptographers love `mod` because when you use it with really large numbers you can create what are known as _one-way functions_. These are special functions which allow you to easily calculate something in one direction, but not reverse it.
 
 If I tell you that 9 is the result of my squaring operation, you can easily deduce that the input was 3 (or -3 as the case may be). You would have the entire process front to back. If I tell you that 9 is the result of my function `mod 29`, you would have a harder time trying to figure out what the input was.
@@ -86,9 +84,9 @@ Ruby agrees with Google:
 
 The answer to this problem is understanding the difference between a _remainder_ and a _modulo_. **Programmers conflate these** operations and they should not, as they only act the same when the divisor (in our case 12) is positive. You can easily send bugs into production if your divisor is negative.
 
-But why is there a discrepancy? Consider the positive modulo `19 mod 12` using a clock:
+But why is there a discrepancy? Consider the positive modulo `20 mod 12` using a clock:
 
-![](/img/Paper.Imposter-v2.60.png)
+![](/img/mod-clock-1.png)
 
 The end result is a 7, as we know, and we can prove this using some math. But what about `19 mod -12`? **We have to use a different clock**:
 
