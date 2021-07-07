@@ -6,7 +6,7 @@ permalink: /about
 
 
 
-<img src="/img/ghost/me.jpg" alt="Me" />
+<img src="/img/me.jpg" alt="Me" />
 
 <h2>Short Bio</h2>
 
