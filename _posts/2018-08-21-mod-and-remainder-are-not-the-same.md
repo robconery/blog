@@ -10,6 +10,8 @@ categories:
   - Syndication
 ---
 
+
+
 Get ready, here comes some fringe pedantry that could very well be the difference in an interview, or the thing that saves you from hours of chasing a production bug!
 
 I'm teeth-deep into the next season of [The](https://bigmachine.io/projects/imposters-handbook-presale) [Imposter's](https://bigmachine.io/products/the-imposters-handbook-season-2) [Handbook](https://bigmachine.io/projects/imposters-handbook-presale) and currently, I'm writing about RSA, the cipher that powers SSH and is, evidently, the most downloaded bit of code in history.

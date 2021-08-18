@@ -4,8 +4,6 @@ title: About Me
 permalink: /about
 ---
 
-
-
 <img src="/img/me.jpg" alt="Me" />
 
 <h2>Short Bio</h2>
