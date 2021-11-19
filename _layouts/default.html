@@ -35,7 +35,11 @@
 
 <meta name="twitter:creator" content="@robconery" />
 <meta name="twitter:text:title" content="{{site.title}}" />
-<meta name="twitter:image" content="{{site.url}}/img/card.jpg" />
+{% if page.image %}
+<meta name="twitter:image" content="{{site.url}}{{page.image}}" />
+{% else %}
+<meta name="twitter:image" content="{{site.url}}/img/darth_swimming.jpg" />
+{% endif %}
 <meta name="twitter:card" content="summary_large_image" />
 
 
