@@ -29,8 +29,8 @@ The first step was to find a sample app that did more than a todo list. I couldn
 - **Tailwind** CSS with the [free starter kit from Creative Tim](https://demos.creative-tim.com/notus-js). Just gorgeous stuff.
 - **Authentication** using OAuth (Google and Github) and Magic Links.
 - **Email** capability using Nodemailer
-- Basic modeling using **Mongoose**
 - Site-wide **notification system** using flash and Toastr
+- Basic modeling using **Mongoose**
 - As few of my opinions as possible
 
 Those last two points go together. If you know me, you know I dislike ORMs tremendously and you also know that I haven’t, historically, been a big fan of Mongo DB. I do know that it’s used a lot and it’s improved a lot over the years… so I decided to get over myself and get to work.

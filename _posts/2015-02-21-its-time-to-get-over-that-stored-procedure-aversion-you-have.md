@@ -1,5 +1,6 @@
 ---
 layout: post
+featured: true
 title: "It's Time To Get Over That Stored Procedure Aversion You Have"
 slug: its-time-to-get-over-that-stored-procedure-aversion-you-have
 summary: ""
