@@ -33,7 +33,7 @@ The first step was to find a sample app that did more than a todo list. I couldn
 - Basic modeling using **Mongoose**
 - As few of my opinions as possible
 
-Those last two points go together. If you know me, you know I dislike ORMs tremendously and you also know that I haven’t, historically, been a big fan of Mongo DB. I do know that it’s used a lot and it’s improved a lot over the years… so I decided to get over myself and get to work.
+Those last two points go together. If you know me, you know [I dislike ORMs](https://rob.conery.io/2015/02/21/its-time-to-get-over-that-stored-procedure-aversion-you-have/) tremendously and you also know that I haven’t, historically, been a big fan of Mongo DB. I do know that it’s used a lot and it’s improved a lot over the years… so I decided to get over myself and get to work.
 
 ![](https://paper-attachments.dropbox.com/s_3AAE70EFA8602A8C9CD5ED6DB9E53DAEFBD7B03A9AC4C298AF090CEEFEA60F18_1638473138607_bip_43.jpg)
 

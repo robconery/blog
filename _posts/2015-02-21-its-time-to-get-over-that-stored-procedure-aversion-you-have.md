@@ -3,7 +3,7 @@ layout: post
 featured: true
 title: "It's Time To Get Over That Stored Procedure Aversion You Have"
 slug: its-time-to-get-over-that-stored-procedure-aversion-you-have
-summary: ""
+summary: "There is a lot of opinion about stored procedures out there that are just... "
 comments: false
 image: /img/2015/02/sp_pain3.jpg
 categories: Postgres Databsae
