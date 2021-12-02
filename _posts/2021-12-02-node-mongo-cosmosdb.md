@@ -3,7 +3,7 @@ layout: post
 featured: true
 title: "Deploying Node and Mongo to Azure Using AZX"
 image: '/img/azx-node-mongo-cosmos.jpg'
-summary: "Over the holidays I decided I wanted to see if I could improve the Node/Cosmos DB provisioning and deploymment story with AZX. In short: yes, it can."
+summary: "Over the holidays I decided I wanted to see if I could improve the Node/Cosmos DB provisioning and deploymment story with AZX. In short: yes, I can."
 categories:
   - Azure
   - Fun
