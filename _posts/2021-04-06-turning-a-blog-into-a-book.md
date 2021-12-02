@@ -1,6 +1,5 @@
 ---
 layout: post
-featured: true
 title: "Turning a Blog Into a Book"
 image: '/img/troy_cover.jpeg'
 summary: "I'm fascinated by people's stories and the decisions they made to move their career forward or, in some cases, backwards. I decided to take that to a whole new level with my friend Troy Hunt. We're turning his blog into a book..."

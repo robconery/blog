@@ -6,6 +6,7 @@ summary: "I have loved working with Heroku for years and have long wished Azure 
 categories:
   - Azure
   - Fun
+  - AZX
 ---
 
 **TL;DR:** [I made a fun CLI “wrapper”](https://github.com/robconery/azx) for working with web apps and Azure in a very Heroku way. It’s called “AZX” and you can read a full walkthrough and installation instructions from the GitHub repo.
