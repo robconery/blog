@@ -18,7 +18,7 @@ Azure doesn’t do hosted/managed Mongo DB. Instead, you can work with Cosmos DB
 
 > The Azure Cosmos DB API for MongoDB makes it easy to use Cosmos DB as if it were a MongoDB database. You can leverage your MongoDB experience and continue to use your favorite MongoDB drivers, SDKs, and tools by pointing your application to the API for MongoDB account's connection string.
 
-Cosmos DB is kind of weird this way: *you can work with it using multiple APIs*. The most popular is the SQL API, which allows you to work with it as if it were a relational database. There’s also a Cassandra API which makes Cosmos behave as if it were a Key/Value store. Wild stuff.
+Cosmos DB is kind of weird this way: *you can work with it using multiple APIs*. The most popular is the SQL API, which allows you to work with it using ANSI SQL in the same way you might with a relational database (though it's not relational, it's strictly JSON). There’s also a Cassandra API which makes Cosmos behave as if it were a Key/Value store. Wild stuff.
 
 I was intrigued by this so I decided to push Cosmos DB a bit *while also* working on a deployment scenario for AZX. 
 
