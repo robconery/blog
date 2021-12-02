@@ -106,8 +106,9 @@ azx app write_settings
 
 ![](https://paper-attachments.dropbox.com/s_3AAE70EFA8602A8C9CD5ED6DB9E53DAEFBD7B03A9AC4C298AF090CEEFEA60F18_1638474901839_bip_49.jpg)
 
+This command reached out to Azure, specifically my web application's configuration, and added all of the values in my .env file as configuration settings. Easy peasy!
 
-And we’re done. All in all this process took about 5 minutes. We’re not quite there yet as we need to deploy our application, which I can do using Git directly:
+All in all this process took about 5 minutes. We’re not quite there yet as we need to deploy our application, which I can do using Git directly:
 
 ![](https://paper-attachments.dropbox.com/s_3AAE70EFA8602A8C9CD5ED6DB9E53DAEFBD7B03A9AC4C298AF090CEEFEA60F18_1638475039740_bip_51.jpg)
 
