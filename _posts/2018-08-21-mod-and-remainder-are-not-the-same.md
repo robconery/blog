@@ -86,7 +86,7 @@ Ruby agrees with Google:
 
 The answer to this problem is understanding the difference between a _remainder_ and a _modulo_. **Programmers conflate these** operations and they should not, as they only act the same when the divisor (in our case 12) is positive. You can easily send bugs into production if your divisor is negative.
 
-But why is there a discrepancy? Consider the positive modulo `20 mod 12` using a clock:
+But why is there a discrepancy? Consider the positive modulo `19 mod 12` using a clock:
 
 ![](/img/mod-clock-1.png)
 
