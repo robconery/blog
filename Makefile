@@ -9,3 +9,4 @@ build:
 
 import: drop_import build
 	migrate json html ./_site/ghost_export.json
+

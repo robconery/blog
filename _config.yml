@@ -20,24 +20,24 @@ authors:
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
 
 # Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-archives
+# plugins:
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-feed
+#   - jekyll-seo-tag
+#   - jekyll-archives
     
 # Archives
-jekyll-archives:
-  enabled:
-    - categories
-  layout: archive
-  permalinks:
-    category: '/category/:name/'
+# jekyll-archives:
+#   enabled:
+#     - categories
+#   layout: archive
+#   permalinks:
+#     category: '/category/:name/'
     
-# Pagination 
-paginate: 10
-paginate_path: /page:num/
+# # Pagination 
+# paginate: 10
+# paginate_path: /page:num/
     
 # Other
 markdown: kramdown
