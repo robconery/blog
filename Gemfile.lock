@@ -67,9 +67,6 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
-  kramdown
-  kramdown-parser-gfm
-  rouge
 
 BUNDLED WITH
    2.1.4
