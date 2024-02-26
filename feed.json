@@ -1,0 +1,15 @@
+---
+layout: null
+---
+[
+  {% for post in site.posts  limit:12%}
+  {
+    "title": "{{ post.title | escape }}",
+    "slug": "{{ post.slug | escape }}",
+    "categories": "{{ post.categories | join: ', ' }}",
+    "url": "{{ post.url | escape }}",
+    "date": "{{ post.date | date: "%Y-%M-%d" }}",
+    "body": "{{ post.content }}"
+  }
+  {% endfor %}
+]
