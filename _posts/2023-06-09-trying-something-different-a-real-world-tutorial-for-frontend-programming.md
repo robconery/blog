@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trying Something Different: A Real World Tutorial for Frontend Programming"
-image: "https:/img.unsplash.com/photo-1496355723323-30286a0b340d"
+image: "https:/images.unsplash.com/photo-1496355723323-30286a0b340d"
 date: "Fri Jun 09 2023 17:24:55 GMT-0700 (Pacific Daylight Time)"
 categories: frontend
 summary: I'm creating an episodic walkthrough where I build a real application I need to ship, and you get to do it with me. It's up for presale at 50% off.      

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Blogs Make Outstanding Books"
-image: "https:/img.unsplash.com/photo-1586339393565-32161f258eac"
+image: "https:/images.unsplash.com/photo-1586339393565-32161f258eac"
 date: "Thu Sep 08 2022 16:46:09 GMT-0700 (Pacific Daylight Time)"
 categories: career
 summary: Can a blog be turned into a book? Yes! But it can't be just any old blog - the writer has to have something to say and no fear of saying it... like Troy Hunt. Here's the story of how I turned his blog into a book.      

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Get Involved!"
-image: "https:/img.unsplash.com/photo-1587825140708-dfaf72ae4b04"
+image: "https:/images.unsplash.com/photo-1587825140708-dfaf72ae4b04"
 date: "Mon Oct 24 2022 17:46:10 GMT-0700 (Pacific Daylight Time)"
 categories: shorts
 summary: "In this feature-length production, Scott Hanselman and Rob Conery offer suggestions and advice on how you can get out there, and get involved. Blogging, Twitter, Github, StackOverflow, User Groups and Conferences: get out there!"

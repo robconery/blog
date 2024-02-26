@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fun Geeky Things To Do For the Holidays"
-image: "https:/img.unsplash.com/photo-1502519144081-acca18599776"
+image: "https:/images.unsplash.com/photo-1502519144081-acca18599776"
 date: "Thu Nov 24 2022 22:18:52 GMT-0800 (Pacific Standard Time)"
 categories: null
 summary: I love nerding out over the holidays and today was no exception. I added a feature to my blog that I've wanted to add forever!      
