@@ -6,7 +6,7 @@ post_class: post-template
 ---
 
 
-<div class="container">
+<div class="container" id="post-box">
   <div class="row">
 
     <!-- Post Share -->
@@ -112,7 +112,7 @@ post_class: post-template
       </div>
 
       <!-- Prev/Next -->
-      <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
+      <div class="row PageNavigation d-flex justify-content-between font-weight-bold" style="margin-top: 18px;">
         {% if page.previous.url %}
         <a class="prev d-block col-md-6" href="{{page.previous.url}}"> &laquo;
           {{page.previous.title}}</a>
@@ -129,3 +129,11 @@ post_class: post-template
 
   </div>
 </div>
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fitvids/1.2.0/jquery.fitvids.min.js"></script>
+<script>
+  $(document).ready(function(){
+    // Target your .container, .wrapper, .post, etc.
+    $("#post-box").fitVids();
+  });
+</script>

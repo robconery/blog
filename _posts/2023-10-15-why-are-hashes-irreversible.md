@@ -64,3 +64,5 @@ Now we have a number we can play with, or _compress_, in our hashing algorithm: 
 ## Hey, It's a Video!
 
 Want to see more? I made a video about all of this and I do hope you enjoy...
+
+<iframe  src="https://www.youtube.com/embed/9gIi6UK6w4Q?si=mTp8CTcVcvZ7dYmb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
