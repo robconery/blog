@@ -140,6 +140,5 @@ When writing this chapter, I figured it would be a good idea to see what my frie
 
 I also threw him a few curveballs. You can watch it here:
 
-[Test-driven Development In ActionTDD is one of those things that people talk about, argue about, and think is interesting. I’m one of those people, so I asked Brad Wilson to clear it all up for me.![](/size/w256h256/2022/08/suns-1.png)Big MachineRob Conery![](/2023/12/screenshot_408.jpg)](//shorts/test-driven-development-in-action/)
 
 Thanks for reading!

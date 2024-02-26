@@ -63,7 +63,7 @@ Here’s a not-so-fun conversation along these lines:
 
 **_Friend_**_: ROB. Seriously, you’re fine. Shut up._
 
-![](/2023/02/bip_1596.jpg)
+![](/img/2023/02/bip_1596.jpg)
 
 One of the worst things in life is to have someone pile on the pain when you’re feeling exceptionally crappy. But when it comes to self-obsession (which imposter syndrome is), the only way out is through.
 
@@ -89,7 +89,7 @@ The entire purpose here is to splash our insides with the golden glow of happy t
 
 **You know how to code**! That’s a pretty amazing skill, I think. Even better, **you know how to _type_**, which a lot of people can’t do! That means **you also know how to _read_**, which much of the world can’t. You were also able to buy this book, which makes you pretty well off.
 
-![](/2023/02/bip_1598.jpg)
+![](/img/2023/02/bip_1598.jpg)
 
 Photo by [Linus Nylund](https://unsplash.com/@dreamsoftheoceans?utm%5Fsource=ghost&utm%5Fmedium=referral&utm%5Fcampaign=api-credit) / [Unsplash](https://unsplash.com/?utm%5Fsource=ghost&utm%5Fmedium=referral&utm%5Fcampaign=api-credit) with text added by me
 
@@ -107,7 +107,7 @@ The trick is to _let it be there_ and to give yourself the space to ask question
 
 > You have to keep a dozen of your favorite problems constantly present in your mind, although by and large they will lay in a dormant state. Every time you hear a new trick or a new result, test it against each of your twelve problems to see whether it helps. Every once in a while, there will be a hit, and people will say, ‘How did he do it? He must be a genius!
 
-![](/2023/02/image.png)
+![](/img/2023/02/image.png)
 
 Richard Feynman, from [The Pleasure of Finding Things Out](https://www.amazon.com/exec/obidos/ASIN/0465023959/)
 
@@ -133,7 +133,7 @@ I’ll give you one: **_you don’t want to lose this happy momentum_**. If you 
 
 But here’s the thing: _it’s doesn’t require a ton of courage to begin with, and it’s mostly dealing with just yourself_. Your only task is to remove the stupid obstacles in your own mind that are stopping you from _finding out_.
 
-![](/2023/02/bip_1600.jpg)
+![](/img/2023/02/bip_1600.jpg)
 
 My kid's active imagination
 
@@ -167,13 +167,13 @@ In fact, when I’m feeling doubtful or my inner voice is getting the better of 
 
 If you haven’t journaled before, I would encourage you to have a [look on YouTube](https://www.youtube.com/results?search%5Fquery=bullet+journal) and watch a few videos on [Bullet Journals](https://bulletjournal.com/). You’ll be awash in people showing off how beautiful their illustrations are, but that’s kind of the point. Creating a beautiful space for your mind to wander and feel settled. I can’t draw worth a damn but I keep trying! There’s no judgement in there and I like it when something actually _does_ come together and look nice.
 
-![](/2023/02/image-1.png)
+![](/img/2023/02/image-1.png)
 
 For notes, I use [Obsidian](https://obsidian.md/) and I love it. There are loads of apps and also loads of processes for using these apps and I’ll leave that to you to figure out what works best.
 
 I filter the notes I take, writing down only the things that “stick” or resonate in my head. I go back and look through them from time to time, and when they relate it gets magical!
 
-![](/2023/02/bip_1592.jpg)
+![](/img/2023/02/bip_1592.jpg)
 
 My notes for this post
 
@@ -199,7 +199,7 @@ I so, so love that. Look: **I’m not a psychologist or spiritual guru**. I’m 
 
 I don't have a degree in Computer Science and I've failed more job interviews than I can count (and succeeded too!) - but that doesn't mean I can't share what I've learned with you. In fact, **I might say it puts me in a unique position because** I've learned what failure looks like - success too.
 
-[![](/2023/02/bip_1588.jpg)](https://app.bigmachine.io/courses)
+[![](/img/2023/02/bip_1588.jpg)](https://app.bigmachine.io/courses)
 
 Video courses I've made over the years
 
@@ -235,6 +235,6 @@ Right then! Hopefully you feel mentally prepared because WOW do we have some fun
 
 Here we go…
 
-![](/2023/02/bip_1599.jpg)
+![](/img/2023/02/bip_1599.jpg)
 
 Photo by [Gian Luca Pilia](https://unsplash.com/@gnlc?utm%5Fsource=ghost&utm%5Fmedium=referral&utm%5Fcampaign=api-credit) / [Unsplash](https://unsplash.com/?utm%5Fsource=ghost&utm%5Fmedium=referral&utm%5Fcampaign=api-credit)

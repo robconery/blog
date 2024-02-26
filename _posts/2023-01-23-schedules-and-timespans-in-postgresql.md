@@ -21,7 +21,7 @@ We wanted to present our users with a "guide" like you see on any TV: a grid of 
 
 This is what the old "guide" looked like:
 
-![](/2023/01/bip_1546-1.jpg)
+![](/img/2023/01/bip_1546-1.jpg)
 
 Hopefully you see the problem: weird start and end times that weren't very TV-like. To solve this problem, we created programming `slots` and filled them as best we could - sort of like TV guide Tetris. 
 
