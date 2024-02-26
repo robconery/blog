@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Developing A Potent Voice"
-image: "https:/img.unsplash.com/photo-1483489571097-0ca295ba3d08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDIzfHx5ZWxsfGVufDB8fHx8MTY2NzQxNDI4NQ&ixlib=rb-4.0.3&q=80&w=2000"
+image: "https:/img.unsplash.com/photo-1483489571097-0ca295ba3d08"
 date: "Wed Nov 02 2022 20:42:53 GMT-0700 (Pacific Daylight Time)"
 categories: career
 summary: Writers often talk about "finding their voice", but what does that even mean? There are ways to loosen the control your internal filters have on your ability to express yourself.      

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "👻 Hacking Ghost for Fun and Profit"
-image: "https:/img.unsplash.com/photo-1633826523932-fb137c3353b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEwMXx8Z2hvc3R8ZW58MHx8fHwxNjk2NDY2NTIwfDA&ixlib=rb-4.0.3&q=80&w=2000"
+image: "https:/img.unsplash.com/photo-1633826523932-fb137c3353b5"
 date: "Tue Nov 14 2023 02:13:36 GMT-0800 (Pacific Standard Time)"
 categories: frontend
 summary: I've been using Ghost for many years and recently I decided to see just how far I could push it.      

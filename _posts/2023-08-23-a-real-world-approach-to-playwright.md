@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🤖 A Real World Approach to Playwright"
-image: "https:/img.unsplash.com/photo-1617575521317-d2974f3b56d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHNjcmVlbnBsYXl8ZW58MHx8fHwxNjkyNzk5MTg4fDA&ixlib=rb-4.0.3&q=80&w=2000"
+image: "https:/img.unsplash.com/photo-1617575521317-d2974f3b56d2"
 date: "Wed Aug 23 2023 14:03:03 GMT-0700 (Pacific Daylight Time)"
 categories: frontend
 summary: Writing tests can be tricky, especially using a more complex tool like Playwright. I took some time and dug in over the last year and I'm happy I did.      

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What's Your Exit Plan?"
-image: "https:/img.unsplash.com/photo-1552576949-04e3a68b0a9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDR8fGZpbmlzaCUyMGxpbmV8ZW58MHx8fHwxNjYxNzkwNDYz&ixlib=rb-1.2.1&q=80&w=2000"
+image: "https:/img.unsplash.com/photo-1552576949-04e3a68b0a9f"
 date: "Fri Apr 01 2022 16:27:00 GMT-0700 (Pacific Daylight Time)"
 categories: career
 summary: Retirement is one thing, being where you want to be and doing what you want to do when your current job is finished in another thing entirely. What’s your exit strategy?      

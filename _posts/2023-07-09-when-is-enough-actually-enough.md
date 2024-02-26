@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Is Your Yeet Threshold?"
-image: "https:/img.unsplash.com/photo-1614638485257-7efdbb2f9495?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGJvdW5kYXJ5fGVufDB8fHx8MTY4ODUyMDE2Mnww&ixlib=rb-4.0.3&q=80&w=2000"
+image: "https:/img.unsplash.com/photo-1614638485257-7efdbb2f9495"
 date: "Sun Jul 09 2023 19:24:42 GMT-0700 (Pacific Daylight Time)"
 categories: frontend
 summary: Solving problems is what we do, but sometimes the solution is to burn it all down and start again, learning from your mistakes. How do you make this choice?      

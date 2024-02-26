@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Just Paddle"
-image: "https:/img.unsplash.com/photo-1616449973117-0e1d99c56ed3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDd8fHN1cmZ8ZW58MHx8fHwxNjYxMDM5ODU0&ixlib=rb-1.2.1&q=80&w=2000"
+image: "https:/img.unsplash.com/photo-1616449973117-0e1d99c56ed3"
 date: "Sun Aug 21 2022 04:09:40 GMT-0700 (Pacific Daylight Time)"
 categories: life
 summary: I really think too much. I have a lot of fear in me that keeps me from doing things I love to do. It's unhealthy and also self-obsessive (there are 3 "I's" and 2 "me's" above). I really need to stop thinking and just... do...      
@@ -13,7 +13,7 @@ Riding waves is so much like life. I don't think I need to explain this too much
 
 **That's the irony**. I love to try things, change my mind, race around, zig and zag... you get the idea. I'm an optimizer. It's my thing.
 
-![This is my son finishing the last lap of a 6 race, three city racing series.  He finished first through a combination of effort, tenacity and results.](https:/img.unsplash.com/photo-1505570554449-69ce7d4fa36b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDM3fHxyYWNlfGVufDB8fHx8MTY2MTA0MDAxMA&ixlib=rb-1.2.1&q=80&w=2000)
+![This is my son finishing the last lap of a 6 race, three city racing series.  He finished first through a combination of effort, tenacity and results.](https:/img.unsplash.com/photo-1505570554449-69ce7d4fa36b"
 
 Photo by [David Armstrong](https://unsplash.com/@armstrong99?utm%5Fsource=ghost&utm%5Fmedium=referral&utm%5Fcampaign=api-credit) / [Unsplash](https://unsplash.com/?utm%5Fsource=ghost&utm%5Fmedium=referral&utm%5Fcampaign=api-credit)
 

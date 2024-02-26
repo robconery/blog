@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Incoming: Nuxt Walkthrough Preview"
-image: "https:/img.unsplash.com/flagged/photo-1571771710019-ca58cf80f225?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDU2fHxzb2NjZXJ8ZW58MHx8fHwxNjgzNDg0MjY5&ixlib=rb-4.0.3&q=80&w=2000"
+image: "https:/img.unsplash.com/flagged/photo-1571771710019-ca58cf80f225"
 date: "Sun May 07 2023 18:44:16 GMT-0700 (Pacific Daylight Time)"
 categories: updates
 summary: I'm popping a new course on Vue and Nuxt and here's what you need to know as a subscriber.      

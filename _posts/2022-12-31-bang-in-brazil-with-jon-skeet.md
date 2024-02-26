@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weird Brazil Date Bug with Jon Skeet"
-image: "https:/img.unsplash.com/photo-1608370617993-a5c9ee904646?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDMwfHxjYWxlbmRhcnxlbnwwfHx8fDE2NzI0NDgyMjM&ixlib=rb-4.0.3&q=80&w=2000"
+image: "https:/img.unsplash.com/photo-1608370617993-a5c9ee904646"
 date: "Sat Dec 31 2022 00:57:53 GMT-0800 (Pacific Standard Time)"
 categories: video
 summary: "Digging through my archives once again and found this wonderful video with Jon Skeet doing what he loves to do: sleuthing date bugs and answering questions on StackOverflow!"

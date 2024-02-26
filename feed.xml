@@ -24,9 +24,7 @@ layout: null
         {% for tag in post.tags %}
         <tag>{{ tag | xml_escape }}</tag>
         {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <category>{{ post.categories | first }}</category>
       </item>
     {% endfor %}
   </channel>

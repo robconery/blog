@@ -13,7 +13,7 @@ A few weeks ago I asked a simple question on Twitter:
 
 The responses were mixed, but a friend of mine confided in me that SQL is just plain boring. The syntax is weird and they just couldn't see why they would use it vs. an ORM.
 
-![I see you](https:/img.unsplash.com/photo-1631259307720-3bf59418c31a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDUxfHxoaWRlfGVufDB8fHx8MTY2MzYwODU1Nw&ixlib=rb-1.2.1&q=80&w=2000)
+![I see you](https:/img.unsplash.com/photo-1631259307720-3bf59418c31a"
 
 Photo by [Oleg Didenko](https://unsplash.com/@o%5Fdid?utm%5Fsource=ghost&utm%5Fmedium=referral&utm%5Fcampaign=api-credit) / [Unsplash](https://unsplash.com/?utm%5Fsource=ghost&utm%5Fmedium=referral&utm%5Fcampaign=api-credit)
 

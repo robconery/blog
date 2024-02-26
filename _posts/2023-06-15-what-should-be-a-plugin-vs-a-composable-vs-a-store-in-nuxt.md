@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Should Be a Plugin vs a Composable vs a Store in Vue?"
-image: "https:/img.unsplash.com/photo-1512209840695-c9b154d2a2aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDYwfHx0aHJlZXxlbnwwfHx8fDE2ODY4NTA3MTd8MA&ixlib=rb-4.0.3&q=80&w=2000"
+image: "https:/img.unsplash.com/photo-1512209840695-c9b154d2a2aa"
 date: "Thu Jun 15 2023 18:31:03 GMT-0700 (Pacific Daylight Time)"
 categories: frontend
 summary: Vue is a very powerful framework that I love a lot, but understanding some of the builtin machinery can be extremely confusing. Here's how I deal with that.      

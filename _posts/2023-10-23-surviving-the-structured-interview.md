@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Surviving the Structured Interview"
-image: "https:/img.unsplash.com/photo-1626447857058-2ba6a8868cb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE0fHxzdG9yeXxlbnwwfHx8fDE2OTgwODc3NzB8MA&ixlib=rb-4.0.3&q=80&w=2000"
+image: "https:/img.unsplash.com/photo-1626447857058-2ba6a8868cb5"
 date: "Mon Oct 23 2023 19:43:17 GMT-0700 (Pacific Daylight Time)"
 categories: career
 summary: The tech industry is slowly changing over to structured interviews, but most people don't know what they are and that they have a formula!       

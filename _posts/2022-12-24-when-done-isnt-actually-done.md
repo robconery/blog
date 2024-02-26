@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The First Draft of Anything Is Shit"
-image: "https:/img.unsplash.com/photo-1517917822086-6988b4ca9b31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE1fHxmcnVzdHJhdGlvbnxlbnwwfHx8fDE2NzE5MDQyODA&ixlib=rb-4.0.3&q=80&w=2000"
+image: "https:/img.unsplash.com/photo-1517917822086-6988b4ca9b31"
 date: "Sat Dec 24 2022 18:54:40 GMT-0800 (Pacific Standard Time)"
 categories: frontend
 summary: I'm allergic to crappy, non-sensical, faked up demos that try to convey highly technical concepts. Yet I find myself falling into that lazy trap constantly. This requires intervention.      

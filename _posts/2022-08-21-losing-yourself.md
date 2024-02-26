@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Losing Yourself"
-image: "https:/img.unsplash.com/photo-1503256575996-7cbe509190b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE1fHxjb25mdXNpb258ZW58MHx8fHwxNjYxMTA4NTQw&ixlib=rb-1.2.1&q=80&w=2000"
+image: "https:/img.unsplash.com/photo-1503256575996-7cbe509190b7"
 date: "Sun Aug 21 2022 19:29:41 GMT-0700 (Pacific Daylight Time)"
 categories: life
 summary: The hardest thing anyone can do is break down their own mental constructs, realizing they're toxic and destroy relationships. It's part of the journey.      

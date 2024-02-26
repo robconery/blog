@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seven Simple Steps to Overcoming Imposter Syndrome"
-image: "https:/img.unsplash.com/photo-1524117074681-31bd4de22ad3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDMzfHxjbG93bnxlbnwwfHx8fDE2NzU2MjExMDQ&ixlib=rb-4.0.3&q=80&w=2000"
+image: "https:/img.unsplash.com/photo-1524117074681-31bd4de22ad3"
 date: "Sun Feb 05 2023 18:59:10 GMT-0800 (Pacific Standard Time)"
 categories: career
 summary: "Getting over imposter syndrome is no easy task, but it starts by recognizing a cold, hard truth: you're being toxic to yourself and those around you. I'll share with you some steps I took to get over it."

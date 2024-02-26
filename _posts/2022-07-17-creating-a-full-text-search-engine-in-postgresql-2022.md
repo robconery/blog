@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Creating a Full Text Search Engine in PostgreSQL, 2022"
-image: "https:/img.unsplash.com/photo-1572375992501-4b0892d50c69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHRleHR8ZW58MHx8fHwxNjYxMTg3NzQ3&ixlib=rb-1.2.1&q=80&w=2000"
+image: "https:/img.unsplash.com/photo-1572375992501-4b0892d50c69"
 date: "Sun Jul 17 2022 16:55:00 GMT-0700 (Pacific Daylight Time)"
 categories: postgres
 summary: Writing a full text index in PostgreSQL is an art form. You need to know what your users are looking so you can build the right index AND you need to understand how they write their search terms. Thankfully, Postgres is here to help.      

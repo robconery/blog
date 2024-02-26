@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Easiest Postgres Experience You've Ever Seen"
-image: "https:/img.unsplash.com/photo-1475869568365-7b6051b1e030?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDU2fHxmbG9hdHxlbnwwfHx8fDE2NjkwNTg1Njg&ixlib=rb-4.0.3&q=80&w=2000"
+image: "https:/img.unsplash.com/photo-1475869568365-7b6051b1e030"
 date: "Mon Nov 21 2022 20:38:03 GMT-0800 (Pacific Standard Time)"
 categories: postgres
 summary: Web Assembly is enabling people to do some crazy stuff in the browser, including running a full PostgreSQL installation and Adobe Photoshop!      
