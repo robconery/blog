@@ -2,8 +2,8 @@
 layout: compress
 ---
 {
-  "title": "{{ page.title }}",
-  "excerpt": "{{ page.excerpt }}",
+  "title": "{{ page.title | jsonify }}",
+  "excerpt": "{{ page.excerpt | jsonify }}",
   "date": "{{ page.date | date: "%Y-%m-%d" }}",
   "tags": [
     {% for tag in page.tags %}
