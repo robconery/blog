@@ -1,0 +1,138 @@
+---
+layout: default
+disqus: false
+archive: false
+post_class: post-template
+---
+
+<div class="container" id="post-box">
+  <div class="row">
+
+    <!-- Post Share -->
+    <div class="col-md-2 pl-0">
+      {% include share.html %}
+    </div>
+
+    <!-- Post -->
+    {% assign author = site.authors[page.author] %}
+
+    <div class="col-md-9 flex-first flex-md-unordered">
+      <div class="mainheading">
+
+
+        <!-- Post Title -->
+        <h1 class="posttitle">{{ page.title }}</h1>
+        {% if page.summary %}<p style="font-style: italic; font-size: 30px; font-family: Merriwether; color:#888">{{page.summary}}</p>{% endif %}
+      </div>
+
+      <!-- Post Featured Image -->
+      {% if page.image %}
+      <img class="featured-image img-fluid striped" src="{{ page.image }}" alt="{{ page.title }}" style="width:100%;height:auto">
+      {% endif %}
+      <!-- End Featured Image -->
+      <p>
+        <small>
+          <span class="post-date"><time class="post-date"
+              datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>
+          {% if page.last_modified_at %}
+          (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}"
+            itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+          {% endif %}
+        </small>
+      </p>
+
+      <!-- Post Categories -->
+      <div class="after-post-cats">
+        <ul class="tags mb-4">
+          {% assign sortedCategories = page.categories | sort %}
+          {% for category in sortedCategories %}
+          <li>
+            <a class="smoothscroll"
+              href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      <!-- End Categories -->
+
+      <hr>
+      <!-- Post Content -->
+      <div class="article-post">
+        <!-- Toc if any -->
+        {% if page.toc %}
+        {% if page.beforetoc %}
+        <p><em>{{page.beforetoc}}</em></p>
+        {% endif %}
+        <div class="toc mt-4 mb-4 lead">
+          <h3 class="font-weight-bold">Summary</h3>
+          {% include toc.html html=content %}
+        </div>
+        {% endif %}
+        <!-- End Toc -->
+        {{content}}
+
+        {% if page.categories contains 'Career' %}
+
+        <div class="row" style=" border: 1px solid #B0BEC5; padding:18px; background-color: #ECEFF1; border-radius: 8px; margin-bottom: 24px; margin-top:24px;">
+          <div class="col-md-2">
+            <a href="https://bigmachine.io/products/the-imposters-handbook/">
+              <img src="/img/cover_both.png" alt="">
+            </a>
+          </div>
+          <div class="col-md-8">
+            <h4 style="font-size: 22px;">Self-taught programmer like me?</h4>
+            <p style="padding:0;margin:0;font-size: 16px;">
+              <i>I don't have a CS degree so in 2014 I decided to change that... <a href="https://bigmachine.io/products/the-imposters-handbook/">and I wrote a book!</a></i>
+            </p>
+          </div>
+  
+        </div>
+  
+        {% endif %}
+        {% if page.categories contains 'Postgres' %}
+
+        <div class="row" style=" border: 1px solid #B0BEC5; padding:18px; background-color: #ECEFF1; border-radius: 8px; margin-bottom: 24px; margin-top:24px;">
+          <div class="col-md-3">
+            <a href="https://bigmachine.io/products/a-curious-moon/">
+              <img src="/img/cover_v3.jpg" alt="A Curious Moon Cover" class="striped">
+            </a>
+          </div>
+          <div class="col-md-8">
+            <h4 style="font-size: 22px;">Want to Learn More About Postgres?</h4>
+            <p style="padding:0;margin:0;font-size: 16px;">
+              <i>Learn PostgreSQL the way most DBAs do: on the job and under the gun. You'll follow our fictional intern, Dee Yan, as she digs into the actual data from the Cassini Mission, probing for life on one of Saturn's Moons!</i>
+            </p>
+          </div>
+  
+        </div>
+  
+        {% endif %}
+
+      </div>
+
+      <!-- Prev/Next -->
+      <div class="row PageNavigation d-flex justify-content-between font-weight-bold" style="margin-top: 18px;">
+        {% if page.previous.url %}
+        <a class="prev d-block col-md-6" href="{{page.previous.url}}"> &laquo;
+          {{page.previous.title}}</a>
+        {% endif %}
+        {% if page.next.url %}
+        <a class="next d-block col-md-6 text-lg-right" href="{{page.next.url}}">{{page.next.title}}
+          &raquo; </a>
+        {% endif %}
+        <div class="clearfix"></div>
+      </div>
+
+    </div>
+
+
+  </div>
+</div>
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fitvids/1.2.0/jquery.fitvids.min.js"></script>
+<script>
+  $(document).ready(function(){
+    // Target your .container, .wrapper, .post, etc.
+    $("#post-box").fitVids();
+  });
+</script>
