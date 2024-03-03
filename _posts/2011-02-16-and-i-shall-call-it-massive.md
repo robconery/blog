@@ -8,7 +8,7 @@ slug: "and-i-shall-call-it-massive"
 categories: Database
 ---
 
-![](/img/massive.jpeg)
+![](https://blog.bigmachine.io/img/massive.jpeg)
 
 ##  It's Massive Yo
 
@@ -22,7 +22,7 @@ I toyed around with calling it "SubSonic 4.0" - because honestly everything I ev
 
 I just pushed this as a package to NuGet - so you can grab it right from there if I've packaged it right.
 
-![](/img/massive_nuget.png)
+![](https://blog.bigmachine.io/img/massive_nuget.png)
 
 ## Design Choice 1: No Dependencies Other Than What's In The GAC
 

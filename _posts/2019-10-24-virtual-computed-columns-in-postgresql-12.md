@@ -72,7 +72,7 @@ generated always as (body ->> 'text');
 
 Run this and the generated column is created and then populated as well! Check it:
 
-![](/img/screenshot_201.jpg)
+![](https://blog.bigmachine.io/img/screenshot_201.jpg)
 
 title is now a relational column
 
@@ -111,7 +111,7 @@ generated always as (to_tsvector('english', body ->> 'title')) stored;
 
 This works really well, as you can see:
 
-![](/img/screenshot_202.jpg)
+![](https://blog.bigmachine.io/img/screenshot_202.jpg)
 
 But it took me about 2 hours (seriously) to figure this out as I kept getting a really annoying error, which I'll go into in a minute:
 

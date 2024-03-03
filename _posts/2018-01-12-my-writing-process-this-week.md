@@ -68,7 +68,7 @@ I popped the chapters out as PDFs and loaded them into Dropbox where she was abl
 
 Finally, we come to the pain. I’m very driven by formatting and presentation. The things I make don’t need to look overly fancy, I just want them to look (as Steve Jobs once said about the iPhone) _like you could lick it_. Pixel-precision makes people like what they’re looking at.
 
-![](/img/indesign.png)
+![](https://blog.bigmachine.io/img/indesign.png)
 
 For that, I took my edited final draft and loaded it into Adobe’s InDesign. I had to take 4 (seriously: 4) classes from Lynda.com to figure how this thing worked, but once I got it down it was off to the races. Yes, I could have farmed this out to Upwork too but I’m kind of a nut about this stuff.
 

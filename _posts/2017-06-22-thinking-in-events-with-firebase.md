@@ -26,7 +26,7 @@ I don't know - and that's kind of fun! I'll ponder this question repeatedly as I
 
 I'm building an ecommerce app, nothing terribly surprising about how it works. Product pages, a cart of some kind and finally a checkout page powered by Stripe:
 
-![](/img/checkout.jpg)
+![](https://blog.bigmachine.io/img/checkout.jpg)
 
 This here is [Stripe Checkout](https://stripe.com/checkout). You could write your own checkout form if you want, but I dig this.
 
@@ -82,7 +82,7 @@ This is where _thinking in events_ starts to take shape! By writing this checkou
 
 If you're wondering if I've fallen and hit my head - I don't blame you. Allowing the public to write to your database is completely lame! The good news is that we have some rules we can define to help us out. Let's take a look at them now and I'll explain more as we go:
 
-![](/img/rules_1-1.jpg)
+![](https://blog.bigmachine.io/img/rules_1-1.jpg)
 
 Every firebase database allows you to specify a set of _rules_ for working with data. These rules dictate what can be written, read, how to validate the data and finally how it should be indexed. I'll get to all of this later on, for now, focus on the highlighted area.
 

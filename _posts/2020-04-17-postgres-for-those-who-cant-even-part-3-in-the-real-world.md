@@ -243,7 +243,7 @@ One of the things I also added to this starter site is an "in-house" deployment 
 
 I added [Commander](https://github.com/tj/commander.js) from TJ because I think every app - even a web app - should have a CLI. I added a bunch of commands and a few other things to streamline the deployment experience and it all worked pretty well!
 
-![](/img/shot_178.jpg)
+![](https://blog.bigmachine.io/img/shot_178.jpg)
 
 You start with some Q&A, asking about where, what size web and DB servers, and your configuration is set for you in your package.json:
 
@@ -251,7 +251,7 @@ You start with some Q&A, asking about where, what size web and DB servers, and y
 
 There are no passwords in here - they're stored (for now) in a local DB in the root of the CLI which DOES NOT get committed. You can view everything, if you want, using a simple CLI command:
 
-![](/img/shot_179-1.jpg)
+![](https://blog.bigmachine.io/img/shot_179-1.jpg)
 
 All of your deployment users and passwords are generated for you, as well as you app's name, app servic plan name and so on. Again - I'll blog more about this in the next post but the idea here is to make this as seamless and simple as possible.
 

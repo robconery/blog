@@ -18,7 +18,7 @@ I've implemented this a number of times for myself and also my clients. I'll sho
 
 Let's use the typical ecommerce database for this example. Shopify is a grand example: they have a search bar across the top of the admin site that will search all kinds of information based on what you enter, including customers, orders, help, etc:
 
-![](/img/shopify_search.png)
+![](https://blog.bigmachine.io/img/shopify_search.png)
 
 It's kind of neat. As you can see, I triggered this search by entering the letter "t" in the search box. Kind of meaningless, really, and not something that will work well with a full-text index.
 
@@ -66,7 +66,7 @@ from orders;
 
 Here's what that returns, using real data from my site (with bits blurred out):
 
-![](/img/screenshot_922-1.jpg)
+![](https://blog.bigmachine.io/img/screenshot_922-1.jpg)
 
 Great. Now we need to query the other tables, making sure to follow the same structure:
 
@@ -102,7 +102,7 @@ Ahh joy, an unbounded UNION query that's likely to get Annie fired. Let's fix th
 
 If we had to run this query against a live data set, we'd make our DBA mad. Even if it's just "every now and again", we're pulling a giant amount of data into a query and it hurts. How bad does it hurt? Of course Annie has done an EXPLAIN/ANALYZE so she knows how much trouble she'll be if she doesn't optimize:
 
-![](/img/screenshot_923.jpg)
+![](https://blog.bigmachine.io/img/screenshot_923.jpg)
 
 You don't know my data, but I'll just tell you that this is doing not just one, not two, but **three full table scans** and a bunch of other crappy bad things. We can't do this, so we'll turn to one of the greatest things in PostgreSQL: _the materialized view_. It's basically a query that is cached for you, in memory, that you can also throw an index on (which we'll do in a bit):
 
@@ -113,11 +113,11 @@ create materialized view admin_search as
 
 That's it. Now we can run a _much faster_ and simpler query:
 
-![](/img/screenshot_925.jpg)
+![](https://blog.bigmachine.io/img/screenshot_925.jpg)
 
 Annie doesn't like simply trusting her eyes, she want's PostgreSQL to tell her if this query is indeed faster so she uses EXPLAIN/ANALYZE:
 
-![](/img/screenshot_926.jpg)
+![](https://blog.bigmachine.io/img/screenshot_926.jpg)
 
 There is a sequential scan, but the query is much more efficient than before.
 
@@ -198,11 +198,11 @@ order by ts_rank(search,to_tsquery('joe')) desc;
 
 This comes back at lightning speed with the following results:
 
-![](/img/screenshot_927.jpg)
+![](https://blog.bigmachine.io/img/screenshot_927.jpg)
 
 Dig that! Ranked search results that identify 3 customers named "Joe" right at the top. Much more useful and incredibly efficient. Dig this:
 
-![](/img/screenshot_928.jpg)
+![](https://blog.bigmachine.io/img/screenshot_928.jpg)
 
 This loose text term is using a Bitmap scan (which is a good thing) and executes _in under a millisecond_. That's **winning, people**.
 

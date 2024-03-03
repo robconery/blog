@@ -44,4 +44,4 @@ I should add that it's largely based on my career experience here in the US. Oth
 
 I'm hoping to do more small, polished, < $20 1-hour videos like this one. If you're in to the idea, [hit me up on twitter](https://twitter.com/robconery) and let me know! I miss the monthly drops from Geoffrey Grosenbach and friends - it was so much fun to take a break over the weekend and learn something new!
 
- [![](/img/solo_slide.jpg)](https://goo.gl/JPXWUQ)
+ [![](https://blog.bigmachine.io/img/solo_slide.jpg)](https://goo.gl/JPXWUQ)

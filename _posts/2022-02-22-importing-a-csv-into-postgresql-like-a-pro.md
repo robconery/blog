@@ -18,7 +18,7 @@ head -1 master_plan.csv
 
 This will pop out the very first line of the CSV, which is typically the header row. I’m working with Cassini’s mission plan data, so this is what I see:
 
-![](/img/2022/08/head-command.png)
+![](https://blog.bigmachine.io/img/2022/08/head-command.png)
 
 Now I just copy/paste that into VS Code and run a simple replacement using “Change all Occurrences” to build my create table statement.
 

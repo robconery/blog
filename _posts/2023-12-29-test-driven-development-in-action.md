@@ -11,4 +11,4 @@ A few years back I recorded a coding session with [Brad Wilson](https://mastodon
 
 The result is the video below, which was pretty popular on one of my other video sites. It is a bit dated but I don't think the methods changed at all! Hope you enjoy.
 
-It's free, by the way, you just need to [sign in or create an account](#/portal/signup).
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/898418061?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="TDD with Brad Wilson"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>

@@ -21,7 +21,7 @@ I was trying to decide between using Nuxt 2 and Nuxt 3, which wasn't released bu
 
 The reason I should have used Nuxt 3 is that it uses Vue 3 under the hood, which has a devotion to _terseness_. For instance, this code here is old school Vue 2:
 
-![](/img/2022/11/bip_931.jpg)
+![](https://blog.bigmachine.io/img/2022/11/bip_931.jpg)
 
 Here's Vue 3 :
 

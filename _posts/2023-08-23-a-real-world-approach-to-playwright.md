@@ -63,7 +63,7 @@ If you didn't know (like me), ARIA stands for "Accessibility Rich Internet Appli
 
 Most browsers have some form of Accessibility developer tooling. Chrome gives you Lighthouse, which examines your page and offers suggestions. Firefox has an actual Accessibility tab:
 
-![](/img/2023/08/screenshot_121.jpg)
+![](https://blog.bigmachine.io/img/2023/08/screenshot_121.jpg)
 
 This is how assistive technology sees my blog, and also how Playwright (using certain locators) will find DOM elements on my page.
 

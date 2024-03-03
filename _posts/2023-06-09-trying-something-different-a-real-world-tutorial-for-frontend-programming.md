@@ -41,7 +41,7 @@ Elden Ring is my favorite game of all time, right next to Diablo 2 and 3\. It to
 
 Until I [found this](https://www.youtube.com/watch?v=PN7YFKHOR9Y&list=PL7RtZMiaOk8gdRf130w4gFYyhstL-5VRh):
 
-![](/img/2023/06/bip_1880.jpg)
+![](https://blog.bigmachine.io/img/2023/06/bip_1880.jpg)
 
 The 82-episode Elden Ring Walkthrough from FightinCowboy
 
@@ -51,11 +51,11 @@ I watched the whole thing - which is a major feat because finishing this game re
 
 **When I reached the end of the walkthrough I was actually sad,** as were many others. Reading through the comments made it pretty clear: _this guy touched people's lives:_
 
-![](/img/2023/06/image.png)
+![](https://blog.bigmachine.io/img/2023/06/image.png)
 
 I know, I know! It's a video game - how can people be so _maudlin_ about running around dungeons and trekking through castles? You might think it's all a bunch of weird gamers, too, but nope:
 
-![](/img/2023/06/image-1.png)
+![](https://blog.bigmachine.io/img/2023/06/image-1.png)
 
 **As a content creator, this is the ultimate high: touching someone's life, making their world just a bit brighter.** That's why I do what I do, at least.
 
@@ -67,7 +67,7 @@ Building and shipping applications, to me, has the same set of ups and downs as 
 
 **The development journey... that's the fun part**. I want to capture that fun - and that's exactly what I've started doing with my own walkthrough using Vue 3 and Nuxt 3:
 
-![](/img/2023/06/bip_2019.jpg)
+![](https://blog.bigmachine.io/img/2023/06/bip_2019.jpg)
 
 The app, so far
 
@@ -117,7 +117,7 @@ So I'm doing the same with this effort. I'm trying to pack a TON of information 
 
 Anyway: if you're interested, **the presale is open** and I invite you to have a look:
 
-[Todo list tutorials just don’t cut itJavaScript client frameworks are powerful and help you create an amazing experience for your end user. Unfortunately, learning how to use them sucks.![](/img/size/w256h256/2022/08/suns-1.png)Rob ConeryRob Conery![](/img/2023/09/860997441.jpg)](%5F%5FGHOST%5FURL%5F%5F/frontend-accelerator/)
+[Todo list tutorials just don’t cut itJavaScript client frameworks are powerful and help you create an amazing experience for your end user. Unfortunately, learning how to use them sucks.![](https://blog.bigmachine.io/img/size/w256h256/2022/08/suns-1.png)Rob ConeryRob Conery![](https://blog.bigmachine.io/img/2023/09/860997441.jpg)](%5F%5FGHOST%5FURL%5F%5F/frontend-accelerator/)
 
 I would absolutely LOVE to have your help, if you're willing, and yes you'll have access to everything forever.
 

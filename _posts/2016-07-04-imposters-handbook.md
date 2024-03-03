@@ -75,7 +75,7 @@ Here's a list of the chapters I have so far (in no particular order):
 
 I might add some things or prune back but as I mention: I'm 80% there.
 
-![](/img/imp_1.png)
+![](https://blog.bigmachine.io/img/imp_1.png)
 
 ## Whatever Why Am I Telling You?
 
@@ -83,7 +83,7 @@ I thought if you had any ideas or requests you could let me know (do it on Twitt
 
 Which I think is critical: *I don't take this lightly*. One sure fire way that I'll learn this stuff is to have my ass on the line - and it really, really is with this effort.
 
-![](/img/imp_2.png)
+![](https://blog.bigmachine.io/img/imp_2.png)
 
 ## Is This Supposed To Replace a Degree?
 
@@ -91,7 +91,7 @@ HELL. NO. My goal with this book is to show non-CS grads just how much they don'
 
 I hope to fire up the non-CS grads out ther to go investigate subjects that interest them. To seek out the easily-accessible, **free** online courses from Harvard, Stanford, and other high-caliber schools. All links will be included in the book.
 
-![](/img/imp_3.png)
+![](https://blog.bigmachine.io/img/imp_3.png)
 
 ## You Really Should Have a Chapter On X
 

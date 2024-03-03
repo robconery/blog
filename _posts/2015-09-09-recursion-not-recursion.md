@@ -10,7 +10,7 @@ categories: Elixir
 
 Had a great comment from [my last post](http://rob.conery.io/2015/09/04/using-recursion-in-elixir-to-break-your-oo-brain/) (about using Recursion):
 
-![](/img/2015/09/Screen-Shot-2015-09-09-at-8.55.13-AM-1024x226.png)
+![](https://blog.bigmachine.io/img/2015/09/Screen-Shot-2015-09-09-at-8.55.13-AM-1024x226.png)
 
 I had to Google what "acyclic call graph" meant because I just couldn't remember :). I *do* remember what a call graph is... but...
 

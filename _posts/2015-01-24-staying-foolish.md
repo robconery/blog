@@ -15,7 +15,7 @@ So much so that I'm blogging again, and given the burnout that I've been dealing
 
 The deal is this - I think I've finally figured out what has been bogging me down, fucking my head up and sapping my energy for doing... well anything really. And it's this: <em>I think I know too much.</em> Or, put another way, <strong>I think too much</strong>.
 
-![](/img/2015/01/IMG_1787.jpg)
+![](https://blog.bigmachine.io/img/2015/01/IMG_1787.jpg)
 
 I've spent the last 7 years of my career studying and sharing what I know through blog posts and videos and you know what? <em>That was a good time.</em> The problem with that, however, is that <strong>you tend to retain some of the things you learn.</strong> And after a while... the noise... oh MY GOD THE NOISE...
 
@@ -47,7 +47,7 @@ And that's the thing:  it <em>literally made people cry</em> who were used to 
 
 I had pulled in over 10,000 text file dumps from their current main frame system and I used Windows NT4 with IndexServer to scan the files - which took about 10 minutes total. I then hooked up Active Server Pages to THAT and had a query that returned in 20 milliseconds. When I demoed this to my client he <em>literally punched me. </em> And we made the user cry with the speed and ease of use of our app.
 
-![](/img/2015/01/350opindexlocation.gif)
+![](https://blog.bigmachine.io/img/2015/01/350opindexlocation.gif)
 
 That's right... breathe it in...
 
@@ -55,7 +55,7 @@ That's the best I've ever felt doing my job. <em>It was glorious.</em> And whi
 
 <strong>And now here I am in 2015 writing blog posts on JavaScript</strong>. God damn that's really depressing.
 
-![](/img/2015/01/iceice.jpg)
+![](https://blog.bigmachine.io/img/2015/01/iceice.jpg)
 
 Yo. JavaScript?
 
@@ -72,7 +72,7 @@ I know, hot wind and whining don't solve anything, and rather than change the wo
 
 <strong>Possibilities</strong>. Back then there were so many - <em>you knew the technology was crap</em> but you also <em>believed it would get better as time went on</em>. In many ways it has, in many ways it hasn't (see 3 paragraphs above).
 
-![](/img/2015/01/Star_Child___from___2001___by_Lukasx.jpg)
+![](https://blog.bigmachine.io/img/2015/01/Star_Child___from___2001___by_Lukasx.jpg)
 
 ## Repaving My Brain
 

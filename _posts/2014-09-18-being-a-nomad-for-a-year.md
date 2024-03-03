@@ -21,7 +21,7 @@ She looked at me with an expression that was all agreement and I simply said: **
 
 We mused on it for a few hours - if we could do anything what would we do? Travel was the first thing we thought of and then I said "I want to go through Europe" almost at the same time she said it. And there it was.
 
-![](/img/stillness.jpg)
+![](https://blog.bigmachine.io/img/stillness.jpg)
 
 ## Money
 
@@ -50,7 +50,7 @@ We thought about these questions and I quickly realized that thinking about them
 
 Her answer was an emphatic "YES". We asked the kids as well and they said the same: "YES YES YES!" They were excited but all of a sudden I found myself hesitant. I don't know why I did but I decided to take an extra day to make sure I wasn't being knee-jerky and destroying what I felt was a pretty good life.
 
-![](/img/bergs_girls.jpg)
+![](https://blog.bigmachine.io/img/bergs_girls.jpg)
 
 But I knew I wanted to go. I'd always wanted to do this!
 
@@ -71,7 +71,7 @@ I don't say that casually - it took a lot of hard work and convincing people tha
 
 > If I'm not able to deliver for you, don't pay me. If you want to ensure that I don't deliver for you, make me work in your office.
 
-![](/img/soest.jpg)
+![](https://blog.bigmachine.io/img/soest.jpg)
 
 For many potential clients this didn't work, but for some it did. And I built a rapport with these people (usually referrals from friends) and quickly my remoteness was not a problem.
 

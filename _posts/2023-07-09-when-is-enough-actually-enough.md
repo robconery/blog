@@ -9,7 +9,7 @@ summary: Solving problems is what we do, but sometimes the solution is to burn i
 
 I'm wrapping up a **2.5 day, 9 hour thrashfest** where trying to fix this bug, right here:
 
-![](/img/2023/07/screenshot_17.jpg)
+![](https://blog.bigmachine.io/img/2023/07/screenshot_17.jpg)
 
 I'm working with Nuxt 3, Vue 3 and Vuetify for the [Accelerator Walkthrough](%5F%5FGHOST%5FURL%5F%5F/frontend-accelerator/) production I'm putting together and hit this little snag on Friday. It's now Sunday, right before noon PDT, and **I finally fixed it.**
 
@@ -19,7 +19,7 @@ I'm frustrated, of course. I did learn a few things, which is obviously groovy (
 
 I think [this quote from Adam Wathan](https://adamwathan.me/renderless-components-in-vuejs/), creator of Tailwind CSS, nails it:
 
-![](/img/2023/07/screenshot_18.jpg)
+![](https://blog.bigmachine.io/img/2023/07/screenshot_18.jpg)
 
 I have an extremely low tolerance for nonsense and I faced a non-stop parade of nonsense this weekend that forced me to go outside and breath fresh air _far more_ than I wanted to.
 
@@ -29,21 +29,21 @@ Here's what happened...
 
 I'm wrapping up the section of the walkthrough where we plug in authorization using an API call. Everything had started to click and I was breezing through the backend code stuff, and the final bit was to change the icon in the navigation list when the user logs in and verified as an owner of the given video course:
 
-![](/img/2023/07/screenshot_19.jpg)
+![](https://blog.bigmachine.io/img/2023/07/screenshot_19.jpg)
 
 As you can see, the icons are laying out just fine and everything should work, right? This is when things fell apart and this fun little error showed up, destroying everything:
 
-![](/img/2023/07/screenshot_17-1.jpg)
+![](https://blog.bigmachine.io/img/2023/07/screenshot_17-1.jpg)
 
 Everything stopped rendering properly when error triggered. The videos wouldn't load, the logout button stopped working, text didn't show up... painful.
 
 Clicking through for more info led nowhere. No stack trace, nothing. Eventually **I tried a different browser (Brave) and saw something weird**. Instead of a "TypeError: child is null" error, I saw this:
 
-![](/img/2023/07/screenshot_20.jpg)
+![](https://blog.bigmachine.io/img/2023/07/screenshot_20.jpg)
 
 Clicking through there I was able to set a few breakpoints and see what Vue was up to under the hood:
 
-![](/img/2023/07/screenshot_21.jpg)
+![](https://blog.bigmachine.io/img/2023/07/screenshot_21.jpg)
 
 Vue is trying to remove an element from the DOM that it thinks shouldn't be there. But which one? Reading the `child` value didn't help at all as I couldn't tell what was being called to begin with.
 
@@ -53,11 +53,11 @@ Eventually I started removing everything, bit by bit, to see if the error would 
 
 It took me 90 minutes to slowly and methodically slice out every single component in my application, and eventually I got to this:
 
-![](/img/2023/07/screenshot_22.jpg)
+![](https://blog.bigmachine.io/img/2023/07/screenshot_22.jpg)
 
 This is the login modal that I've been using to log people in, which looks like this:
 
-![](/img/2023/07/screenshot_23.jpg)
+![](https://blog.bigmachine.io/img/2023/07/screenshot_23.jpg)
 
 It pops up and, like so many sites out there, you get a code in your email and pop it in place. It looks great, sliding back and forth... but **using it in a modal window is, apparently, problematic**.
 
@@ -69,25 +69,25 @@ _My_ solution turned out to be creating my own login page and ditching the modal
 
 Creating my own page led to the next error, which was a new one, that happens when you click "Next" after entering your email:
 
-![](/img/2023/07/screenshot_24.jpg)
+![](https://blog.bigmachine.io/img/2023/07/screenshot_24.jpg)
 
 Same deal - click through, no help. Try Brave, see a whole different error report:
 
-![](/img/2023/07/screenshot_25.jpg)
+![](https://blog.bigmachine.io/img/2023/07/screenshot_25.jpg)
 
 This one, however, came with a crucial detail that I missed with Firefox:
 
-![](/img/2023/07/screenshot_28.jpg)
+![](https://blog.bigmachine.io/img/2023/07/screenshot_28.jpg)
 
 Vue doesn't like a type I'm using with... an avatar? On my login page? Oh... right...
 
-![](/img/2023/07/screenshot_26.jpg)
+![](https://blog.bigmachine.io/img/2023/07/screenshot_26.jpg)
 
 This is the little step number indicator in the top left. It doesn't like that I'm sending a number into `v-text`. So it blew up the application.
 
 Wait a minute... where did this code come from? Oh, right, the Vuetify documention which is quite extensive and apparently full of weirdness:
 
-![](/img/2023/07/screenshot_29-1.jpg)
+![](https://blog.bigmachine.io/img/2023/07/screenshot_29-1.jpg)
 
 I know they're doing their best and, if I'm honest, Vuetify has saved me mountains of time over the years. Except when I hit walls like this and end up giving that time back.
 

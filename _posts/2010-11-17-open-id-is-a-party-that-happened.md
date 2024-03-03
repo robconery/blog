@@ -15,13 +15,13 @@ I know the first thing you're going to think: "StackOverflow seems to have worke
 
 So I head over to Stackoverflow and login using the Open ID I use for everything - Google. And I'm met with this:
 
-![](/img/so_openid.png)
+![](https://blog.bigmachine.io/img/so_openid.png)
 
 James is laughing hysterically as I sputter... "What the FU**! You GOTTA be KIDDING me!" I don't have a ton of rep over there - but I spose it's enough to care about. In truth I haven't had to login over there in a very long time - I've just been really busy.
 
 So I start going through the recovery process:
 
-![](/img/so_openid_recover.png)
+![](https://blog.bigmachine.io/img/so_openid_recover.png)
 
 Problem is I have a few emails that I use - and if I didn't use my Google login (as I thought I did above) - I really have no idea which email it is. So I start rifling off all of my emails, waiting to see if SO would know who I am.
 

@@ -11,7 +11,7 @@ It's a lovely sunny day here in Northern CA (where I am currently in the world) 
 
 I (currently) work at Microsoft as a developer advocate and part of our job is to help out where help is needed. I have a lot of experience doing front end "stuff", specifically with Vue and Nuxt (I've shipped quite a few apps), so I was asked to chip in and **lead the engineering effort behind LearnTV**, a video streaming service that Microsoft wanted to use for streaming events, news, and videos from the Channel 9 archives:
 
-![](/img/2023/01/bip_1547.jpg)
+![](https://blog.bigmachine.io/img/2023/01/bip_1547.jpg)
 
 I had a ton of fun with this project - mostly because I got to work with PostgreSQL and do some very interesting scheduling problems with it!
 
@@ -21,7 +21,7 @@ We wanted to present our users with a "guide" like you see on any TV: a grid of 
 
 This is what the old "guide" looked like:
 
-![](/img/2023/01/bip_1546-1.jpg)
+![](https://blog.bigmachine.io/img/2023/01/bip_1546-1.jpg)
 
 Hopefully you see the problem: weird start and end times that weren't very TV-like. To solve this problem, we created programming `slots` and filled them as best we could - sort of like TV guide Tetris. 
 

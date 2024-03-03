@@ -17,7 +17,7 @@ categories: Opinion
 
 Do you know who this is important to? **No one.** Well maybe except [this guy](https://github.com/rails/rails/issues/348) (from the Rails issue list): 
 
-![](/img/Screen-Shot-2012-02-27-at-3.18.47-PM.png)
+![](https://blog.bigmachine.io/img/Screen-Shot-2012-02-27-at-3.18.47-PM.png)
 
 Can you imagine? **How in the hell did Rails make it this far without properly implementing PATCH?** 
 
@@ -103,7 +103,7 @@ He shows me some samples to read over - and against my will - I found myself dra
 
 And I asked the question. I shouldn't have. But I couldn't help it. The Controllers... there were two of them, and they had the same name, and their code was roughly the same...
 
-![](/img/2012-02-27_1431.png)
+![](https://blog.bigmachine.io/img/2012-02-27_1431.png)
 
 I should have known I was doomed:
 

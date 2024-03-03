@@ -53,7 +53,7 @@ I have to use a bunch of `script` tags to pull in the libraries I want, which me
 
 Once all that's done, it's off to the races. I think it looks kind of nice, don't you?
 
-![](/img/2022/11/bip_1235.jpg)
+![](https://blog.bigmachine.io/img/2022/11/bip_1235.jpg)
 
 Currently, **I'm doing this for member-only stuff**, but if you want to see a list of the courses I [have you can have a look here.](%5F%5FGHOST%5FURL%5F%5F/tag/courses)
 

@@ -37,7 +37,7 @@ That last one gets me and yes, I do realize it's a peave I have that I should pr
 
 But here, let's try it together. Google "[Real World Datasets](https://www.google.com/search?q=real+world+datasets)." The results are pretty good:
 
-![](/img/2022/09/image.png)
+![](https://blog.bigmachine.io/img/2022/09/image.png)
 
 One of the links you'll end up at is Kaggle, one of my favorite data sites:
 

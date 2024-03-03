@@ -45,7 +45,7 @@ exports.stripe_charge = functions.https.onRequest((req, res) => {
 
 That record is a literal one, as you see here:
 
-![](/img/progress-1.jpg)
+![](https://blog.bigmachine.io/img/progress-1.jpg)
 
 **This is the key**: if our functions keep updating this `progress` field, we'll be able to listen to it and react realtime on the client. We can then decide when the order is "done" from the customer's perspective.
 
@@ -68,7 +68,7 @@ The next step is to initialize Firebase from the client. It's triple-important t
 
 To get a quick script for our setup, we can go to the Firebase console for our app, click "Authentication" in the nav menu, and then "WEB SETUP" which is in the top right. This will pop the code you need:
 
-![](/img/credentials.png)
+![](https://blog.bigmachine.io/img/credentials.png)
 
 Put that at the top of the page.
 
@@ -131,7 +131,7 @@ var app = new Vue({
 
 Before this will work, however, we have to make sure we've set the rules so we can listen:
 
-![](/img/rules.png)
+![](https://blog.bigmachine.io/img/rules.png)
 
 Firebase rules aren't the easiest thing to get used to, but once you write a few of them they get easier to understand. Here I'm saying "for every sale, the `progress` field can be read but not written to".
 
@@ -169,4 +169,4 @@ The really nice part about all of this is that we can show a download button onc
 
 Here's a checkout that's complete, as far as the client is concerned, but has not yet completed as far as we're concerned (no email sent or reporting created):
 
-![](/img/sale_complete.png)
+![](https://blog.bigmachine.io/img/sale_complete.png)

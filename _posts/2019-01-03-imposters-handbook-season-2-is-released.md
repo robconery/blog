@@ -13,7 +13,7 @@ categories:
 
 Over the winter holiday break (on Christmas Eve, to be precise), [Scott Hanselman](https://hanselman.com) and I released [the next volume in the](http://bit.ly/2F2vS3Z) _[Imposter's Handbook](http://bit.ly/2F2vS3Z)_ [series.](http://bit.ly/2F2vS3Z) It took us just over 18 months to put this thing together and I couldn't be happier with it.
 
-![](/img/mutual-1024x768.png)
+![](https://blog.bigmachine.io/img/mutual-1024x768.png)
 
 Shannon's Second Theorem, Illustrated via Deathstar
 
@@ -23,7 +23,7 @@ There was so much content I had to ax from the first volume of _The Imposter's 
 
 That time came over the last 18 months. Scott and I dove into things like binary addition and subtraction, logic gates, and Boolean Algebra.
 
-![](/img/xor-1024x792.png)
+![](https://blog.bigmachine.io/img/xor-1024x792.png)
 
 Something I could never remember: XOR  
 
@@ -59,7 +59,7 @@ The story kind of wrote itself from that point on. Digital circuits led to digit
 
 Scott and I dove into all of this.
 
-![](/img/rsa_1.png)
+![](https://blog.bigmachine.io/img/rsa_1.png)
 
 Cracking a simple asymmetric cipher
 

@@ -33,7 +33,7 @@ I don't _think_ I am… but then again I do catch myself lamenting over "the goo
 
 Trying to be a good person, I decided to face this question head-on. Just last week I headed over to [NDC London](http://ndc-london.com) and had, once again, a _really really good time_. I think this was probably the best NDC London yet, primarily because they moved the venue to the Queen Elizabeth Center, right down the street from Buckingham and across from Westminster Abbey.
 
-![](/img/ndc-stage.jpg)
+![](https://blog.bigmachine.io/img/ndc-stage.jpg)
 
 While I was there, I decided to dig into Rob Sullivan’s thought a bit: _what would happen if I joined a modern dev team_? I remember sitting in the back of the room during [Felienne’s](http://www.felienne.com) amazing keynote, pondering what that would even look like:
 

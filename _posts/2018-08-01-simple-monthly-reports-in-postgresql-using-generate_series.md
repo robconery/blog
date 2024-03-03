@@ -11,13 +11,13 @@ categories:
 
 I have a reporting backend for [my book/video business](https://bigmachine.io) that has one chart which I stare at every day: **the daily sales**:
 
-![](/img/screenshot_929.jpg)
+![](https://blog.bigmachine.io/img/screenshot_929.jpg)
 
 I use Google Analytics religiously, but it's not reliable for ecommerce because ad blockers will also block Google Analytics so a number of sales simply aren't recorded.
 
 Anyway: _I need to roll my own reporting_ if I want to see anything of substance, which is fine as love playing with PostgreSQL. When you do that, however, you run into some interesting problems. Such as this one:
 
-![](/img/screenshot_930.jpg)
+![](https://blog.bigmachine.io/img/screenshot_930.jpg)
 
 Today is the first day of the month, so the chart only has a single value and the formatting is completely off. In fact it's off every day! This has been bugging me for a while, so today I decided to fix that.
 
@@ -214,6 +214,6 @@ group by days_in_month.the_date
 
 Boom. Works great:
 
-![](/img/screenshot_931.jpg)
+![](https://blog.bigmachine.io/img/screenshot_931.jpg)
 
 PostgreSQL is a joy to work with, and solutions to common problems are often right around the corner.

@@ -22,7 +22,7 @@ You might know straight away how to do this in Ruby or C# - but how would you ha
 
 This is some code that you might see in a Customers module:
 
-![](/img/Screen-Shot-2012-04-05-at-11.22.43-AM.png)
+![](https://blog.bigmachine.io/img/Screen-Shot-2012-04-05-at-11.22.43-AM.png)
 
 Yuck. 
 
@@ -34,7 +34,7 @@ There are two ways to do this: encapsulate the eventing, or make your entire obj
 
 The first thing to do is reference Node's event module and the util module as well - it has some helpers we'll need. Then we rewire the module to handle the events - I'll explain in a second, but here's the final code:
 
-![](/img/Screen-Shot-2012-04-05-at-11.28.17-AM.png)
+![](https://blog.bigmachine.io/img/Screen-Shot-2012-04-05-at-11.28.17-AM.png)
 
 So what's going on here? Well first - there are no more callbacks - we don't need them! We have events to listen to.
 
@@ -50,7 +50,7 @@ On line 29 I've added a final event trigger if everything works out: "successful
 
 On lines 35 through 38 we've implemented a bit of workflow. This doesn't need to be inside the Customer function - you can arrange these events wherever and however you like. The calling code can remove every event listener and replace it with its own if it wanted to reorganize the flow here.Speaking of calling code, here's what it might look like:
 
-![](/img/Screen-Shot-2012-04-05-at-11.40.12-AM.png)
+![](https://blog.bigmachine.io/img/Screen-Shot-2012-04-05-at-11.40.12-AM.png)
 
 You hook into the events, then run register() and respond as needed.
 

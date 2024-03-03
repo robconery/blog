@@ -41,7 +41,7 @@ I think of The Writer's Voice as that thing deep inside you that has something t
 
 Thankfully, humans have developed filters over time because speaking too freely tends to be a problem.
 
-![](/img/2022/11/napoleon-dynamite.gif)
+![](https://blog.bigmachine.io/img/2022/11/napoleon-dynamite.gif)
 
 Some of us have more filters than others, which finally brings me to the point of this whole post: **figure out which filters you need to throttle.**
 

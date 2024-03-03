@@ -61,11 +61,11 @@ At this point, I will avoid falling further into hyperbole and philosophy and, i
 
 Ruby's handling of Null is interesting. It's handled by a class called `NilClass` that is represented globally as a singleton: `nil`. Here's what happens if you try to do comparisons and math with it:
 
-![](/img/screenshot_854.png)
+![](https://blog.bigmachine.io/img/screenshot_854.png)
 
 Ruby throws, which makes sense. Python does this as well with its `None` construct. When you try to do other fun things, however, like ask `nil` if it is, indeed `nil` or convert `nil` into an integer or array...
 
-![](/img/screenshot_855.png)
+![](https://blog.bigmachine.io/img/screenshot_855.png)
 
 This is where coercion comes in and the fun begins. We rarely deal with Null directly; it tends to pop up as the value of a variable and is then coerced into logical operations. Here, Ruby is trying to be helpful by converting `nil` into an empty array, 0 and so on. This leads to an inconsistency: if `to_i` will turn `nil` into a 0, why won't that coercion happen when trying to multiply?
 
@@ -75,13 +75,13 @@ I suppose it's helpful if you know the rules, which you absolutely need to know 
 
 JavaScript has both `null` and `undefined`, but I'll just focus on `null`. As you might imagine, you can do all kinds of fun things with it:
 
-![](/img/screenshot_858.png)
+![](https://blog.bigmachine.io/img/screenshot_858.png)
 
 JavaScript won't throw when trying to do things with `null`. Instead, it will coerce as needed.
 
 Null in JavaScript is a primitive value and is not represented by an object. If you wanted to verify this, however, you would see this:
 
-![](/img/screenshot_859.png)
+![](https://blog.bigmachine.io/img/screenshot_859.png)
 
 This is JavaScript lying to you, believe it or not, and is the result of [a bug in the specification (from MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof):
 
@@ -93,7 +93,7 @@ Object, not an object... whatever...
 
 Believe it or not, this is where things get strange. C# is a pretty "hefty" language, for lack of better words, and I thought it would do things that just make sense. I was wrong:
 
-![](/img/screenshot_860.png)
+![](https://blog.bigmachine.io/img/screenshot_860.png)
 
 You can evaluate whether `null` is equal to itself, which it is. You cannot, however, apply a negation to it. I think I like this as C# is deciding not to coerce `null` into a truthy value.
 

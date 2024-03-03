@@ -16,7 +16,7 @@ Ultimately, **it's a book about data**. How working with it on a daily basis req
 
 ## An Icy Moon That Might Have Life
 
-![](/img/7796_PIA21346-full.jpg)
+![](https://blog.bigmachine.io/img/7796_PIA21346-full.jpg)
 
 I started writing this book in September 2017 as a quick tutorial on PostgreSQL, my favorite database. I intended it to be about 100 pages or so, designed to be a highly-focused, quick read that you could do on moderate plane flight.
 
@@ -32,7 +32,7 @@ Every bit of data from Cassini is public domain. NASA has 24 hours to release wh
 
 **There is over 20 years of data** from Cassini. TONS of readings from its 12 different instruments! In short: it just wasn't possible.
 
-![](/img/10.jpg)
+![](https://blog.bigmachine.io/img/10.jpg)
 
 I then recalled an interview with Andy Weir, where [he talked about](http://uk.businessinsider.com/andy-weir-the-martian-science-crowdsourcing-2015-10?r=US&IR=T) how he put together the story for _The Martian_:
 
@@ -56,4 +56,4 @@ It was easily the most fun I've ever had creating something. I hope that comes t
 
 Hopefully that all comes across in the book, and if you're interested [you can pick it up here](https://goo.gl/tWF5HE).
 
-![](/img/image-20170411-26720-1avikn7.jpg)
+![](https://blog.bigmachine.io/img/image-20170411-26720-1avikn7.jpg)

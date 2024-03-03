@@ -27,11 +27,11 @@ Let's start with [Webtask](https://webtask.io). I know a number of people over a
 
 If you [head over to the Webtask](https://webtask.io) site you'll see a simple page with a headline:
 
-![](/img/firebase/webtask.jpg)
+![](https://blog.bigmachine.io/img/firebase/webtask.jpg)
 
 It's a puzzling headline with a rather sparse lede. If you click on anything on this page (the green button or "learn more") you're asked to log in. Once you log in you're taken to this page:
 
-![](/img/firebase/webtask_2.jpg)
+![](https://blog.bigmachine.io/img/firebase/webtask_2.jpg)
 
 It's gorgeous, as you can see, but it just adds to the confusion. What "more" am I supposed to learn here? How much does this cost? What language do I use? What... is happening?
 
@@ -51,7 +51,7 @@ If you've worked with AWS before, you know that *nothing AWS is ever simple*. I 
 
 After signing into the AWS console and clicking on "Lambda", you're sent to a splash screen with a button that says "Get Started". You're then taken here:
 
-![](/img/firebase/aws_1.jpg)
+![](https://blog.bigmachine.io/img/firebase/aws_1.jpg)
 
 Welcome to AWS. It might just be me, but I feel like working with AWS is like wandering around the Mall of America, hoping to find *that one store* that sells *that one thing* you're trying to find.
 
@@ -67,7 +67,7 @@ OK maybe a little hyperbolic. There's just a lot of moving parts is what I'm try
 
 Right: after you pick you function (good luck with that) you're given this screen:
 
-![](/img/firebase/aws_2.jpg)
+![](https://blog.bigmachine.io/img/firebase/aws_2.jpg)
 
 Your function is executed based on some type of event. If you know AWS and you know what these services are, you're in luck! If not, say goodbye to the next few hours.
 
@@ -75,7 +75,7 @@ Your function is executed based on some type of event. If you know AWS and you k
 
 We want to choose "API Gateway" for this so we can call our function from the outside world over HTTPS. And then...
 
-![](/img/firebase/aws_3.jpg)
+![](https://blog.bigmachine.io/img/firebase/aws_3.jpg)
 
 This is where I'm going to hit the fast-forward button. I remember swearing a lot and feeling lost at this point (not hyperbole). I mean: *I know what these things are*, but I don't know the implications fully. We're talking about security here, and staging environments! These aren't to be taken lightly.
 
@@ -85,7 +85,7 @@ I tried to figure it out myself for 2 solid days, and then I just gave up and we
 
 The [Serverless Framework](https://serverless.com) is a Node project that automates most of the pain when dealing with AWS. The video on the site is reasonably informative but... clicking on the documentation link (from the home page) gives you a 404, which I think is funny. If you use the menu on the top you'll be OK.
 
-![](/img/firebase/serverless_1.jpg)
+![](https://blog.bigmachine.io/img/firebase/serverless_1.jpg)
 
 So, in short, you use their CLI to generate a YML file and a Node file for your function code. You can use Python or Java with Lambda, but for now we'll stick with Node.
 
@@ -157,7 +157,7 @@ Unfortunately I also want to **talk to a database that's not DynamoDB**. I like 
 
 The super silly thing is that I need to do this even if I use Amazon's RDS stuff - you have to have a VPC setup for security reasons. That aint cheap.
 
-![](/img/firebase/aws_4.jpg)
+![](https://blog.bigmachine.io/img/firebase/aws_4.jpg)
 
 VPCs and gateways are not cheap but, in the grand scheme of things, $50/month isn't so bad either. But if I'm going to pay that... why don't I just use Heroku?
 
@@ -165,7 +165,7 @@ VPCs and gateways are not cheap but, in the grand scheme of things, $50/month is
 
 It took me about 10 days to get things running properly. 2 of those days were spent being very, very frustrated trying to figure out all of the moving pieces and dealing with errors like this:
 
-![](/img/firebase/aws_happiness.png)
+![](https://blog.bigmachine.io/img/firebase/aws_happiness.png)
 
 This was the final capper for me:
 
@@ -208,7 +208,7 @@ I'll admit to a heavy amount of Magpie-ishness. I can't help it... it's just me 
 
 The [first impression](https://firebase.google.com) I had when looking over the "new" Firebase site was one of immense relief. The page is elegant, focused, easy on the eyes and easy to understand. The console is wonderfully simple, too:
 
-![](/img/firebase/firebase_1.jpg)
+![](https://blog.bigmachine.io/img/firebase/firebase_1.jpg)
 
 Clicking through each of the services made sense to me. But what about the functions? How simple would it be to get code up here? What about hosting? Can I SSL this stuff? Outbound networking? Can I use PostgreSQL instead of Firebase or, maybe, together with it?
 

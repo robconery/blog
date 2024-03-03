@@ -66,19 +66,19 @@ Using regular math, we can multiply -12 by -1, giving us 12, and we still have 7
 
 JavaScript agrees with this:
 
-![](/img/screenshot_956.png)
+![](https://blog.bigmachine.io/img/screenshot_956.png)
 
 C# also agrees with this:
 
-![](/img/screenshot_957.png)
+![](https://blog.bigmachine.io/img/screenshot_957.png)
 
 Google agrees with the first statement, but **disagrees with the second**:
 
-![](/img/screenshot_958.png)
+![](https://blog.bigmachine.io/img/screenshot_958.png)
 
 Ruby agrees with Google:
 
-![](/img/screenshot_959.png)
+![](https://blog.bigmachine.io/img/screenshot_959.png)
 
 **What in Djikstra's name is HAPPENING HERE!**
 
@@ -88,11 +88,11 @@ The answer to this problem is understanding the difference between a _remainder
 
 But why is there a discrepancy? Consider the positive modulo `19 mod 12` using a clock:
 
-![](/img/mod-clock-1.png)
+![](https://blog.bigmachine.io/img/mod-clock-1.png)
 
 The end result is a 7, as we know, and we can prove this using some math. But what about `19 mod -12`? **We have to use a different clock**:
 
-![](/img/Paper.Imposter-v2.61-2.png)
+![](https://blog.bigmachine.io/img/Paper.Imposter-v2.61-2.png)
 
 Our modulus is -12, and we can't ignore that or change it by multiplying by -1 as that's not the way modular math works. The only way to calculate this correctly is to relabel the clock so that we progress from -12, or spin the clock counterclockwise, which yields the same result.
 

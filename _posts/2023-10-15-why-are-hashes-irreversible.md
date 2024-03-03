@@ -35,13 +35,13 @@ Hashing, on the other hand, is completely different. **Hashing turns some value 
 
 Let's take our cake's individual ingredients and weigh them on a scale that only counts up to 11 grams and then starts again at 0:
 
-![](/img/2023/10/screenshot_172.jpg)
+![](https://blog.bigmachine.io/img/2023/10/screenshot_172.jpg)
 
 Some ingredients will weigh more than 11 grams, of course, but you would still record the number you see on the dial. For instance: 35o grams of flour would spin this dial around quite a few times before ultimately landing on the number 9.
 
 This is a _modular_ operation; `350 mod 11` to be specific:
 
-![](/img/2023/10/screenshot_173.jpg)
+![](https://blog.bigmachine.io/img/2023/10/screenshot_173.jpg)
 
 350 mod 11
 

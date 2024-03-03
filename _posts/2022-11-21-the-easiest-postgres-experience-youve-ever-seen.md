@@ -11,7 +11,7 @@ A few months ago my friend [**Craig Kerstiens**](https://twitter.com/craigkersti
 
 It turns out that people are taking Web Assembly pretty seriously, including Adobe, which [compiled PhotoShop and Acrobat to Web Assembly](https://web.dev/ps-on-the-web/) so you could run it in the browser!
 
-![](/img/2022/11/image-8.png)
+![](https://blog.bigmachine.io/img/2022/11/image-8.png)
 
 Image from https://web.dev/ps-on-the-web/
 

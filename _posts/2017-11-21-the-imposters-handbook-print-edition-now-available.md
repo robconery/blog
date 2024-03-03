@@ -19,7 +19,7 @@ It's expensive to print books and I did my best to drive the price as low as I c
 
 The main reason it's priced this high is because I needed color. Not quite picture book color, but something that would make my stellar drawings look stellar:
 
-![](/img/phys_3.jpg)
+![](https://blog.bigmachine.io/img/phys_3.jpg)
 
 I think they look pretty good!
 
@@ -31,13 +31,13 @@ I trimmed a little here and there to get the book size to fit Blurb's required p
 
 As I mention, I opted for "Economy Color" paper. I wasn't sure how it would turn out, but it looks pretty damn good! Even the code samples print clearly and legibly.
 
-![](/img/phys_2.jpg)
+![](https://blog.bigmachine.io/img/phys_2.jpg)
 
 ## Size
 
 I went with 6x9 "Trade Book", which is a bit smaller than normal hardcover books. It fits really well into a bag and looks fashionable too:
 
-![](/img/phys_1.jpg)
+![](https://blog.bigmachine.io/img/phys_1.jpg)
 
 ## Can I Have \[Discount/Ebook/Something\]
 

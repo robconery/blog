@@ -35,7 +35,7 @@ It worked out pretty well, too. **I wrote everything in Word** and then hired an
 
 It was worth it, I think, the book looks amazing...
 
-![](/img/gravity_assist.jpg)
+![](https://blog.bigmachine.io/img/gravity_assist.jpg)
 
 The Problem is that it's **laborious** and just killed my inspiration. Making edits, for instance, means I have to use InDesign's ultra crap word editor to fix things, which isn't fun.
 
@@ -75,7 +75,7 @@ This is still true, the keyword being "serviceable". Writing in Scrivener is an 
 
 Ulysses, on the other hand, is **pure markdown**:
 
-![](/img/shot_718.jpg)
+![](https://blog.bigmachine.io/img/shot_718.jpg)
 
 When you come from Word and Scrivener, this is _amazing_. I can't tell you how many times I have to drop into "invisibles" to correct some janky weird formatting/layout issue in both Word and Scrivener. Things get so utterly ugly that I have to stop writing to fix it, which really makes the writing process suck.
 
@@ -94,7 +94,7 @@ Apple Pages will open up a Word document, read the styling, and immediately show
 
 The winner for me is Vellum. Check this out:
 
-![](/img/shot_719.jpg)
+![](https://blog.bigmachine.io/img/shot_719.jpg)
 
 I was able to send my text directly from Ulysses into Vellum and this is the formatting I saw. It is _perfect_. A downside with Vellum is that it doesn't support syntax highlighting which was one of my requirements :(. Another downside is that the export themes are _slightly_ customizable, but that's about it. I don't mind it - it keeps me from going nuts.
 

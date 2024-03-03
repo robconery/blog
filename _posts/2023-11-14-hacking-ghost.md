@@ -21,7 +21,7 @@ It's wasn't all that hard to do and, moreover, it was kind of fun. One thing tha
 
 I have quite a few templates laying around, so I took one of them and made a blog theme that I like based on Bootstrap 5\. I also did something that I've wanted to do for years: **I wedged in a Vue application so people can watch the courses I've made**.
 
-Here's one that I just launched: [_The Imposter's Frontend Accelerator_](//course/accelerator/). Click around! I think it works pretty well so far, though there might be a few bugs here and there.
+Here's one that I just launched: [_The Imposter's Frontend Accelerator_](https://sales.bigmachine.io/accelerator/). I think it works pretty well so far, though there might be a few bugs here and there.
 
 Point is: Ghost is flexible enough that I could write up a Vue app, drop it into my theme, and show some courses! But there's a little more here too...
 
@@ -31,7 +31,7 @@ Ghost doesn't give you access to its database, unlike WordPress (thank god). Tha
 
 For this, I used [Supabase](https://supabase.com/). It's basically a "backend in a box" that runs on Postgres and for me, _say no more,_ I'm all over it. All of my business data is in there going back years and if you bought something from me, you're in there!
 
-![](/img/2023/11/screenshot_205.jpg)
+![](https://blog.bigmachine.io/img/2023/11/screenshot_205.jpg)
 
 One service that Supabase offers is user authentication. They do this using magic links, email/password, and social. This presents a problem with Ghost because Ghost provides authentication too - so how do you synchronize the two?
 
@@ -151,7 +151,7 @@ That's the easy part - the video app is a whole different deal!
 
 This is where things got tricky. I needed a literal single-page app with routing and data access to Supabase. I tried to just drop Vue into a template page, but the routing and other things quickly made a mess.
 
-![](/img/2023/11/screenshot_203.jpg)
+![](https://blog.bigmachine.io/img/2023/11/screenshot_203.jpg)
 
 To get around this, I created a standalone Vue app with the CSS for the template as part of it. I kept the directory for the Vue app _outside_ of the theme directory - in fact I put it in the root of my local Ghost instance.
 

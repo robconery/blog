@@ -53,7 +53,7 @@ So in 2012 I decided to give it a go and had a _six-figure sales month_. People 
 
 Anyway: every year I do something so this year **I decided to do gift cards for the books and video courses** I sell:
 
-[![](/img/2022/12/bip_1308.jpg)](https://shop.bigmachine.io/products/gift-card)
+[![](https://blog.bigmachine.io/img/2022/12/bip_1308.jpg)](https://shop.bigmachine.io/products/gift-card)
 
 Gift cards make things very easy
 

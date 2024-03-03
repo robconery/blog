@@ -26,7 +26,7 @@ OK, enough prevaricating. Here’s what I’ve done in the past with super simpl
 
 I like putting all my code inside of a `lib` directory, and then inside there I’ll create a a `pg` directory with specific connection things etc for Postgres. It looks like this:
 
-![](/img/shot_49.jpg)
+![](https://blog.bigmachine.io/img/shot_49.jpg)
 
 You’ll also notice I have a `.env` file, which is something that goes into every single project of mine. It’s a file that holds environmental variables that I’ll be using in my project. In this case, I _do not want_ my connection string hardcoded anywhere - so I pop it into a `.env` file where it’s loaded automatically by my shell (zshell and, for those interested, I use the `dotenv` plugin with [Oh-My-Zsh)](https://ohmyz.sh/).
 
@@ -193,7 +193,7 @@ docs.save("customers", {name: "Mavis", email: "mavis@test.com"})
   .finally(pg.shutDown);
 ```
 
-![](/img/shot_51.jpg)
+![](https://blog.bigmachine.io/img/shot_51.jpg)
 
 Well look at that would ya! It works a treat.
 
@@ -310,7 +310,7 @@ docs.find("customers", {email: "mavis@test.com"})
   .finally(pg.shutDown);
 ```
 
-![](/img/shot_52.jpg)
+![](https://blog.bigmachine.io/img/shot_52.jpg)
 
 Hey that’s pretty swell! You don’t need to use dedicated JSON operators to query a JSONB document in Postgres. If you’re comfortable with SQL, you can just execute a regular old query and it works just fine:
 

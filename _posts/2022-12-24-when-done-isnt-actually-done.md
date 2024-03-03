@@ -11,7 +11,7 @@ The title of this post is from Ernest Hemingway and it **describes the last 24 h
 
 One of my goals for my holiday break was to wrap up and ship out my next book/video production. I really liked this one! **It's all about Vue, Nuxt (the opinionated Vue framework) and Firebase** and is based entirely on my experience building my publishing site from scratch:
 
-[![](/img/2022/12/bip_1316.jpg)](https://bigmachine.io)
+[![](https://blog.bigmachine.io/img/2022/12/bip_1316.jpg)](https://bigmachine.io)
 
 I built this site during my vacation in August, _over a 3 week period_. I don't want to mislead you: **I know Nuxt very, very well** as I've built and shipped about 15 sites with it to date. Some for me, some for others - either way putting my site together was straightforward.
 

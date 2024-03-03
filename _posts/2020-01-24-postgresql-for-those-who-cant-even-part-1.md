@@ -44,7 +44,7 @@ Tooling for Postgres is both abundant and wanting. There is no clear cut answer 
 
 **Just playing around: Mac** If you’re on a Mac go get yourself a free copy of [Postico](https://eggerapps.at/postico/). It’s easy and you can quickly connect and start playing.
 
-![](/img/s_1FC55FF691E3C173A43C1C315DD0B563BE10884F81292ABAC9C59C8E67BDDA03_1579124251449_table-content-view.png)
+![](https://blog.bigmachine.io/img/s_1FC55FF691E3C173A43C1C315DD0B563BE10884F81292ABAC9C59C8E67BDDA03_1579124251449_table-content-view.png)
 
 **Just playing around: Windows (and Mac)**
 
@@ -52,17 +52,17 @@ There’s the free [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azur
 
 To hook up to Postgres, make sure you grab the [Postgres extension](https://docs.microsoft.com/en-us/sql/azure-data-studio/postgres-extension?view=sql-server-ver15). You can install it right from the IDE by clicking on the square thingies in the bottom left of the left-most pane.
 
-![](/img/s_1FC55FF691E3C173A43C1C315DD0B563BE10884F81292ABAC9C59C8E67BDDA03_1579124323609_image.png)
+![](https://blog.bigmachine.io/img/s_1FC55FF691E3C173A43C1C315DD0B563BE10884F81292ABAC9C59C8E67BDDA03_1579124323609_image.png)
 
 **Something substantial and you’re willing to pay for it (Windows and Mac)** My go-to tool for working with Postgres is [Navicat](https://www.navicat.com/en/products/navicat-for-postgresql). It’s a bit on the spendy side but you can do all kinds of cool things, including reports, charting, import/export, data modeling and more. I love this thing.
 
-![](/img/s_1FC55FF691E3C173A43C1C315DD0B563BE10884F81292ABAC9C59C8E67BDDA03_1579124634184_image.png)
+![](https://blog.bigmachine.io/img/s_1FC55FF691E3C173A43C1C315DD0B563BE10884F81292ABAC9C59C8E67BDDA03_1579124634184_image.png)
 
 Don’t know what to choose? Just download **Azure Data Studio** and let’s get to work!
 
 **Our first login** Let’s connect to our new shiny Postgres server. Open up Azure Data Studio and make sure you have the Postgres extension installed. You’ll know if you do because you’ll see the option to connect to PostgreSQL in the connection dialog:
 
-![](/img/s_1FC55FF691E3C173A43C1C315DD0B563BE10884F81292ABAC9C59C8E67BDDA03_1579209401730_shot_05.jpg)
+![](https://blog.bigmachine.io/img/s_1FC55FF691E3C173A43C1C315DD0B563BE10884F81292ABAC9C59C8E67BDDA03_1579209401730_shot_05.jpg)
 
 The server name is “localhost” and the Docker image comes with the login preset - “postgres” as the user name and “postgres” as the password.
 
@@ -72,11 +72,11 @@ We’ll go with the default database and, finally, name our connection “Local 
 
 If you’ve connected already, you might be wondering “what, exactly, am I connected to”? Good question Friendo! You’re connected to the default database, “postgres”:
 
-![](/img/s_1FC55FF691E3C173A43C1C315DD0B563BE10884F81292ABAC9C59C8E67BDDA03_1579209663733_shot_06.jpg)
+![](https://blog.bigmachine.io/img/s_1FC55FF691E3C173A43C1C315DD0B563BE10884F81292ABAC9C59C8E67BDDA03_1579209663733_shot_06.jpg)
 
 This is the admin playground, where you can do DBA stuff and feel rad. We’re going to use our connection to this database to create another one, where we’re going to drop some data. To do that, we need to write a new query. Click that button that says “New Query”:
 
-![](/img/s_1FC55FF691E3C173A43C1C315DD0B563BE10884F81292ABAC9C59C8E67BDDA03_1579209798287_shot_07.jpg)
+![](https://blog.bigmachine.io/img/s_1FC55FF691E3C173A43C1C315DD0B563BE10884F81292ABAC9C59C8E67BDDA03_1579209798287_shot_07.jpg)
 
 In the new query window add the following:
 
@@ -86,7 +86,7 @@ create database cassini;
 
 Now hit “F5” to run the query. You should see a success message like so:
 
-![](/img/s_1FC55FF691E3C173A43C1C315DD0B563BE10884F81292ABAC9C59C8E67BDDA03_1579209996613_shot_08.jpg)
+![](https://blog.bigmachine.io/img/s_1FC55FF691E3C173A43C1C315DD0B563BE10884F81292ABAC9C59C8E67BDDA03_1579209996613_shot_08.jpg)
 
 If you see a syntax error, check your SQL code and make sure there are no errors. You’ll also notice that nothing changed in the left information pane - there’s no “cassini” database! What gives!
 
@@ -96,7 +96,7 @@ Ease up Friendo! Just right click on the “Databases” folder and refresh - yo
 
 There’s [a whole lot of data](https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/Cassini/Cassini.html) you can download, but let’s keep things reasonable and go with the “Master Plan” - the dates, times and descriptions of everything Cassini did during it’s 20 year mission to Saturn. I trimmed it just a bit to bring the file size down, so if you want to play along you can [download the CSV from here](https://www.dropbox.com/s/fno2olahpdoh3r7/master_plan.csv?dl=0).
 
-![](/img/s_1FC55FF691E3C173A43C1C315DD0B563BE10884F81292ABAC9C59C8E67BDDA03_1579210762545_shot_09.jpg)
+![](https://blog.bigmachine.io/img/s_1FC55FF691E3C173A43C1C315DD0B563BE10884F81292ABAC9C59C8E67BDDA03_1579210762545_shot_09.jpg)
 
 We’ll load this gorgeous data in just one second. We have to create a table for it first! Let’s do that now by opening a new query window in Azure Data Explorer (which I hope you remember how to do). Make sure you’re connected to the “cassini” database, and then enter the following SQL:
 
@@ -151,7 +151,7 @@ The last line specifies our delimiter (which is a comma) and that there are colu
 
 Let’s make sure the data is there and looks right. Right-click on the table and select “Select top 1000 rows” and you should see something like this:
 
-![](/img/s_1FC55FF691E3C173A43C1C315DD0B563BE10884F81292ABAC9C59C8E67BDDA03_1579725726323_shot_24.jpg)
+![](https://blog.bigmachine.io/img/s_1FC55FF691E3C173A43C1C315DD0B563BE10884F81292ABAC9C59C8E67BDDA03_1579725726323_shot_24.jpg)
 
 Yay data! Before we do anything else, let’s add a primary key so I don’t freak out:
 
@@ -224,7 +224,7 @@ The last line in the `finally` block closes off the default connection pool, whi
 
 You can run the file using `node index.js` from the terminal, and you should see something like this:
 
-![](/img/s_1FC55FF691E3C173A43C1C315DD0B563BE10884F81292ABAC9C59C8E67BDDA03_1579728450821_shot_25.jpg)
+![](https://blog.bigmachine.io/img/s_1FC55FF691E3C173A43C1C315DD0B563BE10884F81292ABAC9C59C8E67BDDA03_1579728450821_shot_25.jpg)
 
 Glorious data! Notice it all comes back in lovely, formatted JSON, just as we like.
 

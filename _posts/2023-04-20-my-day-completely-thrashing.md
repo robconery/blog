@@ -29,7 +29,7 @@ I've made a lot of these things. **I know the mistakes, the wrong assumptions, t
 
 If all goes well, you'll end up with something that looks like this, which is a real, working site that I deployed a few months ago:
 
-![](/img/2023/04/bip_1798.jpg)
+![](https://blog.bigmachine.io/img/2023/04/bip_1798.jpg)
 
 That's the plan, anyway. But then again...
 
@@ -41,13 +41,13 @@ That's the plan, anyway. But then again...
 
 As I mention I'm 9 episodes in - around the 3.5 hour mark - and Vuetify landed a beauty right on my chin:
 
-![](/img/2023/04/bip_1813-1.jpg)
+![](https://blog.bigmachine.io/img/2023/04/bip_1813-1.jpg)
 
 What you're seeing here is the menu bar for a video course viewer (the app I'm making), with the last two icons (discussions and GitHub link) being repeated. More than that - the first four icons are shoved to the left about 180 pixels... _for no apparent reason_.
 
 The console had some generic Vue warnings regarding a "hydration mismatch" which are common and happen if you have invalid HTML, among other things. This is what it looks like:
 
-![](/img/2023/04/bip_1762.jpg)
+![](https://blog.bigmachine.io/img/2023/04/bip_1762.jpg)
 
 A most annoying Vue error
 
@@ -59,13 +59,13 @@ I tried recording a debug session but 45 minutes in I was swearing far more than
 
 During one of the thrashing moments I decided to change the way I was outputting the links
 
-![](/img/2023/04/image.png)
+![](https://blog.bigmachine.io/img/2023/04/image.png)
 
 Vuetify in action
 
 All of that `v-` stuff is Vuetify, specifically buttons and icons that have prebuilt styling. It looks great, when it works! Anyway - when I removed the `v-button` everything lined up, like magic:
 
-![](/img/2023/04/image-1.png)
+![](https://blog.bigmachine.io/img/2023/04/image-1.png)
 
 This is what it should look like.
 
@@ -73,7 +73,7 @@ Which told me there was something weird going on with regards to the DOM and my 
 
 This was a clue!
 
-![](/img/2023/04/image-2.png)
+![](https://blog.bigmachine.io/img/2023/04/image-2.png)
 
 **The repeated bits have dynamic links** which come from Pinia, the state store. The non-repeated bits have hard-coded values from the `href` tags, which you can tell because of the `:href` notation using the prepended colon.
 
@@ -81,11 +81,11 @@ If you write larger applications using a frontend framework it's generally a goo
 
 There are three parts to a Pinia store: the _state_ (aka reactive data), the _actions_ (methods that mutate state) and _getters_ (computed, read-only functions). Here's what my state looks like:
 
-![](/img/2023/04/image-3.png)
+![](https://blog.bigmachine.io/img/2023/04/image-3.png)
 
 The variable we care about here is `course`, which as you can see is defaulted to an empty object. I load up the course using an action called `setCourse`:
 
-![](/img/2023/04/image-4.png)
+![](https://blog.bigmachine.io/img/2023/04/image-4.png)
 
 I'm at the wireframing stage of development, which is why you see `stub` here - it's just fake data to get us off the ground. But the big realization came with the way I was setting `course`, which is outlined in red.
 
@@ -99,7 +99,7 @@ Makes sense, I suppose. Would be nice if it popped a warning about that but it w
 
 The fix becomes straightforward at this point:
 
-![](/img/2023/04/image-5.png)
+![](https://blog.bigmachine.io/img/2023/04/image-5.png)
 
 The fix
 
