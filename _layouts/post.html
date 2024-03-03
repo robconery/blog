@@ -1,15 +1,33 @@
 ---
 layout: null
 ---
+<h1 class="text-center text-3xl font-extrabold tracking-tight text-slate-900 dark:text-slate-200 md:text-4xl py-2 ">{{page.title}}</h1>
+<div class="mx-auto">
+  <p class="prose mt-4 text-slate-500 dark:text-slate-400 text-lg italic">{{page.summary}}</p>
+</div>
 
-<h1>{{page.title}}</h1>
-<p class="date">{{page.date | date: "%B %-d, %Y"}}</p>
-<ul class="categories">
-  {% for category in page.categories %}
-    <li class="category">{{category}}</li>
-  {% endfor %}
-</ul>
-<p class="lede">{{page.summary}}</p>
-<div class="content">
+<div class="mt-6">
+  <ul class="flex flex-wrap text-sm leading-6 -mt-6 -mx-5">
+    <li class="flex items-center font-medium whitespace-nowrap px-5 mt-6">
+      <img src="/images/my_avatar.png" alt="" class="mr-3 w-9 h-9 rounded-full bg-slate-50 dark:bg-slate-800" decoding="async">
+      <div class="text-sm leading-4">
+        <div class="text-slate-900 dark:text-slate-200">Rob Conery</div>
+        <div class="mt-1"><a href="https://twitter.com/robconery" class="text-sky-500 hover:text-sky-600 dark:text-sky-400">@robconery</a></div>
+      </div>
+    </li>
+  </ul>
+</div>
+<div class="text-sm leading-6 mt-4">
+  <dl>
+    <dt class="sr-only">Date</dt>
+    <dd class="top-0 inset-x-0 text-slate-700 dark:text-slate-400 italic">
+      <time>{{page.date | date: "%B %-d, %Y"}}</time>
+    </dd>
+  </dl>
+</div>
+
+
+<div class="mt-12 prose prose-slate dark:prose-dark">
   {{content}}
 </div>
+
