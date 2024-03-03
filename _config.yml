@@ -7,7 +7,7 @@ favicon: 'assets/img/me_icon.png'
 google_analytics: 'UA-85773-9'
 include: ["_pages"]
 #permalink: /:year/:month/:day/:title/
-permalink: /:categories/:title.json
+permalink: /:categories/:title
 
 # Authors
 authors:
