@@ -8,8 +8,7 @@ slug: "open-id-is-a-party-that-happened"
 categories: Opinion
 ---
 
-## It Seemed Like Such a Great Idea
-
+## It Seemed Like Such a Great Idea, Didn't It?
 
 I know the first thing you're going to think: "StackOverflow seems to have worked it just fine". I said this very thing about 12 times over the last year as I pounded my head against my desk, wondering what I was missing. James then said to me "really? when's the last time you logged in?"
 
@@ -17,7 +16,7 @@ So I head over to Stackoverflow and login using the Open ID I use for everything
 
 ![](https://blog.bigmachine.io/img/so_openid.png)
 
-James is laughing hysterically as I sputter... "What the FU**! You GOTTA be KIDDING me!" I don't have a ton of rep over there - but I spose it's enough to care about. In truth I haven't had to login over there in a very long time - I've just been really busy.
+James is laughing hysterically as I sputter... "What the FU\*\*! You GOTTA be KIDDING me!" I don't have a ton of rep over there - but I spose it's enough to care about. In truth I haven't had to login over there in a very long time - I've just been really busy.
 
 So I start going through the recovery process:
 
@@ -29,7 +28,7 @@ Honestly - I feel dumb about this. How could I possibly forget how I logged in? 
 
 As I sit there and grumble about emails and Open ID, Avery is in my ear saying "Dude you used a different provider". Not a chance - I don't have another Open ID as far as I can remember.
 
-*Oh shit. Right.*
+_Oh shit. Right._
 
 I remember that I once setup a MyOpenID account! That was years ago and I never use it ... but YES! It's coming back to me now... So I head over to MyOpenID and go to login and...
 
@@ -47,12 +46,12 @@ You never want to piss off your customer. You NEVER NEVER want to make them feel
 
 I caused this problem. I caused it because I'm making it too hard for the user to get into the sight - and that's really where the story ends for me. I don't care why, honestly. They don't have a problem with username/password - they need to use that for their Open ID provider anyway.
 
-Boil this down from a User's perspective:*User wants to watch a Tekpub flick, so they come to our site
+Boil this down from a User's perspective:\*User wants to watch a Tekpub flick, so they come to our site
 
- - User has to login, our Open ID system kicks them over to their provider
- - They enter the username/password for that system
- - They come back and they watch their flick (if they've remembered correctly)
- 
+- User has to login, our Open ID system kicks them over to their provider
+- They enter the username/password for that system
+- They come back and they watch their flick (if they've remembered correctly)
+
 As a developer I'm happy about this because I'm not storing credentials (which is a solved problem as far as I'm concerned). As a business owner I'm wondering why we need 4 steps to happiness. They enter their username/password anyway? What's the damn difference?
 
 ## Anatomy of a Authentication Nightmare
@@ -71,7 +70,7 @@ When sending a request to a provider for a user's credentials (after they've log
 
 So all was working well with Google - we were using the email to identify people. **And then they decided that UK folks would have their extension changed from "gmail.com" to "googlemail.com".**
 
-*And just like that, we are on our asses again.*
+_And just like that, we are on our asses again._
 
 ## The Dumbest Decision I've Ever Made
 
@@ -91,10 +90,9 @@ You don't want that ever. Not even once, not even for 10 seconds. We're very, ve
 
 RPX as a service has gone down 3 times in the last year. This last time (about 4 months ago) it was down for about 4 hours - effectively shutting our doors for us. This isn't a small provder - there are many, many, many businesses that rely on them to authenticate their users.
 
-It happens. Services go down and we are patient. As a developer and user I need to learn how to say that. As a business owner you can go f*** yourself if you think I'll use you again.
+It happens. Services go down and we are patient. As a developer and user I need to learn how to say that. As a business owner you can go f\*\*\* yourself if you think I'll use you again.
 
 ## Rolling Your Own
-
 
 I've thought about it - the problem is that we're committed now. RPX uses OAuth to talk to Twitter and some special sauce to talk to Facebook Connect. I'm not going to write that code - I'd rather deal with the outages.
 
@@ -104,7 +102,7 @@ I'm caught in the middle of this "user information warfare" as a business owner 
 
 ## The Solution
 
-Starting with our next release (coming in a few weeks) I'm weaving in a stronger presence for "traditional authentication". We already have the ability to sign up with username/password - but we're going to make that the *only* way to register for our site from now on.
+Starting with our next release (coming in a few weeks) I'm weaving in a stronger presence for "traditional authentication". We already have the ability to sign up with username/password - but we're going to make that the _only_ way to register for our site from now on.
 
 If you want, you can add Open ID to it moving forward. But no longer will my business be closed because Open ID gets flakey. I also want you, as our customer, NOT to feel stupid when you can't remember your login.
 
